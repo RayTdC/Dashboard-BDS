@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DA+STEAM)](https://git.io/typing-svg)
 
- <div align="center"><a href="#grupo">Perguntas Realizadas</a> &nbsp;&nbsp;</div>
+ <div align="center"><a href="#grupo">Vá ao fim</a> &nbsp;&nbsp;</div>
 <h4><strong>Projeto em squad, referente ao módulo 4, do curso de <strong>Desenvolvedor Web Full Stack</strong> do Resilia Educação, em parceria com o SENAC RJ.</strong></h4>
 
 
@@ -31,3 +31,6 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 <h1  align="center">Perguntas Realizadas</h1>
 
 <div align="center">
+  &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
+</div>
+
