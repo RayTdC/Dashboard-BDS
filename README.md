@@ -70,7 +70,7 @@ Select avg(preco)  from steam_main WHERE plataforma = 'mac';
 ```sh
 SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ```
-##Qual é a média de avaliações por plataformas Windows e Mac?
+## Qual é a média de avaliações por plataformas Windows e Mac?
 
 ```sh
 Select avg(avaliacoes_positivas)  from steam_main WHERE plataforma = 'mac';
