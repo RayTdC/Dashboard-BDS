@@ -33,6 +33,54 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 <h1  align="center">Perguntas Realizadas</h1>
 <br>
 
+## Quantos jogos existem na Steam?
+
+```sh
+SELECT COUNT(nome) FROM steam_main;
+
+```
+
+## Quais os primeiros jogos lançados na plataforma?
+
+```sh
+SELECT * FROM steam_main ORDER BY data_de_lancamento ASC LIMIT 5;
+```
+
+## Quais são os 7 jogos mais caros lançados na Steam?
+
+```sh
+SELECT * FROM steam_main ORDER BY preco DESC LIMIT 7;
+
+```
+## Quais jogos funcionam nas plataformas windows e somente mac? e windows e mac?
+
+```sh
+Select * from steam_main Where plataforma = 'Windows;mac';
+Select * from steam_main Where plataforma = 'mac';
+Select * from steam_main Where plataforma = 'Windows';
+```
+## Qual é a média de preço dos jogos para as plataformas Windows e Mac?
+
+```sh
+Select avg(preco)  from steam_main WHERE plataforma = 'windows';
+Select avg(preco)  from steam_main WHERE plataforma = 'mac';
+```
+## Quais os jogos mais bem avaliados da Steam ?
+
+```sh
+SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
+```
+##Qual é a média de avaliações por plataformas Windows e Mac?
+
+```sh
+Select avg(avaliacoes_positivas)  from steam_main WHERE plataforma = 'mac';
+Select avg(avaliacoes_positivas)  from steam_main WHERE plataforma = 'windows';
+```
+## Quais jogos mais jogados da Steam ?
+
+```sh
+SELECT * FROM steam_main ORDER BY media_tempo_jogado DESC LIMIT 10;
+```
 
 <div align="center" id="fim">
   &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
