@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DA+STEAM)](https://git.io/typing-svg)
 
- <div align="center" id="inicio"><a href="#grupo">Vá ao fim</a> &nbsp;&nbsp;</div>
+ <div align="center" id="inicio"><a href="#fim">Vá ao fim</a> &nbsp;&nbsp;</div>
 <h4><strong>Projeto em squad, referente ao módulo 4, do curso de <strong>Desenvolvedor Web Full Stack</strong> do Resilia Educação, em parceria com o SENAC RJ.</strong></h4>
 
 
