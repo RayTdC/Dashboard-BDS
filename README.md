@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FFsize=80&center=true&height=60&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DA+RESILIA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DA+STEAM)](https://git.io/typing-svg)
 
  
 <h1><strong>Steam</strong></h1>
