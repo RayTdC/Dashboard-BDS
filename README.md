@@ -52,7 +52,7 @@ SELECT * FROM steam_main ORDER BY data_de_lancamento ASC LIMIT 5;
 SELECT * FROM steam_main ORDER BY preco DESC LIMIT 7;
 
 ```
-## Quais jogos funcionam nas plataformas windows e somente mac? e windows e mac?
+## Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas?
 
 ```sh
 Select * from steam_main Where plataforma = 'Windows;mac';
