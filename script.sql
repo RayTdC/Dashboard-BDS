@@ -1,7 +1,7 @@
  create database steam;
  
  
- CREATE TABLE `jogo` (
+ CREATE TABLE `steam_main` (
   `id` int(11) DEFAULT NULL,
   `nome` text DEFAULT NULL,
   `data_de_lançamento` text DEFAULT NULL,
@@ -12,6 +12,6 @@
   `media_tempo_jogado` int(11) DEFAULT NULL,
   `preço` double DEFAULT NULL
 );
-alter 
+
 
 
