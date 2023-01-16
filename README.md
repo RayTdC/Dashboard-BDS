@@ -45,14 +45,17 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 ## Quantos jogos existem na Steam?
 ![image](https://user-images.githubusercontent.com/112560788/212587183-67a8980e-bf32-4ed2-9cc8-d1ea3611a316.png)
 
-##Retorno da consulta
-
-![image](https://user-images.githubusercontent.com/112560788/212599100-1f2be780-8d50-4387-b904-742df0431edd.png)
+<h3>Consulta mySQL:</h3>
 
 ```sh
 SELECT COUNT(nome) FROM steam_main;
 
 ```
+<h3>Retorno da consulta:</h3>
+
+![image](https://user-images.githubusercontent.com/112560788/212599100-1f2be780-8d50-4387-b904-742df0431edd.png)
+
+<br>
 
 ## Top 10 jogos mais caros lançados:
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
