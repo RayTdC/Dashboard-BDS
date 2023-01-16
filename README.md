@@ -81,6 +81,9 @@ Select * from steam_main Where plataforma = 'Windows';
 ## Top 10 jogos mais bem avaliados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
 
+##Retorno da consulta
+
+![image](https://user-images.githubusercontent.com/112560788/212600285-141df64a-d047-48c4-b2cf-9297b8e89c73.png)
 
 
 ```sh
