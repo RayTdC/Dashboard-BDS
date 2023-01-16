@@ -49,6 +49,11 @@ SELECT COUNT(nome) FROM steam_main;
 ## Top 10 jogos mais caros lançados:
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
 
+## Retorno da consulta
+
+![image](https://user-images.githubusercontent.com/112560788/212598922-dc2d7fd2-65dc-4dd3-922e-2f0c57b79717.png)
+
+
 ```sh
 SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
 ```
