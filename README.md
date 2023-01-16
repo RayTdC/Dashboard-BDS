@@ -22,8 +22,11 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   <h3>🧩 Montar uma apresentação:</h3> A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação.
  <br>
  
+
+
  <h1 id="linguagens">O Steam</h1> <h4>🕹️Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <br>
 ☁️O Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h4>
+
 
 ![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
 
@@ -33,7 +36,7 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   - [x] WampServer/Xampp
   - [x] Power Bi
   - [x] Prezi
-  - [x] Canva
+  - [x] Teams
 
 <h1  align="center">Perguntas Realizadas</h1>
 <br>
@@ -51,6 +54,11 @@ SELECT COUNT(nome) FROM steam_main;
 
 ## Top 10 jogos mais caros lançados:
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
+
+
+## Retorno da consulta
+
+![image](https://user-images.githubusercontent.com/112560788/212598922-dc2d7fd2-65dc-4dd3-922e-2f0c57b79717.png)
 
 
 
