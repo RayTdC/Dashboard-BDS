@@ -89,8 +89,7 @@ Consultar mySQL:
 SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ```
 
-
-##Retorno da consulta
+## Retorno da consulta 
 
 ![image](https://user-images.githubusercontent.com/112560788/212600285-141df64a-d047-48c4-b2cf-9297b8e89c73.png)
 
