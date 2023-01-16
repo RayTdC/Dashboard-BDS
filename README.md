@@ -90,7 +90,9 @@ Select * from steam_main Where plataforma = 'Windows';
 ```
 ## Retorno da consulta
 
-![image](https://user-images.githubusercontent.com/112560788/212663732-856575d1-2855-482f-b48f-77790a548a89.png)
+![image](https://raw.githubusercontent.com/RayTdC/Dashboard-BDS/main/retorno%20das%20consultas/cut/jogos_windows%26mac.png)
+![image](https://raw.githubusercontent.com/RayTdC/Dashboard-BDS/main/retorno%20das%20consultas/cut/jogos_mac.png) 
+![image](https://raw.githubusercontent.com/RayTdC/Dashboard-BDS/main/retorno%20das%20consultas/cut/jogos_windows.png)
 <br>
 
 ## Top 10 jogos mais bem avaliados da Steam ?
