@@ -26,6 +26,8 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
  
  <h2 id="linguagens">O Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Foi uma das primeiras de seu gênero a ser lançada e permite que consumidores comprem ou ativem jogos dentro do serviço.</h2>
 
+![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
+
  <h2 id="linguagens">Ferramentas utilizadas no projeto 📚</h2>
 
   - [x] MySQL
