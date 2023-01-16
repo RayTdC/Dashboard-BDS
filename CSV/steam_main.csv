@@ -1,0 +1,2161 @@
+"steam_appid";"nome";"data_de_lancamento";"plataforma";"generos";"avaliacoes_positivas";"avaliacoes_negativas";"media_tempo_jogado";"preco"
+10;"Counter-Strike";"2000-11-01";"windows;mac;linux";"Action";124534;3339;17612;7.19
+20;"Team Fortress Classic";"1999-04-01";"windows;mac;linux";"Action";3318;633;277;3.99
+30;"Day of Defeat";"2003-05-01";"windows;mac;linux";"Action";3416;398;187;3.99
+40;"Deathmatch Classic";"2001-06-01";"windows;mac;linux";"Action";1273;267;258;3.99
+50;"Half-Life: Opposing Force";"1999-11-01";"windows;mac;linux";"Action";5250;288;624;3.99
+60;"Ricochet";"2000-11-01";"windows;mac;linux";"Action";2758;684;175;3.99
+70;"Half-Life";"1998-11-08";"windows;mac;linux";"Action";27755;1100;1300;7.19
+80;"Counter-Strike: Condition Zero";"2004-03-01";"windows;mac;linux";"Action";12120;1439;427;7.19
+130;"Half-Life: Blue Shift";"2001-06-01";"windows;mac;linux";"Action";3822;420;361;3.99
+220;"Half-Life 2";"2004-11-16";"windows;mac;linux";"Action";67902;2419;691;7.19
+240;"Counter-Strike: Source";"2004-11-01";"windows;mac;linux";"Action";76640;3497;6842;7.19
+280;"Half-Life: Source";"2004-06-01";"windows;mac;linux";"Action";3767;1053;190;0.0
+300;"Day of Defeat: Source";"2010-07-12";"windows;mac;linux";"Action";10489;1210;1356;7.19
+320;"Half-Life 2: Deathmatch";"2004-11-01";"windows;mac;linux";"Action";6020;787;311;3.99
+340;"Half-Life 2: Lost Coast";"2005-10-27";"windows;mac;linux";"Action";5783;1020;46;0.0
+360;"Half-Life Deathmatch: Source";"2006-05-01";"windows;mac;linux";"Action";1362;473;102;0.0
+380;"Half-Life 2: Episode One";"2006-06-01";"windows;mac;linux";"Action";7908;517;281;5.79
+400;"Portal";"2007-10-10";"windows;mac;linux";"Action";51801;1080;288;7.19
+420;"Half-Life 2: Episode Two";"2007-10-10";"windows;mac;linux";"Action";13902;696;354;5.79
+440;"Team Fortress 2";"2007-10-10";"windows;mac;linux";"Action;Free to Play";515879;34036;8495;0.0
+500;"Left 4 Dead";"2008-11-17";"windows;mac";"Action";17951;948;897;7.19
+550;"Left 4 Dead 2";"2009-11-19";"windows;mac;linux";"Action";251789;8418;1615;7.19
+570;"Dota 2";"2013-07-09";"windows;mac;linux";"Action;Free to Play;Strategy";863507;142079;23944;0.0
+620;"Portal 2";"2011-04-18";"windows;mac;linux";"Action;Adventure";138220;1891;1102;7.19
+630;"Alien Swarm";"2010-07-19";"windows";"Action";17435;941;371;0.0
+730;"Counter-Strike: Global Offensive";"2012-08-21";"windows;mac;linux";"Action;Free to Play";2644404;402313;22494;0.0
+1002;"Rag Doll Kung Fu";"2005-10-12";"windows";"Indie";40;17;0;5.99
+1200;"Red Orchestra: Ostfront 41-45";"2006-03-14";"windows;mac;linux";"Action";1562;223;232;3.99
+1250;"Killing Floor";"2009-05-14";"windows;mac;linux";"Action";53710;2649;1328;14.99
+1300;"SiN Episodes: Emergence";"2006-05-10";"windows";"Action";468;61;0;7.19
+1500;"Darwinia";"2005-07-14";"windows;mac;linux";"Indie;Strategy";472;158;182;7.19
+1510;"Uplink";"2006-08-23";"windows;mac;linux";"Indie;Strategy";1602;152;65;6.99
+1520;"DEFCON";"2006-09-29";"windows;mac;linux";"Indie;Strategy";2057;344;80;7.19
+1530;"Multiwinia";"2008-09-19";"windows;mac";"Indie";368;75;121;7.19
+1600;"Dangerous Waters";"2006-02-07";"windows";"Strategy";140;44;0;22.99
+1610;"Space Empires IV Deluxe";"2006-02-07";"windows";"Strategy";112;26;0;6.99
+1630;"Disciples II: Rise of the Elves ";"2006-07-06";"windows";"Strategy";451;108;0;4.99
+1640;"Disciples II: Gallean's Return";"2006-07-06";"windows";"Strategy";490;152;9;4.99
+1670;"Iron Warriors: T - 72 Tank Command ";"2006-07-26";"windows";"Strategy";137;102;0;3.99
+1690;"Space Empires V";"2006-10-16";"windows";"Strategy";191;85;35;10.99
+1700;"Arx Fatalis";"2007-04-03";"windows";"RPG";671;106;11;2.99
+1840;"Source Filmmaker";"2012-07-10";"windows";"Animation & Modeling;Video Production";15083;1111;239;0.0
+1900;"Earth 2160";"2006-04-01";"windows;mac;linux";"Strategy";498;238;405;3.99
+1930;"Two Worlds Epic Edition";"2009-04-30";"windows;mac;linux";"RPG";2656;1055;484;6.99
+2100;"Dark Messiah of Might & Magic";"2006-10-25";"windows";"Action;RPG";4386;316;634;4.29
+2200;"Quake III Arena";"2007-08-03";"windows";"Action";1362;66;123;12.99
+2210;"Quake IV";"2011-08-04";"windows";"Action";891;171;36;12.99
+2270;"Wolfenstein 3D";"2007-08-03";"windows";"Action";1773;87;69;2.99
+2280;"Ultimate Doom";"2007-08-03";"windows";"Action";3705;257;125;3.99
+2290;"Final DOOM";"2007-08-03";"windows";"Action";573;82;120;3.99
+2300;"DOOM II";"2007-08-03";"windows";"Action";2517;182;90;3.99
+2310;"QUAKE";"2007-08-03";"windows";"Action";2618;136;167;3.99
+2320;"QUAKE II";"2007-08-03";"windows";"Action";1369;107;291;3.99
+2330;"QUAKE II Mission Pack: The Reckoning";"2007-08-03";"windows";"Action";65;12;32;2.49
+2340;"QUAKE II Mission Pack: Ground Zero";"2007-08-03";"windows";"Action";54;33;1;2.49
+2350;"QUAKE III: Team Arena";"2007-08-03";"windows";"Action";108;31;0;12.99
+2360;"HeXen: Beyond Heretic";"2007-08-03";"windows";"Action";249;26;50;2.99
+2370;"HeXen: Deathkings of the Dark Citadel";"2007-08-03";"windows";"Action";57;20;0;2.99
+2390;"Heretic: Shadow of the Serpent Riders";"2007-08-03";"windows";"Action";417;29;0;2.99
+2400;"The Ship: Murder Party";"2006-07-11";"windows";"Action;Indie;RPG";4819;792;233;0.0
+2450;"Bloody Good Time";"2010-10-29";"windows";"Action";662;204;193;4.29
+2500;"Shadowgrounds";"2006-05-08";"windows;mac";"Action";973;248;186;3.99
+2520;"Gumboy - Crazy Adventures™";"2006-12-19";"windows";"Casual;Indie";52;46;0;0.0
+2590;"Alpha Prime";"2007-11-07";"windows";"Action";610;523;0;2.99
+2600;"Vampire: The Masquerade - Bloodlines";"2007-03-22";"windows";"Action";6161;362;350;14.99
+2610;"GUN™";"2006-10-13";"windows";"Action";740;87;462;9.99
+2620;"Call of Duty®";"2006-10-13";"windows";"Action";1555;117;545;14.99
+2630;"Call of Duty® 2";"2006-10-13";"windows;mac";"Action";2434;236;750;14.99
+2640;"Call of Duty: United Offensive";"2006-10-13";"windows";"Action";490;97;0;14.99
+2710;"Act of War: Direct Action";"2008-03-12";"windows";"Action";180;33;0;1.99
+2720;"ThreadSpace: Hyperbol";"2007-07-12";"windows";"Action;Indie;Strategy";31;9;0;3.99
+2780;"ARMA: Combat Operations";"2008-03-12";"windows";"Action";145;77;0;5.99
+2800;"X2: The Threat";"2006-07-21";"windows";"Strategy";212;50;732;4.99
+2810;"X3: Reunion";"2006-07-21";"windows;mac;linux";"Strategy";282;113;831;9.99
+2820;"X3: Terran Conflict";"2008-10-16";"windows;mac;linux";"Action;Simulation;Strategy";1633;272;972;15.99
+2840;"X: Beyond the Frontier";"2010-10-08";"windows";"Simulation;Strategy";142;48;648;3.49
+2850;"X: Tension";"2010-10-08";"windows";"Simulation;Strategy";57;18;13;3.49
+2870;"X Rebirth";"2013-11-15";"windows;mac;linux";"Action;Simulation";2832;4032;1744;24.99
+2900;"688(I) Hunter/Killer";"2006-10-26";"windows";"Strategy";52;17;0;22.99
+2910;"Fleet Command";"2006-10-26";"windows";"Strategy";127;31;0;22.99
+2920;"Sub Command";"2006-10-26";"windows";"Strategy";33;14;0;22.99
+2990;"FlatOut 2™";"2006-12-21";"windows";"Racing";5438;343;293;5.99
+3010;"Xpand Rally";"2006-08-24";"windows";"Racing";139;39;939;3.99
+3020;"Call of Juarez™";"2007-11-08";"windows";"Action";793;198;46;8.59
+3050;"Xpand Rally Xtreme";"2008-10-08";"windows";"Racing";71;36;0;3.99
+3130;"Men of War: Red Tide";"2009-11-01";"windows";"Strategy";294;69;0;3.99
+3170;"King's Bounty: Armored Princess";"2009-11-19";"windows;mac";"RPG;Strategy";482;53;1422;7.99
+3230;"Genesis Rising";"2007-08-06";"windows";"Strategy";30;94;0;4.49
+3260;"Safecracker: The Ultimate Puzzle Adventure";"2007-08-29";"windows";"Adventure;Casual";256;172;1;4.49
+3270;"Painkiller Overdose";"2007-10-30";"windows";"Action";429;137;270;4.49
+3330;"Zuma Deluxe";"2006-08-30";"windows;mac";"Casual";437;37;267;4.25
+3410;"Heavy Weapon Deluxe";"2006-08-30";"windows";"Casual";71;28;0;4.25
+3480;"Peggle Deluxe";"2007-03-06";"windows;mac";"Casual";1106;66;214;4.25
+3483;"Peggle Extreme";"2007-09-11";"windows";"Casual";707;58;1;0.0
+3490;"Venice Deluxe";"2007-06-25";"windows";"Casual";10;2;0;4.25
+3500;"Mystery P.I.™ - The Lottery Ticket";"2007-10-16";"windows";"Casual";10;3;0;4.25
+3510;"Amazing Adventures The Lost Tomb™";"2007-12-13";"windows";"Casual";21;8;0;4.25
+3520;"Mystery P.I.™ - The Vegas Heist";"2008-06-05";"windows";"Casual";11;5;0;4.25
+3530;"Amazing Adventures Around the World";"2009-04-15";"windows";"Casual";23;7;0;4.25
+3540;"Peggle™ Nights";"2008-10-15";"windows;mac";"Casual";368;24;237;4.25
+3560;"Bejeweled Twist";"2008-11-18";"windows";"Strategy;Casual";98;18;0;4.25
+3570;"Mystery P.I.™ - The New York Fortune";"2009-01-28";"windows";"Casual";8;5;0;4.25
+3580;"The Wizard's Pen™";"2009-02-18";"windows";"Casual";15;3;0;4.25
+3590;"Plants vs. Zombies GOTY Edition";"2009-05-05";"windows;mac";"Strategy";14630;454;480;4.25
+3600;"Escape Rosecliff Island";"2009-04-15";"windows;mac";"Casual";97;57;0;4.25
+3610;"Mystery P.I. - Lost in Los Angeles";"2009-07-27";"windows";"Casual";8;3;0;4.25
+3620;"Zuma's Revenge!";"2009-09-15";"windows";"Action;Casual";435;28;0;4.25
+3700;"Sniper Elite";"2009-07-16";"windows";"Action";1181;377;262;5.59
+3710;"Judge Dredd: Dredd vs. Death";"2009-03-26";"windows";"Action";559;79;8;5.59
+3720;"Evil Genius";"2009-06-22";"windows";"Strategy";1847;95;287;6.99
+3730;"Aliens versus Predator Classic 2000";"2010-01-15";"windows";"Action";1434;219;20;3.99
+3800;"Advent Rising";"2006-09-14";"windows";"Action";260;71;0;7.19
+3810;"BloodRayne";"2006-09-14";"windows";"Action";369;110;111;6.99
+3820;"BloodRayne 2";"2006-09-14";"windows";"Action";259;103;771;6.99
+3830;"Psychonauts";"2006-10-11";"windows;mac;linux";"Action";8204;456;491;6.99
+3900;"Sid Meier's Civilization® IV";"2006-10-25";"windows;mac";"Strategy";1394;129;49;9.99
+3910;"Sid Meier's Civilization® III Complete";"2006-10-25";"windows";"Strategy";2578;405;1166;2.99
+3920;"Sid Meier's Pirates!";"2005-07-11";"windows";"RPG";2641;193;296;5.99
+3960;"Shattered Union";"2006-10-25";"windows";"Strategy";39;49;0;2.99
+3980;"CivCity: Rome";"2007-04-06";"windows";"Strategy";184;65;0;5.99
+3990;"Civilization IV®: Warlords";"2007-04-06";"windows;mac";"Strategy";121;20;0;2.99
+4000;"Garry's Mod";"2006-11-29";"windows;mac;linux";"Indie;Simulation";363721;16433;12422;6.99
+4100;"Poker Superstars II";"2006-10-05";"windows";"Casual;Strategy;Indie";4;5;0;5.99
+4230;"RACE - The WTCC Game";"2006-11-24";"windows";"Racing";119;43;0;25.99
+4290;"RACE: Caterham Expansion";"2007-06-22";"windows";"Racing";4;2;0;3.99
+4300;"RoboBlitz";"2006-11-07";"windows";"Action;Indie";43;14;78;5.99
+4420;"Silverfall";"2007-03-20";"windows";"RPG";57;36;0;7.99
+4460;"City Life 2008";"2008-09-29";"windows";"Simulation;Strategy";77;41;0;6.99
+4470;"Silverfall: Earth Awakening";"2008-07-18";"windows";"RPG";31;17;0;7.99
+4500;"S.T.A.L.K.E.R.: Shadow of Chernobyl";"2007-03-20";"windows";"Action;RPG";11039;570;493;9.99
+4520;"Full Spectrum Warrior";"2007-07-17";"windows";"Action;Strategy";106;60;124;7.99
+4530;"Full Spectrum Warrior: Ten Hammers";"2007-07-17";"windows";"Action;Strategy";76;38;1;4.99
+4560;"Company of Heroes - Legacy Edition";"2007-07-17";"windows";"Violent;Action;Strategy";4772;320;175;0.0
+4570;"Warhammer® 40,000: Dawn of War® - Game of the Year Edition";"2007-08-07";"windows";"Strategy";3485;206;309;9.99
+4580;"Warhammer® 40,000: Dawn of War® - Dark Crusade";"2007-08-07";"windows";"Strategy";2849;133;543;9.99
+4700;"Total War: MEDIEVAL II – Definitive Edition";"2006-11-15";"windows;mac;linux";"Strategy";10270;605;469;0.0
+4720;"Condemned: Criminal Origins";"2012-10-29";"windows";"Action";1243;221;312;9.99
+4760;"Rome: Total War™ - Collection";"2007-08-28";"windows";"Strategy";7806;562;897;8.99
+4770;"Rome: Total War™ - Alexander";"2007-08-28";"windows";"Strategy";331;131;33;8.99
+4780;"Medieval II: Total War™ Kingdoms";"2007-08-28";"windows;mac;linux";"Strategy";585;30;0;0.0
+4800;"Heroes of Annihilated Empires";"2006-11-22";"windows";"Strategy";259;46;0;9.99
+4850;"Cossacks: Back to War";"2010-09-02";"windows";"Strategy";1081;143;1134;3.99
+4870;"Cossacks: Art of War";"2011-08-26";"windows";"Strategy";102;22;0;3.99
+4880;"Cossacks: European Wars";"2011-08-26";"windows";"Strategy";170;66;1;3.99
+4890;"Cossacks II: Battle for Europe";"2011-08-26";"windows";"Strategy";246;138;71;3.99
+4900;"Zen of Sudoku";"2006-12-14";"windows";"Casual;Indie";122;17;0;0.0
+4920;"Natural Selection 2";"2012-10-30";"windows;linux";"Action;Indie;Strategy";8372;1498;627;6.99
+6000;"STAR WARS™ Republic Commando™";"2009-07-08";"windows";"Action";6392;379;369;7.19
+6010;"Indiana Jones® and the Fate of Atlantis™";"2009-07-08";"windows;mac";"Adventure";597;31;419;4.79
+6020;"STAR WARS™ Jedi Knight - Jedi Academy™";"2009-09-16";"windows;mac";"Action";5684;330;1254;7.19
+6030;"STAR WARS™ Jedi Knight II - Jedi Outcast™";"2009-09-16";"windows;mac";"Action";2020;219;127;7.19
+6040;"The Dig®";"2009-07-08";"windows;mac";"Adventure";575;55;801;4.79
+6060;"Star Wars: Battlefront 2 (Classic, 2005)";"2009-07-08";"windows";"Action";29149;2425;618;7.19
+6080;"Thrillville®: Off the Rails™";"2009-07-08";"windows";"Action;Adventure;Racing;Simulation;Strategy";272;38;17;7.19
+6090;"Armed and Dangerous®";"2009-07-08";"windows";"Action";115;18;100;4.79
+6120;"Shank";"2010-10-25";"windows;mac;linux";"Action;Indie";1749;227;255;7.19
+6200;"Ghost Master®";"2006-12-21";"windows";"Strategy";1025;164;21;3.99
+6210;"Vegas: Make It Big™";"2006-12-21";"windows";"Strategy";91;33;0;3.99
+6220;"FlatOut";"2007-02-02";"windows";"Racing";1977;186;78;4.99
+6250;"Making History: The Calm & the Storm";"2007-03-13";"windows";"Action;Strategy";460;107;0;3.99
+6270;"Ducati World Championship";"2007-09-21";"windows";"Racing";77;100;0;3.99
+6300;"Dreamfall: The Longest Journey";"2007-01-12";"windows";"Adventure;RPG";588;89;20;13.99
+6310;"The Longest Journey";"2007-05-01";"windows";"Action;Adventure;RPG";1152;102;14;5.99
+6370;"Bloodline Champions";"2011-10-28";"windows";"Action;Free to Play;Massively Multiplayer";1365;226;70;0.0
+6400;"Joint Task Force";"2007-03-27";"windows";"Action;Strategy";100;15;0;5.79
+6420;"Nexus - The Jupiter Incident";"2007-07-03";"windows";"Indie;Simulation;Strategy";474;90;0;6.99
+6510;"Lost Planet™: Extreme Condition";"2007-06-29";"windows";"Action;Adventure";569;178;74;9.99
+6550;"Devil May Cry® 3 Special Edition";"2007-06-12";"windows";"Action";1462;1052;90;15.99
+6800;"Commandos: Behind Enemy Lines";"2007-03-15";"windows";"Action";1561;213;63;3.99
+6810;"Commandos: Beyond the Call of Duty";"2007-03-15";"windows";"Action";404;71;12;3.99
+6830;"Commandos 2: Men of Courage";"2007-03-15";"windows";"Action";1333;238;201;3.99
+6840;"Commandos 3: Destination Berlin";"2007-03-15";"windows";"Action";421;265;14;3.99
+6850;"Hitman 2: Silent Assassin";"2007-03-15";"windows";"Action";1514;260;63;8.29
+6860;"Hitman: Blood Money";"2007-03-15";"windows";"Action";5864;391;435;9.29
+6870;"Battlestations: Midway";"2007-03-15";"windows";"Action";316;113;0;4.99
+6880;"Just Cause";"2007-03-15";"windows";"Action";1732;846;20;4.99
+6900;"Hitman: Codename 47";"2007-03-15";"windows";"Action";1186;450;62;7.19
+6910;"Deus Ex: Game of the Year Edition";"2007-03-29";"windows";"Action";6242;347;324;4.99
+6920;"Deus Ex: Invisible War";"2007-03-29";"windows";"Action";649;433;24;4.99
+6980;"Thief: Deadly Shadows";"2007-03-29";"windows";"Action";1135;210;254;6.99
+7000;"Tomb Raider: Legend";"2007-03-29";"windows";"Action;Adventure";1656;243;714;4.99
+7010;"Project: Snowblind";"2007-03-29";"windows";"Action";175;61;0;3.99
+7020;"Rogue Trooper";"2007-03-29";"windows";"Action";248;15;0;6.99
+7110;"Jade Empire™: Special Edition";"2007-02-27";"windows";"RPG";809;279;0;8.99
+7200;"Trackmania United Forever Star Edition";"2008-04-16";"windows";"Racing";963;55;4774;25.99
+7210;"Runaway, A Road Adventure";"2007-03-14";"windows";"Adventure";236;90;14;6.99
+7220;"Runaway, The Dream of The Turtle";"2007-03-14";"windows";"Adventure";86;65;0;6.99
+7260;"Loki";"2007-10-05";"windows";"RPG";69;54;0;6.99
+7340;"Azada";"2010-04-21";"windows";"Casual;Indie";8;4;0;6.99
+7510;"X-Blades";"2009-04-30";"windows;mac;linux";"Nudity;Violent;Action;Adventure;RPG";1566;981;313;6.99
+7520;"Two Worlds II HD";"2011-02-03";"windows;mac";"Nudity;Violent;RPG";3054;2051;327;14.99
+7530;"Two Worlds II Castle Defense";"2011-06-14";"windows;mac";"Strategy";153;194;320;6.99
+7600;"Sid Meier's Railroads!";"2007-05-04";"windows;mac";"Strategy";1114;570;165;5.99
+7610;"Railroad Tycoon 3";"2007-05-04";"windows";"Strategy";355;153;46;5.99
+7620;"Railroad Tycoon II Platinum";"2007-05-04";"windows";"Strategy";420;82;1244;2.99
+7650;"X-COM: Terror From the Deep";"2007-05-04";"windows";"Strategy";385;32;66;2.99
+7660;"X-COM: Apocalypse";"2008-09-04";"windows";"Strategy";417;53;18;2.99
+7730;"X-COM: Interceptor";"2008-09-04";"windows";"Strategy";57;54;0;2.99
+7760;"X-COM: UFO Defense";"2008-09-04";"windows";"Strategy";2165;136;2235;2.99
+7770;"X-COM: Enforcer";"2008-09-04";"windows";"Strategy";146;138;0;2.99
+7830;"Men of War™";"2009-05-06";"windows";"Strategy";1664;257;0;3.99
+7840;"Death Track®: Resurrection";"2009-05-06";"windows";"Racing";34;50;0;1.99
+7860;"NecroVision";"2009-05-20";"windows";"Action";539;270;113;3.99
+7940;"Call of Duty® 4: Modern Warfare®";"2007-11-12";"windows;mac";"Action";8725;821;1417;19.99
+8000;"Tomb Raider: Anniversary";"2007-06-05";"windows";"Action;Adventure";1964;389;239;6.99
+8080;"Kane and Lynch: Dead Men™";"2007-12-13";"windows";"Action";1223;724;209;4.99
+8100;"Conflict: Denied Ops";"2008-02-08";"windows";"Action";89;103;0;3.99
+8140;"Tomb Raider: Underworld";"2008-11-21";"windows";"Action;Adventure";1779;594;313;6.99
+8170;"Battlestations Pacific";"2009-05-13";"windows";"Action;Strategy";1028;542;132;6.99
+8190;"Just Cause 2";"2010-03-23";"windows";"Action;Adventure";33636;3231;519;9.99
+8310;"Bone: Out From Boneville";"2008-06-17";"windows";"Adventure";78;71;0;0.0
+8320;"Bone: The Great Cow Race";"2008-06-17";"windows";"Adventure";44;33;0;0.0
+8330;"Telltale Texas Hold ‘Em";"2008-06-17";"windows";"Casual";69;77;0;1.99
+8340;"Strong Bad's Cool Game for Attractive People: Season 1";"2008-12-18";"windows;mac";"Adventure";218;25;0;22.99
+8400;"Geometry Wars: Retro Evolved";"2007-06-18";"windows";"Casual";583;62;109;2.99
+8500;"EVE Online";"2010-12-15";"windows;mac";"Action;Free to Play;Massively Multiplayer;RPG;Strategy";8317;2832;5123;0.0
+8600;"RACE 07";"2007-10-15";"windows";"Racing";1684;348;1636;2.49
+8790;"GTR 2 FIA GT Racing Game";"2012-12-12";"windows";"Racing;Simulation;Sports";174;16;0;4.99
+8800;"Civilization IV: Beyond the Sword";"2007-07-24";"windows;mac";"Strategy";1396;66;108;5.99
+8870;"BioShock Infinite";"2013-03-25";"windows;mac;linux";"Action";79442;3846;614;19.99
+8880;"Freedom Force";"2009-05-29";"windows";"RPG;Strategy";197;150;16;2.99
+8890;"Freedom Force vs. the Third Reich";"2009-05-29";"windows";"RPG;Strategy";121;28;23;2.99
+8930;"Sid Meier's Civilization® V";"2010-09-23";"windows;mac;linux";"Strategy";129030;5565;4760;19.99
+8970;"Axel & Pixel";"2010-10-06";"windows";"Indie";35;14;0;3.49
+9000;"Spear of Destiny";"2007-08-03";"windows";"Action";200;36;0;2.49
+9010;"Return to Castle Wolfenstein";"2007-08-03";"windows";"Action";3084;276;32;3.99
+9030;"QUAKE Mission Pack 2: Dissolution of Eternity";"2007-08-03";"windows";"Action";143;15;88;2.49
+9040;"QUAKE Mission Pack 1: Scourge of Armagon";"2007-08-03";"windows";"Action";205;13;129;2.49
+9050;"DOOM 3";"2007-08-03";"windows";"Action";2633;376;362;0.0
+9060;"HeXen II";"2007-08-03";"windows";"Action";173;39;10;2.99
+9160;"Master Levels for Doom II";"2007-08-03";"windows";"Action";310;69;7;0.0
+9180;"Commander Keen";"2007-08-03";"windows";"Action";737;51;145;2.99
+9200;"RAGE";"2011-10-03";"windows";"Action";9394;2882;559;7.99
+9310;"Warhammer® 40,000: Dawn of War® – Winter Assault";"2007-08-07";"windows";"Strategy";606;76;213;9.99
+9340;"Company of Heroes: Opposing Fronts";"2007-09-24";"windows";"Action;Strategy";579;52;79;9.99
+9350;"Supreme Commander";"2011-09-28";"windows";"Strategy";1065;162;306;8.99
+9420;"Supreme Commander: Forged Alliance";"2011-09-28";"windows";"Strategy";4969;174;803;8.99
+9450;"Warhammer® 40,000: Dawn of War® - Soulstorm";"2008-03-07";"windows";"Strategy";4887;286;1433;9.99
+9460;"Frontlines™: Fuel of War™";"2008-02-29";"windows";"Action";378;229;154;9.99
+9480;"Saints Row 2";"2009-01-07";"windows;linux";"Action";9442;2881;322;9.99
+9500;"Gish";"2007-07-20";"windows;mac";"Indie";160;94;23;5.99
+9710;"Desperados 2: Cooper's Revenge";"2008-03-12";"windows";"Action";42;54;0;6.99
+9760;"Act of War: High Treason";"2008-03-12";"windows";"Action";157;38;0;1.99
+9800;"Death to Spies";"2008-03-12";"windows";"Action;Adventure";428;145;64;3.99
+9850;"Codename: Panzers - Cold War";"2009-05-06";"windows";"Simulation;Strategy";82;56;0;13.99
+9880;"Champions Online";"2011-06-14";"windows";"Free to Play;Massively Multiplayer;RPG";2081;823;12952;0.0
+9900;"Star Trek Online";"2012-01-31";"windows";"Free to Play;Massively Multiplayer;RPG";7639;2391;2514;0.0
+9940;"Blade Kitten";"2014-05-22";"windows";"Action;Adventure";746;149;222;1.99
+9960;"Haunted House™";"2010-09-28";"windows";"Adventure";9;13;0;4.79
+9970;"Star Raiders";"2011-05-11";"windows";"Action";5;24;0;6.99
+9980;"The UnderGarden";"2010-11-10";"windows";"Casual";48;24;23;4.99
+10090;"Call of Duty: World at War";"2008-11-18";"windows";"Action";19595;1483;2331;19.99
+10100;"King's Quest™ Collection";"2009-07-23";"windows";"Adventure";125;32;10;14.99
+10110;"Space Quest™ Collection";"2009-07-23";"windows";"Adventure";143;42;10;9.99
+10120;"Aces of the Galaxy™";"2009-07-23";"windows";"Action;Casual";14;16;0;6.99
+10130;"TimeShift™";"2009-07-23";"windows";"Action";623;159;0;9.99
+10140;"3D Ultra™ Minigolf Adventures";"2009-07-23";"windows";"Sports";50;28;0;6.99
+10150;"Prototype™";"2009-06-12";"windows";"Action;Adventure";3702;904;645;14.99
+10180;"Call of Duty®: Modern Warfare® 2";"2009-11-11";"windows;mac";"Action";30006;2826;999;19.99
+10220;"Postal III";"2012-02-17";"windows";"Action";641;1101;411;8.99
+10230;"Dead Mountaineer's Hotel";"2011-10-28";"windows";"Adventure";25;63;0;5.59
+10240;"A Stroke of Fate: Operation Valkyrie";"2011-10-28";"windows";"Adventure";15;10;0;4.99
+10250;"PT Boats: Knights of the Sea";"2011-10-28";"windows";"Simulation";12;12;0;4.99
+10260;"PT Boats: South Gambit";"2011-10-28";"windows";"Simulation";5;10;0;4.99
+10270;"Disciples III: Reincarnation";"2014-02-14";"windows";"RPG;Strategy";618;252;889;9.99
+10460;"The Club™";"2008-02-20";"windows";"Action";47;50;0;9.99
+10500;"Total War: EMPIRE – Definitive Edition";"2009-03-04";"windows;mac;linux";"Strategy";14928;1719;3176;19.99
+10680;"Aliens vs. Predator™";"2010-02-16";"windows";"Action";9448;1186;170;9.99
+11020;"TrackMania Nations Forever";"2008-04-16";"windows";"Racing";8252;1244;902;0.0
+11040;"Sherlock Holmes - Nemesis";"2008-08-07";"windows";"Adventure;RPG";114;43;0;6.99
+11050;"Dracula Origin";"2008-08-07";"windows";"Adventure";94;45;0;6.99
+11130;"Sherlock Holmes: The Mystery of the Mummy";"2009-08-06";"windows";"Adventure";59;130;0;0.0
+11140;"Sherlock Holmes: The Awakened - Remastered Edition";"2009-08-06";"windows";"Adventure";178;49;0;6.99
+11150;"Sherlock Holmes: The Silver Earring";"2009-08-06";"windows";"Adventure";98;54;0;6.99
+11190;"Sherlock Holmes versus Jack the Ripper";"2009-12-23";"windows";"Adventure;RPG";300;94;0;6.99
+11200;"Shadowgrounds Survivor";"2007-11-14";"windows;mac";"Action";328;239;355;6.99
+11230;"Gumboy Tournament";"2008-05-19";"windows";"Casual;Indie;Racing";351;142;46;1.79
+11240;"Space Trader: Merchant Marine";"2008-10-23";"windows";"Action;Indie;Strategy";299;310;15;3.99
+11250;"Pacific Storm";"2008-06-24";"windows";"Simulation;Strategy";20;9;0;5.59
+11260;"Pacific Storm Allies";"2008-08-18";"windows";"Simulation;Strategy";78;56;0;5.59
+11280;"Penguins Arena: Sedna's World";"2008-12-18";"windows;mac";"Action;Casual;Indie";902;129;91;4.79
+11330;"Obulis";"2009-03-19";"windows";"Casual;Indie";586;130;41;3.99
+11340;"Larva Mortus";"2009-03-19";"windows";"Action;Indie";523;161;76;3.99
+11360;"Chains";"2009-07-01";"windows;mac";"Indie";433;148;36;3.99
+11450;"Overlord™";"2009-11-12";"windows;mac;linux";"RPG";3439;276;304;3.49
+11480;"Soldiers: Heroes of World War II";"2014-07-03";"windows";"Strategy";273;61;0;3.99
+11560;"Maelstrom: The Battle for Earth Begins";"2009-02-13";"windows";"Strategy";69;44;0;3.49
+11590;"Hospital Tycoon";"2009-02-13";"windows";"Simulation";175;301;119;3.49
+12100;"Grand Theft Auto III";"2008-01-04";"windows";"Action";4718;750;98;5.99
+12110;"Grand Theft Auto: Vice City";"2011-01-10";"windows";"Action";9817;819;209;5.99
+12120;"Grand Theft Auto: San Andreas";"2008-01-04";"windows";"Action";26877;3243;807;9.99
+12130;"Manhunt";"2008-01-04";"windows";"Action";816;433;99;5.99
+12140;"Max Payne";"2008-01-04";"windows";"Action";3926;435;316;5.99
+12150;"Max Payne 2: The Fall of Max Payne";"2008-01-04";"windows";"Action";2506;172;175;5.99
+12170;"Grand Theft Auto";"2008-01-04";"windows";"Action";199;30;7;0.0
+12180;"Grand Theft Auto 2";"2008-01-04";"windows";"Action";184;17;3;0.0
+12200;"Bully: Scholarship Edition";"2008-10-21";"windows";"Action;Adventure";8504;1764;319;9.99
+12210;"Grand Theft Auto IV";"2008-12-02";"windows";"Action;Adventure";35240;18926;1255;19.99
+12220;"Grand Theft Auto: Episodes from Liberty City";"2010-04-12";"windows";"Action";6401;2345;508;14.99
+12310;"Culpa Innata";"2008-01-18";"windows";"RPG;Casual;Adventure";57;14;0;6.99
+12320;"Sacred Gold";"2008-07-09";"windows";"Action;RPG";1489;319;337;6.99
+12330;"Darkstar One";"2008-02-13";"windows";"Action";256;59;0;6.99
+12340;"Jack Keane";"2008-06-27";"windows";"Adventure";46;27;0;6.99
+12360;"FlatOut: Ultimate Carnage";"2008-08-26";"windows";"Racing";1967;394;37;16.99
+12390;"Exodus from the Earth ";"2008-10-24";"windows";"Action";51;44;0;10.99
+12420;"Perimeter 2: New Earth";"2009-02-10";"windows";"Strategy";12;41;0;10.99
+12430;"SlamIt Pinball Big Score";"2009-02-23";"windows";"Casual";31;69;2;3.99
+12440;"Ankh 2: Heart of Osiris ";"2009-06-16";"windows";"Adventure";23;17;0;10.99
+12450;"Ankh 3: Battle of the Gods";"2009-06-16";"windows";"Adventure";12;8;0;10.99
+12460;"BC Kings";"2009-06-16";"windows";"Strategy";85;76;0;3.99
+12470;"Port Royale 2";"2009-06-16";"windows";"Strategy";174;95;203;2.99
+12480;"9th Company: Roots Of Terror";"2009-12-03";"windows";"Strategy";86;67;0;6.99
+12500;"PuzzleQuest: Challenge of the Warlords";"2008-01-29";"windows";"Casual";561;80;52;6.99
+12510;"Prison Tycoon 3™: Lockdown";"2008-01-29";"windows";"Strategy";18;89;0;6.99
+12520;"18 Wheels of Steel: American Long Haul";"2008-01-29";"windows";"Racing";245;111;0;6.99
+12530;"Hunting Unlimited™ 2008";"2008-01-29";"windows";"Action;Adventure;Strategy";29;9;0;4.99
+12540;"Mahjongg Investigations: Under Suspicion";"2008-07-29";"windows";"Casual";21;6;0;5.99
+12560;"Ride! Carnival Tycoon";"2008-07-29";"windows";"Simulation";15;26;0;4.99
+12590;"Sprint Cars Road to Knoxville";"2008-07-29";"windows";"Racing";25;24;0;4.99
+12600;"Midnight Outlaw: 6 Hours to SunUp";"2008-07-29";"windows";"Racing";10;27;0;4.99
+12640;"Drakensang";"2009-03-09";"windows";"RPG";238;72;0;6.99
+12670;"Mission Runway";"2009-07-17";"windows";"Simulation";14;6;0;4.99
+12710;"Overlord™: Raising Hell";"2009-11-12";"windows;mac;linux";"RPG";946;75;446;6.99
+12770;"Rise of the Argonauts";"2009-01-07";"windows";"RPG";365;178;88;4.99
+12790;"Damnation";"2009-05-22";"windows";"Action;Adventure";132;182;0;6.99
+12810;"Overlord II";"2009-06-24";"windows;mac;linux";"RPG";2116;306;197;6.99
+12830;"Operation Flashpoint: Dragon Rising";"2009-10-08";"windows";"Action";1024;580;413;6.99
+13000;"Ninja Reflex: Steamworks Edition";"2008-03-21";"windows";"Casual;Indie";48;4;121;3.99
+13140;"America's Army 3";"2009-06-17";"windows";"Action";1515;723;12;0.0
+13200;"Unreal 2: The Awakening";"2008-03-17";"windows";"Action";240;100;682;8.99
+13210;"Unreal Tournament 3 Black";"2009-03-05";"windows";"Action";2414;278;542;13.99
+13230;"Unreal Tournament 2004: Editor's Choice Edition";"2004-03-17";"windows";"Action";2211;66;414;8.99
+13240;"Unreal Tournament: Game of the Year Edition";"2008-03-17";"windows";"Action";2134;65;565;5.99
+13250;"Unreal Gold";"2008-03-17";"windows";"Action";1228;132;67;5.99
+13500;"Prince of Persia: Warrior Within™";"2009-08-27";"windows";"Action;Adventure";657;101;307;8.59
+13520;"Far Cry®";"2008-04-01";"windows";"Action";3099;609;126;8.59
+13530;"Prince of Persia: The Two Thrones™";"2009-08-27";"windows";"Action;Adventure";365;109;205;8.59
+13540;"Tom Clancy's Rainbow Six® Vegas";"2008-04-09";"windows";"Action";371;106;0;8.59
+13560;"Tom Clancy's Splinter Cell®";"2008-04-01";"windows";"Action";900;147;28;4.29
+13570;"Tom Clancy's Splinter Cell Chaos Theory®";"2009-08-27";"windows";"Action";1777;140;22;8.59
+13580;"Tom Clancy's Splinter Cell Double Agent®";"2009-02-13";"windows";"Action";356;454;0;8.59
+13600;"Prince of Persia®: The Sands of Time";"2009-08-27";"windows";"Action;Adventure";831;122;167;8.59
+13620;"Tom Clancy's Ghost Recon® Desert Siege™";"2008-07-15";"windows";"Action";34;2;2;4.29
+15000;"Tom Clancy's Rainbow Six Lockdown™";"2009-08-27";"windows";"Action";80;79;20;4.29
+15080;"Rayman Raving Rabbids™";"2008-06-13";"windows";"Action;Adventure";239;80;29;4.29
+15100;"Assassin's Creed™: Director's Cut Edition";"2008-04-09";"windows";"Action;Adventure";5743;1162;360;8.59
+15120;"Tom Clancy's Rainbow Six® Vegas 2";"2008-04-16";"windows";"Action";2582;456;1349;8.59
+15130;"Beyond Good and Evil™";"2008-05-13";"windows";"Action;Adventure";1823;186;355;4.29
+15160;"Petz® Horsez® 2";"2009-08-27";"windows";"Simulation";76;38;0;4.29
+15170;"Heroes of Might & Magic V";"2008-05-13";"windows";"Strategy";1258;183;396;8.59
+15190;"Brothers in Arms: Road to Hill 30™";"2008-05-13";"windows";"Action";624;100;69;4.29
+15200;"Silent Hunter®: Wolves of the Pacific";"2009-08-27";"windows";"Simulation";234;128;134;8.59
+15210;"Silent Hunter® III";"2008-06-13";"windows";"Simulation";685;113;0;4.29
+15240;"Silent Hunter®: Wolves of the Pacific U-Boat Missions";"2009-08-27";"windows";"Simulation";70;24;0;4.29
+15270;"Cold Fear™";"2008-05-13";"windows";"Action";272;40;0;4.29
+15300;"Tom Clancy's Ghost Recon®";"2008-07-15";"windows";"Action";536;45;476;8.59
+15320;"IL-2 Sturmovik: 1946";"2008-06-13";"windows";"Simulation";1287;185;1812;8.69
+15370;"Heroes of Might & Magic V: Tribes of the East";"2008-10-10";"windows";"Strategy";759;66;6679;8.59
+15380;"Heroes of Might & Magic V: Hammers of Fate";"2008-10-10";"windows";"Strategy";84;21;19;8.59
+15390;"Brothers in Arms: Hell's Highway™";"2008-10-08";"windows";"Action";823;98;346;8.59
+15400;"Harvest: Massive Encounter";"2009-01-23";"windows;mac;linux";"Strategy;Indie";89;21;0;5.79
+15500;"The Wonderful End of the World";"2008-07-17";"windows";"Indie;Casual";402;135;0;6.99
+15520;"AaAaAA!!! - A Reckless Disregard for Gravity";"2009-09-03";"windows";"Action;Indie;Sports";547;103;151;6.99
+15560;"AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome";"2011-11-23";"windows;mac;linux";"Action;Indie;Sports";747;252;136;6.99
+15620;"Warhammer 40,000: Dawn of War II";"2009-02-18";"windows;mac;linux";"Strategy";5626;755;628;14.99
+15700;"Oddworld: Abe's Oddysee®";"2008-08-28";"windows";"Adventure";2739;442;387;1.99
+15710;"Oddworld: Abe's Exoddus®";"2008-08-28";"windows";"Adventure";806;48;67;1.99
+15740;"Oddworld: Munch's Oddysee";"2010-12-20";"windows";"Action;Adventure;Strategy";437;155;3;3.99
+15750;"Oddworld: Stranger's Wrath HD";"2010-12-20";"windows";"Action;Adventure;Strategy";759;139;98;6.99
+15800;"Planet Busters";"2008-06-30";"windows";"Indie;Casual";1;1;0;5.99
+15900;"7 Wonders II";"2008-06-10";"windows";"Casual";92;29;0;6.99
+15910;"Luxor Amun Rising";"2008-06-10";"windows";"Casual";6;3;0;5.99
+15920;"Luxor 2";"2008-06-10";"windows";"Casual";7;14;0;5.99
+15930;"Luxor 3";"2008-06-10";"windows";"Casual";52;14;102;5.99
+15960;"Little Farm";"2008-06-10";"windows";"Casual";73;35;0;5.99
+15970;"Luxor";"2008-06-10";"windows;mac";"Casual";29;14;0;5.99
+16000;"Discovery! A Seek and Find Adventure";"2008-07-29";"windows";"Casual";20;29;0;6.99
+16020;"Samantha Swift and the Hidden Roses of Athena";"2008-10-31";"windows";"Casual";30;23;0;5.99
+16030;"7 Wonders: Treasures of Seven";"2008-11-14";"windows";"Casual";57;21;0;6.99
+16040;"Luxor: Quest for the Afterlife ";"2008-12-15";"windows";"Casual";29;14;0;5.99
+16060;"Samantha Swift and the Golden Touch";"2009-04-29";"windows";"Casual";26;25;0;5.99
+16100;"Virtual Villagers: A New Home";"2008-05-12";"windows";"Casual;Simulation";20;7;0;5.99
+16110;"Virtual Villagers: The Lost Children";"2008-05-12";"windows";"Casual;Simulation";11;3;0;5.99
+16120;"Plant Tycoon";"2008-05-12";"windows";"Casual;Simulation";48;5;0;5.99
+16130;"Fish Tycoon";"2008-05-12";"windows";"Casual;Simulation";35;8;0;5.99
+16180;"Virtual Villagers - The Secret City";"2008-05-28";"windows";"Casual;Simulation";32;7;0;5.99
+16200;"Virtual Families";"2009-05-06";"windows";"Casual;Simulation";20;7;0;7.49
+16450;"F.E.A.R. 2: Project Origin";"2009-02-12";"windows";"Action";3274;509;301;9.99
+16500;"Chaos Theory";"2008-05-22";"windows";"Casual;Indie";10;1;0;1.99
+16600;"Trials 2: Second Edition";"2008-05-28";"windows";"Indie;Racing;Sports";169;33;382;5.99
+16620;"Monster Trucks Nitro ";"2009-01-29";"windows;mac";"Indie;Racing;Sports";21;13;0;16.99
+16710;"Insecticide Part 1";"2008-07-01";"windows";"Action;Adventure";308;110;264;0.79
+16720;"Velvet Assassin";"2009-05-01";"windows;mac";"Action";1219;832;9;1.69
+16730;"Legendary";"2008-12-01";"windows";"Action";1095;1000;90;1.69
+16810;"Sid Meier's Civilization IV: Colonization";"2008-09-23";"windows;mac";"Strategy";330;95;1;9.99
+16900;"GROUND BRANCH";"2018-08-14";"windows";"Action;Indie;Early Access";599;143;0;15.49
+17080;"Tribes: Ascend";"2012-06-27";"windows";"Action;Free to Play";6470;1738;128;0.0
+17100;"Children of the Nile: Enhanced Edition";"2008-07-08";"windows";"Strategy;Simulation";180;38;0;5.99
+17120;"Children of the Nile: Alexandria";"2008-09-22";"windows";"Strategy;Simulation";54;13;0;1.49
+17140;"Hinterland";"2008-09-30";"windows";"RPG;Strategy";113;38;0;6.99
+17180;"Mosby's Confederacy";"2008-11-19";"windows";"Strategy";15;6;0;6.99
+17300;"Crysis";"2008-09-17";"windows";"Action";6075;1277;313;9.99
+17330;"Crysis Warhead®";"2008-09-17";"windows";"Action";1694;312;18;7.99
+17390;"SPORE™";"2008-12-19";"windows";"Simulation";15101;2014;1142;14.99
+17410;"Mirror's Edge™";"2009-01-14";"windows";"Action;Adventure";17880;2341;260;9.99
+17430;"Need for Speed Undercover";"2008-12-19";"windows";"Action;Racing";2351;1081;916;9.99
+17440;"SPORE™ Creepy & Cute Parts Pack";"2008-12-19";"windows";"Simulation";481;100;171;9.99
+17450;"Dragon Age: Origins";"2009-11-05";"windows";"RPG";6207;468;2061;14.99
+17460;"Mass Effect";"2008-12-19";"windows";"Action;RPG";10107;666;612;7.99
+17470;"Dead Space";"2009-01-09";"windows";"Action";9136;1049;295;14.99
+17480;"Command & Conquer: Red Alert 3";"2009-01-08";"windows";"Strategy";4390;855;575;9.99
+17500;"Zombie Panic! Source";"2008-10-03";"windows;linux";"Action;Free to Play;Indie";5267;914;948;0.0
+17570;"Pirates, Vikings, and Knights II";"2010-02-12";"windows;mac;linux";"Action;Free to Play;Indie";3839;582;117;0.0
+17710;"Nuclear Dawn";"2011-09-26";"windows;mac;linux";"Action;Strategy";1675;441;971;6.99
+17740;"Empires Mod";"2008-07-28";"windows;linux";"Action;Free to Play;Strategy";663;115;701;0.0
+18000;"Precipice of Darkness, Episode One";"2008-05-21";"windows";"Adventure;RPG";394;42;7;5.99
+18020;"Precipice of Darkness, Episode Two";"2008-11-07";"windows";"Adventure;RPG";118;23;0;5.99
+18040;"DeathSpank";"2010-10-25";"windows;mac";"Action;Indie;RPG";540;34;1008;7.99
+18050;"DeathSpank: Thongs of Virtue";"2010-11-30";"windows;mac";"Action;RPG;Indie";125;18;0;7.99
+18070;"The Baconing";"2011-08-31";"windows;mac";"Action;Adventure;RPG";149;37;14;9.99
+18120;"Unstoppable Gorg";"2012-01-19";"windows;mac";"Action;Casual;Indie;Strategy";190;48;37;6.99
+18300;"Spectraball";"2008-10-20";"windows;mac;linux";"Casual;Indie";297;101;126;3.99
+18400;"Crazy Machines 2";"2008-06-20";"windows";"Casual;Strategy";97;108;66;7.19
+18420;"Crazy Machines";"2008-12-12";"windows";"Casual;Strategy";98;24;0;6.99
+18470;"Helldorado";"2009-04-30";"windows";"Strategy";53;23;0;6.99
+18480;"Mata Hari";"2009-07-29";"windows";"Adventure";53;37;1;3.99
+18500;"Defense Grid: The Awakening";"2008-12-08";"windows";"Indie;Strategy";3307;113;455;6.99
+18600;"Mayhem Intergalactic";"2009-01-22";"windows";"Indie;Strategy";12;10;0;6.99
+18700;"And Yet It Moves";"2009-04-02";"windows;mac;linux";"Action;Indie";735;327;17;6.99
+18820;"Zero Gear";"2010-01-12";"windows";"Action;Indie;Racing;Sports";652;173;373;3.99
+19000;"Silent Hill Homecoming";"2009-03-02";"windows";"Adventure";480;437;58;17.99
+19020;"Puzzle Chronicles";"2010-06-25";"windows";"Casual;RPG";16;8;0;7.99
+19030;"Rocket Knight";"2010-06-25";"windows";"Action;Adventure";70;22;0;11.99
+19080;"Biozone";"2010-06-25";"windows";"Action;Adventure;Casual";1;13;0;7.99
+19200;"Tank Universal";"2008-08-21";"windows";"Action;Indie";226;190;39;3.99
+19320;"Space Ark";"2012-03-16";"windows";"Action;Indie;Casual";6;8;0;3.99
+19500;"Eternity's Child";"2008-07-31";"windows";"Adventure;Indie";16;47;9;2.99
+19800;"Brothers in Arms: Earned in Blood™";"2008-10-10";"windows";"Action";303;53;164;4.29
+19830;"Tom Clancy's Rainbow Six® 3 Gold";"2008-09-25";"windows";"Action";811;71;43;4.29
+19900;"Far Cry® 2: Fortune's Edition";"2008-10-22";"windows";"Action";5292;1739;257;8.59
+19980;"Prince of Persia®";"2008-12-10";"windows";"Action;Adventure";948;266;305;8.59
+20200;"Galactic Bowling";"2008-10-21";"windows";"Indie;Casual;Sports";6;10;0;13.99
+20510;"S.T.A.L.K.E.R.: Clear Sky";"2008-09-15";"windows";"Action;RPG";5550;903;716;7.99
+20530;"Red Faction";"2009-08-05";"windows";"Action";1327;151;79;4.99
+20540;"Company of Heroes: Tales of Valor";"2009-04-08";"windows";"Strategy";1337;101;226;9.99
+20550;"Red Faction II";"2009-08-06";"windows";"Action;Strategy";354;313;0;4.99
+20570;"Warhammer® 40,000: Dawn of War® II Chaos Rising";"2010-03-11";"windows;mac;linux";"Strategy";1645;164;186;14.99
+20700;"Starscape";"2008-11-03";"windows";"Action;Indie;Strategy";50;15;12;5.99
+20710;"Mr. Robot";"2008-11-03";"windows";"Action;Indie;Strategy";55;12;14;5.99
+20820;"Shatter";"2010-03-15";"windows;mac;linux";"Action;Indie";963;64;31;6.99
+20900;"The Witcher: Enhanced Edition Director's Cut";"2008-09-16";"windows;mac";"Action;RPG";26380;4217;773;6.99
+20920;"The Witcher 2: Assassins of Kings Enhanced Edition";"2012-04-16";"windows;mac;linux";"RPG";36427;4710;838;14.99
+21000;"LEGO® Batman™: The Videogame";"2008-09-29";"windows";"Action;Adventure";1050;242;490;14.99
+21010;"Watchmen: The End is Nigh";"2009-03-04";"windows";"Action";227;120;0;3.99
+21030;"Watchmen: The End is Nigh Part 2";"2009-07-29";"windows";"Action";97;51;0;3.99
+21090;"F.E.A.R.";"2010-05-21";"windows";"Action";6371;438;389;35.96
+21100;"F.E.A.R. 3";"2011-06-21";"windows";"Action";5349;2030;310;12.99
+21130;"LEGO® Harry Potter: Years 1-4";"2010-06-25";"windows";"Action;Adventure";1672;460;518;9.99
+21300;"Gravitron 2";"2008-09-30";"windows";"Indie;Casual";19;8;0;2.99
+21400;"Project Aftermath";"2008-10-03";"windows";"Strategy;Action;Indie";10;5;0;4.79
+21500;"Pyroblazer®";"2008-11-13";"windows";"Racing";5;3;0;4.99
+21640;"Flock!";"2009-04-07";"windows";"Casual;Strategy";110;34;0;3.49
+21660;"Street Fighter® IV";"2009-07-07";"windows";"Action";295;126;0;13.99
+21670;"Bionic Commando";"2009-07-28";"windows";"Action;Adventure";649;247;20;6.49
+21680;"Bionic Commando: Rearmed";"2009-07-28";"windows";"Action";453;287;15;6.49
+21690;"Resident Evil™ 5/ Biohazard 5®";"2009-09-15";"windows";"Action;Adventure";9250;1618;868;13.99
+21780;"Driver® Parallel Lines";"2009-02-13";"windows";"Racing";367;46;0;8.59
+21800;"Tom Clancy's EndWar™";"2009-02-25";"windows";"Strategy";276;108;384;8.59
+21980;"Call of Juarez®: Bound in Blood";"2009-07-02";"windows";"Action";1121;232;13;8.59
+22000;"World of Goo";"2008-10-13";"windows;mac;linux";"Indie";3455;237;194;6.99
+22100;"Mount & Blade";"2008-11-03";"windows";"Indie;RPG";3205;291;415;7.99
+22120;"Penumbra: Black Plague Gold Edition";"2009-01-23";"windows;mac;linux";"Nudity;Gore;Action;Adventure;Indie";1396;79;188;0.0
+22130;"Hearts of Iron 2 Complete";"2009-01-23";"windows";"Strategy";220;48;0;9.99
+22180;"Penumbra Overture";"2009-03-06";"windows;mac;linux";"Gore;Action;Adventure;Indie";1660;164;37;0.0
+22200;"Zeno Clash";"2009-04-21";"windows";"Action;Indie";1980;356;307;6.99
+22230;"Rock of Ages";"2011-09-07";"windows";"Action;Indie;Racing;Strategy";2604;244;235;6.99
+22300;"Fallout 3";"2008-10-28";"windows";"RPG";9921;2709;588;7.99
+22310;"Rogue Warrior";"2009-12-01";"windows";"Action";466;240;29;3.99
+22320;"The Elder Scrolls III: Morrowind® Game of the Year Edition";"2009-06-16";"windows";"RPG";9571;540;1135;12.99
+22330;"The Elder Scrolls IV: Oblivion® Game of the Year Edition";"2009-06-16";"windows";"RPG";13827;826;1307;12.99
+22350;"BRINK";"2011-05-09";"windows";"Action;Free to Play";3493;2331;181;0.0
+22370;"Fallout 3: Game of the Year Edition";"2009-12-17";"windows";"RPG";17742;4495;1242;14.99
+22380;"Fallout: New Vegas";"2010-10-21";"windows";"Action;RPG";66756;3149;2485;7.99
+22450;"Hunted: The Demon’s Forge™";"2011-06-02";"windows";"Action;Adventure";498;213;28;3.99
+22500;"Spectromancer";"2009-02-11";"windows";"Strategy";125;19;0;5.99
+22600;"Worms Reloaded";"2010-08-26";"windows;mac;linux";"Strategy";2478;430;327;14.99
+22610;"Alien Breed: Impact";"2010-06-03";"windows";"Action";776;307;7;6.99
+22650;"Alien Breed 2: Assault";"2010-09-22";"windows";"Action";478;226;96;6.99
+22670;"Alien Breed 3: Descent";"2010-11-17";"windows";"Action";242;90;1;6.99
+23150;"Fluttabyes";"2010-04-20";"windows";"Casual;Indie";13;5;0;1.59
+23300;"Yosumin!™";"2009-05-26";"windows";"Casual";102;64;0;3.99
+23380;"Gyromancer";"2009-11-18";"windows";"RPG";124;113;73;3.99
+23400;"Imperium Romanum Gold Edition";"2008-11-25";"windows";"Simulation;Strategy";191;45;102;7.99
+23420;"Europa Universalis: Rome - Gold Edition ";"2008-12-18";"windows";"Strategy";123;52;4975;7.99
+23450;"Grand Ages: Rome";"2009-03-05";"windows";"Simulation;Strategy";354;138;319;6.99
+23460;"Ceville";"2009-02-27";"windows";"Action;Adventure;Strategy";83;19;0;4.79
+23490;"Tropico 3";"2009-11-13";"windows";"Simulation;Strategy";1338;176;291;7.99
+23500;"Puzzle Quest: Galactrix";"2009-02-24";"windows";"Casual;RPG";120;136;0;6.99
+23530;"Earth Defense Force: Insect Armageddon";"2011-12-14";"windows";"Action";731;95;253;6.99
+23600;"Depths of Peril";"2010-11-23";"windows;mac;linux";"Indie;RPG;Strategy";69;24;0;6.99
+23700;"Puzzle Kingdoms";"2009-04-27";"windows";"Casual";139;102;175;10.99
+24010;"Train Simulator 2019";"2015-09-17";"windows";"Simulation";8573;5336;287;34.99
+24200;"DC Universe™ Online";"2011-11-02";"windows";"Action;Adventure;Free to Play;Massively Multiplayer;RPG";10138;2654;2990;0.0
+24240;"PAYDAY™ The Heist";"2011-10-20";"windows";"Action";34645;2533;444;10.99
+24400;"King Arthur - The Role-playing Wargame";"2009-11-24";"windows";"RPG;Strategy";307;113;6;7.99
+24410;"Crusaders: Thy Kingdom Come";"2009-10-08";"windows";"Strategy";13;11;0;6.99
+24420;"Aquaria";"2008-12-15";"windows;linux";"Indie";1008;133;48;6.99
+24460;"King Arthur: Fallen Champions";"2011-09-16";"windows";"RPG;Strategy";13;20;13;3.99
+24480;"King Arthur II: The Role-Playing Wargame";"2012-01-27";"windows";"RPG;Strategy";188;169;46;7.99
+24640;"Trainz: Classic Cabon City";"2010-09-01";"windows";"Simulation";14;29;0;14.99
+24650;"Trainz Settle and Carlisle";"2010-10-01";"windows";"Simulation";13;17;0;14.99
+24670;"Trainz™ Simulator 12";"2011-06-08";"windows";"Simulation";498;364;31;7.19
+24720;"SPORE™ Galactic Adventures";"2009-06-26";"windows";"Action;Simulation";1943;453;1905;9.99
+24740;"Burnout Paradise: The Ultimate Box";"2009-03-12";"windows";"Racing";9739;1487;431;9.99
+24780;"SimCity™ 4 Deluxe Edition";"2010-07-20";"windows;mac";"Simulation;Strategy";3110;959;228;9.99
+24790;"Command & Conquer 3: Tiberium Wars";"2009-11-13";"windows";"Strategy";2292;295;646;9.99
+24800;"Command & Conquer: Red Alert 3 - Uprising";"2009-10-06";"windows";"Strategy";1449;362;136;9.99
+24810;"Command & Conquer 3: Kane's Wrath";"2009-11-13";"windows";"Strategy";1070;76;0;9.99
+24840;"Medal of Honor: Airborne";"2009-10-06";"windows";"Action";1725;461;28;9.99
+24870;"Need for Speed: Shift";"2009-10-06";"windows";"Racing";1101;415;339;9.99
+24960;"Battlefield: Bad Company™ 2";"2010-03-02";"windows";"Action";23093;3877;1200;14.99
+24980;"Mass Effect 2";"2010-01-28";"windows";"RPG";10675;542;1087;19.99
+25000;"Overgrowth";"2017-10-16";"windows;mac;linux";"Action;Indie";3200;1315;777;22.99
+25010;"Lugaru HD";"2010-10-08";"windows;mac;linux";"Action";321;98;13;7.99
+25500;"Cricket Revolution";"2009-10-28";"windows";"Indie;Simulation;Sports";63;50;0;1.99
+25600;"Eschalon: Book I";"2009-02-10";"windows;mac;linux";"Indie;RPG";167;25;0;0.0
+25620;"Eschalon: Book II";"2010-07-12";"windows;mac;linux";"Indie;RPG";58;12;0;4.79
+25700;"Madballs in Babo:Invasion ";"2009-09-17";"windows;mac";"Indie";198;38;54;3.99
+25800;"Europa Universalis III Complete";"2009-02-04";"windows;mac";"Strategy";1191;245;736;9.99
+25830;"Knights of Honor";"2009-02-04";"windows";"Strategy";1018;89;35;7.49
+25850;"Elven Legacy";"2009-04-07";"windows";"RPG;Strategy";76;29;27;3.99
+25890;"Hearts of Iron III";"2009-08-07";"windows;mac";"Strategy";3298;992;809;7.99
+25900;"King's Bounty: The Legend";"2009-05-01";"windows;mac";"RPG;Strategy";1290;139;356;4.99
+25910;"Supreme Ruler 2020 Gold";"2009-07-09";"windows";"Strategy";138;36;400;6.99
+25930;"East India Company";"2009-07-31";"windows";"Strategy";45;48;0;7.99
+25980;"Majesty 2";"2009-09-17";"windows";"Simulation;Strategy";305;130;0;7.99
+25990;"Majesty Gold HD";"2009-09-04";"windows";"Strategy;Simulation";326;20;72;7.99
+26000;"The Maw";"2009-03-09";"windows";"Action;Indie";161;36;14;8.99
+26300;"Drug Wars";"2009-03-17";"windows";"Action;Indie";13;31;0;3.99
+26800;"Braid";"2009-04-10";"windows;mac;linux";"Casual;Indie;Strategy";6529;386;178;10.99
+26900;"Crayon Physics Deluxe";"2009-05-06";"windows;mac";"Casual;Indie";668;109;20;15.99
+27000;"The Path";"2009-03-18";"windows;mac";"Adventure;Indie";502;177;49;6.99
+27020;"The Graveyard";"2009-03-09";"windows;mac;linux";"Indie;Simulation";305;199;0;3.99
+27050;"Fatale";"2009-11-04";"windows;mac";"Adventure;Casual;Indie";53;44;0;4.99
+27200;"Summer Athletics";"2009-04-02";"windows";"Sports";14;10;0;15.99
+27330;"Blacklight: Tango Down";"2010-07-14";"windows";"Action";132;209;129;0.79
+27400;"Dangerous High School Girls in Trouble!™";"2009-02-23";"windows;mac";"RPG;Indie;Casual";111;63;105;14.99
+27600;"Mevo and The Grooveriders";"2009-03-20";"windows";"Indie;Casual";23;2;0;5.99
+27800;"Space Giraffe";"2009-03-19";"windows";"Indie";36;17;0;6.99
+27810;"Gridrunner Revolution";"2010-02-22";"windows";"Indie";36;9;9;5.99
+27900;"Twin Sector";"2009-09-16";"windows";"Action;Adventure";88;150;0;3.99
+27920;"Booster Trooper";"2010-04-23";"windows";"Action;Indie";91;94;10;1.69
+27940;"Dead Horde";"2011-07-27";"windows";"Action;Indie";206;406;82;4.79
+28000;"Kane & Lynch 2: Dog Days";"2010-08-17";"windows";"Action";2822;1919;282;7.99
+29120;"Yumsters 2: Around the World";"2009-11-12";"windows";"Indie;Casual";53;26;0;3.99
+29130;"Musaic Box";"2009-03-19";"windows";"Indie;Casual";178;12;0;3.99
+29160;"Blueberry Garden";"2009-06-01";"windows;mac;linux";"Adventure;Indie";96;28;9;3.99
+29180;"Osmos";"2009-08-18";"windows;mac;linux";"Indie;Casual";857;105;27;6.99
+29800;"Caster";"2009-03-19";"windows;mac";"Action;Adventure;Casual;Indie;RPG;Strategy";3277;868;120;0.99
+29900;"Dark Sector";"2009-03-24";"windows";"Action";337;96;0;6.99
+31270;"Puzzle Agent";"2010-07-01";"windows;mac";"Adventure;Casual";1574;214;69;3.99
+31300;"Tunnel Rats";"2009-05-15";"windows";"Action";11;19;0;15.99
+31800;"Nancy Drew®: Danger by Design";"2009-10-10";"windows";"Adventure";15;9;0;5.19
+31810;"Nancy Drew®: Last Train to Blue Moon Canyon";"2009-10-10";"windows";"Adventure";50;4;0;5.19
+31820;"Nancy Drew®: The Haunted Carousel";"2009-10-10";"windows";"Adventure";35;6;0;5.19
+31830;"Nancy Drew®: Curse of Blackmoor Manor";"2009-10-10";"windows";"Adventure";66;7;0;5.19
+31840;"Nancy Drew®: Danger on Deception Island";"2009-10-10";"windows";"Adventure";32;2;0;5.19
+31850;"Nancy Drew®: Ghost Dogs of Moon Lake";"2009-10-10";"windows";"Adventure";34;4;0;5.19
+31860;"Nancy Drew®: Legend of the Crystal Skull";"2009-07-17";"windows";"Adventure";24;3;0;5.19
+31870;"Nancy Drew® Dossier: Lights, Camera, Curses!";"2009-07-17";"windows";"Adventure;Casual";10;12;0;5.19
+31880;"Nancy Drew®: Secret of the Old Clock";"2009-10-10";"windows";"Adventure";28;2;0;5.19
+31890;"Nancy Drew®: Secret of the Scarlet Hand";"2009-10-10";"windows";"Action";20;3;0;5.19
+31900;"Nancy Drew®: The Creature of Kapu Cave";"2009-07-17";"windows";"Adventure";19;7;0;5.19
+31910;"Nancy Drew®: The Haunting of Castle Malloy";"2009-07-17";"windows";"Adventure";26;6;0;5.19
+31920;"Nancy Drew®: The Phantom of Venice";"2009-07-17";"windows";"Adventure";19;6;0;5.19
+31930;"Nancy Drew®: The White Wolf of Icicle Creek";"2009-07-17";"windows";"Adventure";27;9;0;5.19
+31980;"Nancy Drew®: Ransom of the Seven Ships";"2009-07-21";"windows";"Adventure";18;9;0;5.19
+32000;"Raycatcher";"2009-04-17";"windows";"Indie;Casual";0;13;0;3.99
+32110;"LUXOR: Mah Jong";"2009-07-13";"windows;mac";"Casual";43;13;0;5.99
+32120;"Chainz 2: Relinked";"2009-07-13";"windows";"Casual";24;18;0;6.99
+32140;"Midnight Mysteries";"2009-09-28";"windows";"Adventure;Casual";89;40;0;5.99
+32150;"Everyday Genius: SquareLogic";"2009-10-21";"windows";"Casual;Indie;Strategy";303;6;0;3.99
+32160;"Zombie Bowl-o-Rama";"2009-10-15";"windows";"Sports;Casual";244;44;0;6.99
+32200;"Metal Drift";"2009-10-22";"windows";"Action;Indie;Racing;Sports";81;45;91;6.99
+32310;"Indiana Jones® and the Last Crusade™";"2009-07-08";"windows;mac";"Adventure";121;32;97;4.79
+32330;"LEGO® Indiana Jones™: The Original Adventures";"2009-07-08";"windows";"Action;Adventure";305;87;0;15.49
+32340;"LOOM™";"2009-07-08";"windows;mac";"Adventure";306;41;14;4.79
+32350;"STAR WARS™ Starfighter™";"2009-07-08";"windows";"Action;Simulation";221;235;6;4.79
+32360;"The Secret of Monkey Island: Special Edition";"2009-07-15";"windows";"Adventure";2156;115;58;7.19
+32370;"STAR WARS™ - Knights of the Old Republic™";"2009-09-05";"windows;mac";"Adventure;RPG";11569;1590;660;7.19
+32380;"STAR WARS™ Jedi Knight: Dark Forces II";"2009-09-16";"windows";"Action";777;315;141;4.79
+32390;"STAR WARS™ Jedi Knight - Mysteries of the Sith™";"2009-09-16";"windows";"Action";366;192;30;2.09
+32400;"STAR WARS™ - Dark Forces";"2009-09-16";"windows;mac";"Action";1501;171;99;4.79
+32410;"Lucidity™";"2009-10-07";"windows";"Casual";37;16;0;4.79
+32420;"STAR WARS™: The Clone Wars - Republic Heroes™";"2009-10-06";"windows";"Action";166;279;2;15.49
+32430;"STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition";"2009-12-15";"windows;mac";"Action";2287;1389;195;15.49
+32440;"LEGO® Star Wars™ - The Complete Saga";"2009-11-12";"windows;mac";"Adventure";3033;256;243;15.49
+32450;"LEGO® Indiana Jones™ 2: The Adventure Continues";"2010-02-18";"windows";"Adventure";163;58;0;15.49
+32460;"Monkey Island™ 2 Special Edition: LeChuck’s Revenge™";"2010-07-07";"windows";"Adventure";1194;63;0;7.19
+32470;"STAR WARS™ Empire at War - Gold Pack";"2010-05-25";"windows";"Strategy";6526;396;395;15.49
+32500;"STAR WARS™: The Force Unleashed™ II";"2010-11-23";"windows";"Action";1880;1348;249;15.49
+32510;"LEGO® Star Wars™ III - The Clone Wars™";"2011-03-22";"windows";"Action;Adventure";825;140;196;15.49
+32610;"Delta Force Xtreme 2";"2009-06-18";"windows";"Action";50;36;0;14.99
+32620;"Delta Force";"2009-06-18";"windows";"Action";220;24;0;3.99
+32630;"Delta Force 2";"2009-06-18";"windows";"Action";166;26;0;3.99
+32640;"Delta Force Land Warrior";"2009-06-18";"windows";"Action";121;11;0;6.99
+32650;"Delta Force: Task Force Dagger";"2009-06-18";"windows";"Action";58;14;0;6.99
+32660;"Delta Force: Xtreme";"2009-06-18";"windows";"Action";41;14;0;14.99
+32670;"Delta Force: Black Hawk Down";"2009-06-18";"windows";"Action";258;23;0;0.0
+32680;"Delta Force — Black Hawk Down: Team Sabre";"2009-06-18";"windows";"Action";167;17;0;0.0
+32710;"Armored Fist 3";"2009-06-18";"windows";"Simulation";27;8;0;6.99
+32720;"F-16 Multirole Fighter";"2009-06-18";"windows";"Simulation";36;13;0;6.99
+32730;"F-22 Lightning 3";"2009-06-18";"windows";"Simulation";47;27;0;6.99
+32740;"MiG-29 Fulcrum";"2009-06-01";"windows";"Simulation";33;8;0;6.99
+32750;"Comanche 4";"2009-06-18";"windows";"Action;Simulation";93;16;0;6.99
+32760;"Tachyon: The Fringe";"2009-06-18";"windows";"Simulation";102;15;0;6.99
+32770;"Joint Operations: Combined Arms Gold";"2009-09-29";"windows";"Action";121;17;0;14.99
+32900;"Restaurant Empire II";"2009-05-27";"windows";"Casual;Indie;Simulation;Strategy";112;65;0;13.99
+33100;"Alien Shooter";"2009-05-27";"windows";"Action;Indie;RPG";815;92;0;3.99
+33110;"Alien Shooter: Revisited";"2009-05-27";"windows";"Action;Indie;RPG";150;79;0;3.99
+33120;"Alien Shooter 2: Reloaded";"2009-05-27";"windows";"Action;Indie;RPG";995;84;169;3.99
+33130;"Zombie Shooter";"2009-05-27";"windows";"Action;Indie;RPG";410;73;137;3.99
+33180;"Zombie Shooter 2";"2009-11-18";"windows";"Action;Indie;RPG";291;85;247;7.19
+33230;"Assassin's Creed 2 Deluxe Edition";"2010-03-04";"windows";"Action;Adventure";14861;2639;1046;8.59
+33320;"Prince of Persia: The Forgotten Sands™";"2010-06-10";"windows";"Action;Adventure";511;263;328;8.59
+33390;"Zeit²";"2011-01-12";"windows";"Action;Indie";26;7;0;8.59
+33460;"From Dust";"2011-08-17";"windows";"Adventure;Simulation";1356;750;358;8.59
+33520;"Tropico Reloaded";"2009-07-24";"windows";"Simulation;Strategy";412;60;0;5.99
+33570;"Patrician III";"2010-11-18";"windows";"RPG;Simulation;Strategy";289;86;149;3.99
+33600;"Broken Sword 2 - the Smoking Mirror: Remastered";"2009-12-02";"windows;mac;linux";"Adventure";432;51;1330;4.99
+33610;"Broken Sword 3 - the Sleeping Dragon";"2009-12-02";"windows";"Adventure";181;167;9;4.99
+33620;"Crash Time 3";"2009-11-25";"windows";"Action;Racing";228;64;0;3.99
+33650;"Puzzler World";"2010-05-28";"windows";"Casual";299;37;0;4.99
+33660;"Ziro";"2010-05-28";"windows";"Casual;Indie";21;7;0;4.99
+33670;"Disciples III - Renaissance Steam Special Edition";"2010-07-13";"windows";"Strategy;RPG";166;134;2486;9.99
+33680;"eversion";"2010-06-07";"windows;mac;linux";"Indie";955;92;466;3.99
+33760;"The Search for Amelia Earhart";"2010-02-22";"windows";"Casual";1;4;0;4.99
+33770;"Drakensang: The River of Time";"2011-02-16";"windows";"RPG";154;37;0;14.99
+33790;"Elizabeth Find M.D. - Diagnosis Mystery - Season 2";"2011-06-09";"windows;mac";"Casual";16;13;0;14.99
+33900;"Arma 2";"2009-06-29";"windows";"Action;Simulation;Strategy";1728;357;752;7.99
+33930;"Arma 2: Operation Arrowhead";"2010-06-29";"windows";"Action;Simulation;Strategy";17683;1519;8488;11.99
+33950;"Fish Fillets 2";"2010-11-05";"windows";"Casual;Indie";151;56;0;3.99
+33980;"Pound of Ground";"2010-11-05";"windows";"Action";78;49;0;8.99
+33990;"Alternativa";"2010-11-05";"windows";"Adventure";83;86;0;9.99
+34010;"Alpha Protocol™";"2010-05-27";"windows";"Action;RPG";3113;785;267;9.99
+34030;"Total War: NAPOLEON – Definitive Edition";"2010-02-25";"windows;mac";"Strategy";8540;907;1251;0.0
+34190;"Sonic & SEGA All-Stars Racing";"2010-03-03";"windows";"Racing";614;173;759;4.99
+34410;"Death to Spies: Moment of Truth";"2009-08-07";"windows";"Action";260;42;2;4.99
+34420;"XIII Century – Gold Edition";"2009-08-28";"windows";"Strategy";55;57;0;3.99
+34500;"Light of Altair";"2009-06-04";"windows";"Indie;Simulation;Strategy";31;7;0;11.99
+34600;"Order of War™";"2009-09-17";"windows";"Strategy";270;98;319;5.99
+34630;"Massive Assault";"2009-11-04";"windows";"Strategy";6;2;0;6.99
+34640;"Massive Assault: Phantom Renaissance";"2009-11-04";"windows";"Strategy";11;2;0;6.99
+34800;"Chronicles of Mystery: The Scorpio Ritual";"2009-06-18";"windows";"Adventure";46;23;0;3.99
+34810;"Project Freedom";"2009-10-14";"windows";"Action;Simulation";80;26;0;2.99
+34820;"Combat Wings: Battle of Britain";"2009-10-14";"windows";"Simulation";373;101;25;4.99
+34830;"Sniper: Ghost Warrior";"2010-06-24";"windows";"Action";2143;1728;113;5.99
+34870;"Sniper: Ghost Warrior 2";"2013-03-11";"windows";"Action";6775;2724;234;6.99
+34900;"Bad Rats: the Rats' Revenge";"2009-07-20";"windows";"Indie";10465;2981;257;0.79
+34920;"Razor2: Hidden Skies";"2010-07-19";"windows";"Action;Casual;Indie";49;154;28;6.99
+35000;"Mini Ninjas";"2009-09-14";"windows";"Action;Adventure";1612;270;27;7.99
+35070;"Flora's Fruit Farm";"2009-10-01";"windows";"Casual";58;28;0;2.99
+35130;"Lara Croft and the Guardian of Light";"2010-09-28";"windows";"Action;Adventure";2506;237;42;7.99
+35140;"Batman: Arkham Asylum Game of the Year Edition";"2010-03-26";"windows;mac";"Action;Adventure";20297;865;569;14.99
+35300;"Warfare";"2009-07-20";"windows";"Strategy";73;26;0;9.99
+35310;"Clutch";"2009-07-20";"windows";"Action;Racing";90;44;0;6.99
+35320;"Insane 2";"2012-01-24";"windows";"Racing";329;67;0;10.99
+35450;"Red Orchestra 2: Heroes of Stalingrad with Rising Storm";"2011-09-13";"windows";"Action;Massively Multiplayer;Simulation";26922;2274;771;14.99
+35460;"The Ball";"2010-10-26";"windows";"Action;Adventure;Indie";606;210;14;6.99
+35480;"Dwarfs!?";"2011-05-04";"windows;mac;linux";"Strategy;Indie;Casual";619;177;53;7.99
+35600;"Big Brain Wolf";"2009-11-05";"windows";"Adventure;Casual;Strategy";44;37;0;3.99
+35700;"Trine Enchanted Edition";"2009-07-02";"windows;mac;linux";"Action;Adventure;Indie";9448;407;314;9.99
+35720;"Trine 2: Complete Story";"2013-06-06";"windows;mac;linux";"Action;Adventure;Indie";16369;706;421;13.99
+35800;"BRAINPIPE: A Plunge to Unhumanity";"2009-07-06";"windows;mac";"Casual;Indie";126;22;0;0.0
+36000;"Foreign Legion: Buckets of Blood";"2009-08-04";"windows;mac";"Action;Indie";184;111;160;3.99
+36100;"Tradewinds Classics";"2009-07-17";"windows";"Casual";43;2;0;3.99
+36130;"Tradewinds Caravans + Odyssey Pack";"2009-07-17";"windows";"Casual";4;1;0;10.99
+36180;"Cake Mania Collection";"2009-07-17";"windows";"Casual";28;11;0;10.99
+36210;"Monster Mash";"2009-07-17";"windows";"Casual";11;3;0;3.49
+36240;"Kuros";"2009-09-21";"windows";"Casual";7;0;0;4.99
+36300;"Cake Mania Main Street™";"2010-02-16";"windows";"Casual";13;5;0;4.99
+36310;"Westward® IV: All Aboard";"2010-02-16";"windows";"Strategy;Casual";11;1;0;4.99
+36320;"Iron Roses";"2010-02-16";"windows";"Adventure;Casual";4;3;0;4.99
+36900;"Angle of Attack";"2009-08-17";"windows";"Action;Simulation";0;2;0;6.99
+36910;"All Aspect Warfare";"2009-08-17";"windows";"Action;Simulation";3;8;0;6.99
+37000;"The Void";"2009-12-15";"windows";"Nudity;Action;Adventure";581;126;27;6.99
+37010;"Ninja Blade";"2009-11-19";"windows";"Action";128;72;0;6.99
+37030;"UFO: Extraterrestrials Gold";"2010-02-17";"windows";"Strategy";122;43;0;9.99
+37100;"Aztaka";"2009-11-05";"windows;mac";"Action;RPG;Indie";94;39;0;3.99
+37210;"Chocolatier®: Decadence by Design™";"2009-08-12";"windows;mac";"Simulation";51;23;0;7.49
+37220;"Cooking Dash®";"2009-08-12";"windows;mac";"Simulation";27;9;0;7.49
+37230;"Diaper Dash®";"2009-08-12";"windows;mac";"Simulation";13;2;0;7.49
+37240;"Diner Dash:® Hometown Hero™";"2009-08-12";"windows;mac";"Simulation";26;66;0;7.49
+37260;"Emerald City Confidential™";"2009-08-12";"windows";"Adventure";50;3;38;7.49
+37270;"Wandering Willows™";"2009-08-12";"windows;mac";"Adventure;RPG";20;0;0;10.99
+37280;"Wedding Dash® 2: Rings Around the World";"2009-08-12";"windows;mac";"Simulation";13;3;0;7.49
+37300;"DinerTown Tycoon";"2009-09-30";"windows;mac";"Simulation";8;5;0;6.99
+37310;"DinerTown Detective Agency™";"2010-05-06";"windows;mac";"Casual";4;10;0;4.99
+37320;"The Nightshift Code™";"2010-05-06";"windows;mac";"Casual";2;3;0;4.99
+37330;"Nightshift Legacy: The Jaguar's Eye™";"2010-05-06";"windows;mac";"Casual";3;1;0;4.99
+37340;"Fitness Dash™";"2010-05-06";"windows;mac";"Casual";8;0;0;4.99
+37370;"TriJinx: A Kristine Kross Mystery™";"2010-05-06";"windows;mac";"Casual";3;1;0;4.99
+37380;"Valerie Porter and the Scarlet Scandal™";"2010-05-06";"windows;mac";"Casual";5;6;0;4.99
+37390;"Gemini Lost™";"2010-05-06";"windows;mac";"Casual";12;1;0;4.99
+37400;"Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack";"2009-08-25";"windows";"Adventure;Indie";494;118;10;2.99
+37500;"Magnetis ";"2009-11-05";"windows";"Indie;Casual";33;9;49;1.49
+37600;"Windosill";"2009-09-25";"windows;mac";"Adventure;Casual;Indie";821;85;31;1.99
+37700;"Darkest of Days";"2010-03-01";"windows";"Action";158;63;0;14.99
+37800;"Quantz";"2009-09-03";"windows;mac";"Indie;Casual";24;13;5;7.99
+37960;"Jewel Quest Pack";"2009-08-24";"windows";"Casual";19;3;0;14.99
+38000;"Mahjong Quest Collection";"2009-08-24";"windows";"Casual";20;2;0;6.99
+38070;"Coconut Queen";"2009-12-17";"windows";"Casual;Simulation";11;1;0;6.99
+38080;"Build-A-Lot";"2009-12-17";"windows";"Simulation";11;2;0;6.99
+38090;"Build-A-Lot 2: Town of the Year";"2009-12-17";"windows";"Simulation";3;0;0;6.99
+38100;"Build-A-Lot 3: Passport to Europe";"2009-12-17";"windows";"Simulation";2;0;0;6.99
+38110;"Build-A-Lot 4: Power Source";"2009-12-17";"windows";"Simulation";4;3;0;6.99
+38120;"Farm Frenzy";"2010-02-15";"windows";"Casual";19;2;0;3.99
+38130;"Farm Frenzy 2";"2010-02-15";"windows";"Casual";17;2;0;3.99
+38140;"Farm Frenzy: Pizza Party";"2010-02-15";"windows";"Casual";16;1;0;3.99
+38150;"Farm Frenzy 3";"2010-02-15";"windows";"Casual";7;1;0;6.99
+38160;"Farm Frenzy 3: American Pie";"2010-02-15";"windows";"Casual";2;0;0;6.99
+38170;"Cradle of Rome";"2010-02-20";"windows";"Casual";16;2;0;6.99
+38180;"Cradle of Persia";"2010-02-20";"windows";"Casual";6;0;0;6.99
+38190;"Romance of Rome";"2010-02-20";"windows";"Casual";4;5;0;6.99
+38210;"Roogoo";"2009-12-17";"windows";"Casual";273;66;4;0.79
+38230;"Hotel Giant 2";"2010-01-27";"windows";"Simulation";66;95;0;5.59
+38400;"Fallout: A Post Nuclear Role Playing Game";"2015-11-01";"windows";"RPG";6983;643;93;7.99
+38410;"Fallout 2: A Post Nuclear Role Playing Game";"2009-08-19";"windows";"RPG";4758;321;86;7.99
+38420;"Fallout Tactics: Brotherhood of Steel";"2009-08-19";"windows";"Strategy";847;210;16;7.99
+38430;"Kingpin — Life of Crime";"2009-08-19";"windows";"Action";163;42;0;6.99
+38450;"MDK";"2009-09-17";"windows";"Action";138;45;0;6.99
+38460;"MDK 2";"2009-09-17";"windows";"Action";95;19;0;6.99
+38490;"Earthworm Jim 2";"2009-11-04";"windows";"Action;Adventure";47;16;0;14.99
+38600;"Faerie Solitaire";"2010-09-17";"windows;mac";"Casual;Indie";2147;207;266;6.99
+38700;"Toki Tori";"2010-01-28";"windows;mac;linux";"Casual;Indie";1660;226;73;3.99
+38720;"RUSH";"2010-12-03";"windows;mac;linux";"Casual;Indie;Strategy";1069;117;53;3.99
+38740;"EDGE";"2011-08-11";"windows;mac;linux";"Action;Indie";1714;148;41;4.99
+39000;"Moonbase Alpha";"2010-07-06";"windows";"Adventure;Simulation;Strategy";9867;1166;54;0.0
+39110;"SEASON OF MYSTERY: The Cherry Blossom Murders";"2010-02-03";"windows";"Casual";156;44;0;2.99
+39120;"RIFT";"2011-03-01";"windows";"Free to Play;Massively Multiplayer;RPG";6885;2326;4104;0.0
+39140;"FINAL FANTASY VII";"2013-07-04";"windows";"RPG";11722;878;2443;9.99
+39150;"FINAL FANTASY VIII";"2013-12-05";"windows";"RPG";5323;682;2145;9.99
+39190;"Dungeon Siege";"2011-04-05";"windows";"RPG";1179;397;228;4.99
+39200;"Dungeon Siege II";"2005-08-16";"windows";"RPG";813;343;754;4.99
+39210;"FINAL FANTASY XIV Online";"2014-02-18";"windows";"Massively Multiplayer;RPG";9808;2107;28897;9.99
+39500;"Gothic® 3";"2009-12-02";"windows";"Action;RPG";2962;728;1401;8.99
+39510;"Gothic II: Gold Edition";"2010-01-13";"windows";"Action;RPG";3809;475;102;8.99
+39520;"The Guild Gold Edition";"2014-09-09";"windows";"Simulation;Strategy";175;75;28;8.99
+39540;"SpellForce - Platinum Edition";"2009-11-03";"windows";"Action;RPG";694;149;2886;8.99
+39560;"Painkiller: Resurrection";"2009-10-27";"windows";"Action";90;181;0;8.99
+39630;"AquaNox";"2010-04-20";"windows";"Action";151;57;0;4.49
+39640;"AquaNox 2: Revelation";"2010-04-20";"windows";"Action";106;35;0;4.49
+39650;"The Guild II";"2010-06-24";"windows";"Simulation;Strategy";385;196;1014;8.99
+39660;"The Guild II - Pirates of the European Seas";"2010-06-24";"windows";"Simulation;Strategy";109;49;0;8.99
+39670;"Chaser";"2010-07-16";"windows";"Action";611;226;0;4.49
+39680;"The Guild II Renaissance";"2010-07-28";"windows";"Simulation;Strategy";1944;482;1556;8.99
+39690;"ArcaniA";"2010-10-11";"windows";"RPG";735;763;398;17.99
+39800;"Nation Red";"2009-09-03";"windows;mac;linux";"Action;Indie";2093;272;154;1.79
+39900;"Coniclysm";"2010-03-26";"windows";"Action";14;15;0;3.99
+40100;"Supreme Commander 2";"2010-03-01";"windows";"Strategy";5336;903;1834;8.99
+40200;"ItzaBitza";"2009-10-01";"windows";"Casual";6;2;0;6.99
+40210;"ItzaZoo";"2009-12-09";"windows";"Casual";10;0;0;6.99
+40300;"Risen";"2009-10-02";"windows";"RPG";3848;585;994;7.99
+40320;"Rush for Berlin Gold";"2009-10-29";"windows";"Strategy";88;13;0;3.99
+40330;"Secret Files: Tunguska";"2009-10-29";"windows";"Adventure";135;32;0;7.99
+40340;"Secret Files 2: Puritas Cordis";"2009-10-29";"windows";"Adventure";60;17;0;7.99
+40350;"Lost Horizon";"2010-09-24";"windows";"Adventure";211;26;34;7.99
+40380;"nail'd";"2010-11-30";"windows";"Racing";859;217;135;3.99
+40390;"Risen 2: Dark Waters";"2012-04-26";"windows";"RPG";2987;891;1278;7.99
+40400;"AI War: Fleet Command";"2009-10-21";"windows;mac;linux";"Indie;Strategy";1109;205;248;6.99
+40420;"Tidalis";"2010-07-16";"windows;mac;linux";"Casual;Indie";130;66;0;3.99
+40500;"Sacraboar";"2009-11-06";"windows";"Action;Strategy;Indie";14;42;0;2.09
+40700;"Machinarium";"2009-10-16";"windows;mac";"Adventure;Indie";5437;264;165;7.99
+40720;"Samorost 2";"2009-12-10";"windows";"Adventure;Casual;Indie";716;149;53;3.99
+40930;"The Misadventures of P.B. Winterbottom";"2010-04-20";"windows";"Adventure;Indie";323;42;19;3.99
+40950;"Stronghold HD";"2013-10-21";"windows";"Simulation;Strategy";2992;199;473;3.49
+40970;"Stronghold Crusader HD";"2013-10-21";"windows";"Simulation;Strategy";4079;170;247;7.49
+40980;"Stronghold Legends: Steam Edition";"2016-09-15";"windows";"Simulation;Strategy";404;123;337;11.99
+40990;"Mafia";"2002-08-28";"windows";"Violent;Action;Adventure";1727;180;32;7.99
+41000;"Serious Sam HD: The First Encounter";"2009-11-24";"windows";"Action;Indie";3950;269;277;10.99
+41070;"Serious Sam 3: BFE";"2011-11-22";"windows;mac;linux";"Action;Indie";15574;1977;378;29.99
+41100;"Hammerfight";"2009-10-28";"windows;mac;linux";"Action;Indie";1051;514;256;3.99
+41300;"Altitude";"2009-12-04";"windows;mac;linux";"Action;Free to Play;Indie";1540;128;333;0.0
+41400;"Doom Rails";"2009-11-04";"windows";"Action;Indie";8;20;0;1.99
+41500;"Torchlight";"2009-10-27";"windows;mac";"RPG";3825;317;1108;10.99
+41600;"Earthworm Jim 3D";"2009-11-04";"windows";"Action;Adventure";34;36;0;14.99
+41660;"Tommy Tronic";"2010-10-28";"windows";"Action;Adventure;Indie";7;7;0;6.99
+41680;"Death and the Fly";"2011-05-23";"windows";"Indie";3;9;0;6.99
+41700;"S.T.A.L.K.E.R.: Call of Pripyat";"2010-02-11";"windows";"Action;RPG";10172;470;1969;12.99
+41740;"Cargo! The Quest for Gravity";"2011-04-21";"windows";"Action;Adventure;Simulation";260;72;540;6.99
+41800;"Gratuitous Space Battles";"2009-11-16";"windows;mac;linux";"Indie;Simulation;Strategy";505;168;272;10.99
+41900;"The Bard's Tale";"2009-12-11";"windows;mac;linux";"Action;Adventure;RPG";644;188;43;6.99
+42000;"Trino";"2011-01-27";"windows";"Casual;Indie";9;5;0;3.49
+42120;"Lead and Gold: Gangs of the Wild West";"2010-04-08";"windows";"Action";1471;545;112;7.99
+42140;"Hamilton's Great Adventure";"2011-05-31";"windows";"Adventure;Casual;Indie";169;83;184;6.99
+42170;"Krater";"2012-06-12";"windows;mac";"Action;Adventure;Indie;RPG;Strategy";429;329;369;10.99
+42210;"Nancy Drew®: Secrets Can Kill REMASTERED";"2011-07-25";"windows;mac";"Adventure";48;23;0;5.19
+42220;"Nancy Drew®: The Captive Curse";"2011-07-25";"windows;mac";"Adventure";48;8;0;5.19
+42230;"Nancy Drew®: Trail of the Twister";"2011-07-25";"windows;mac";"Adventure";22;8;0;4.99
+42500;"DogFighter";"2010-06-14";"windows";"Action;Indie";232;152;63;1.99
+42670;"Singularity™";"2010-06-30";"windows";"Action";2766;227;148;14.99
+42700;"Call of Duty®: Black Ops";"2010-11-08";"windows";"Action";14201;1839;2672;29.99
+42810;"For The Glory: A Europa Universalis Game";"2009-11-11";"windows";"Strategy";59;25;44;7.99
+42850;"Arsenal of Democracy: A Hearts of Iron Game";"2010-02-23";"windows";"Strategy";180;31;0;7.99
+42890;"Sword of the Stars: Complete Collection";"2010-06-04";"windows";"Strategy";355;46;0;7.99
+42910;"Magicka";"2011-01-25";"windows";"Action;RPG";20912;1964;589;7.99
+42920;"The Kings' Crusade";"2010-10-08";"windows";"Strategy";41;72;0;7.99
+42930;"Elven Legacy: Magic";"2009-12-03";"windows";"Strategy";8;3;0;1.59
+42940;"Elven Legacy: Siege";"2009-11-17";"windows";"Strategy";4;3;0;1.59
+42950;"Elven Legacy: Ranger";"2009-10-20";"windows";"Strategy";9;2;0;1.59
+42960;"Victoria II";"2010-08-30";"windows";"Strategy";4743;632;2580;14.99
+42980;"Victoria I Complete";"2010-08-20";"windows";"Strategy";88;41;17;7.99
+42990;"Sword of the Stars II: Enhanced Edition";"2012-11-30";"windows";"Strategy";335;448;38;14.99
+43000;"Front Mission Evolved";"2010-10-07";"windows";"Action";481;310;312;7.99
+43100;"World of Zoo";"2009-10-30";"windows";"Simulation";115;30;115;4.99
+43190;"The Haunted: Hells Reach";"2011-10-24";"windows";"Action;Indie";507;81;285;5.99
+43500;"M.U.D. TV";"2010-04-19";"windows";"Simulation;Strategy";70;85;0;7.99
+43600;"Nancy Drew®: Warnings at Waverly Academy";"2010-01-13";"windows";"Adventure";46;5;0;5.19
+44100;"Super Laser  Racer";"2010-02-18";"windows";"Action;Indie;Racing";73;11;0;2.99
+44350;"GRID 2";"2013-05-27";"windows";"Racing;Sports";11953;3009;340;19.98
+44360;"F1 2011";"2011-09-19";"windows";"Racing;Simulation;Sports";232;108;3;9.99
+44600;"GTR - FIA GT Racing Game";"2012-09-25";"windows";"Racing;Sports";43;28;0;3.99
+44680;"RACE Injection";"2011-11-18";"windows";"Racing";11;1;1;8.99
+44690;"GT Legends";"2012-11-28";"windows";"Racing;Simulation;Sports";201;24;0;4.99
+45000;"Sol Survivor";"2010-03-15";"windows";"Indie;Strategy";293;30;0;7.19
+45100;"Secret of the Magic Crystals";"2010-02-03";"windows;mac;linux";"Casual;Indie";1342;265;176;3.99
+45300;"Wings of Prey";"2010-01-08";"windows";"Simulation";314;148;1154;6.99
+45400;"Fortix";"2010-04-14";"windows;mac";"Indie";802;69;287;0.99
+45410;"Ignite";"2011-10-28";"windows";"Racing";154;115;0;6.99
+45420;"Land It!";"2016-08-01";"windows;mac";"Casual;Indie;Simulation";10;1;0;6.99
+45450;"Fortix 2";"2011-05-06";"windows;mac;linux";"Casual;Indie";462;45;487;1.59
+45700;"Devil May Cry 4";"2009-12-22";"windows";"Action;Adventure";1620;144;789;15.99
+45710;"Dark Void™";"2010-01-22";"windows";"Action;Adventure";218;230;143;6.49
+45720;"Lost Planet: Extreme Condition Colonies Edition";"2010-02-11";"windows";"Action;Adventure";134;95;65;12.99
+45730;"Dark Void™ Zero";"2010-04-12";"windows";"Action;Adventure";130;139;0;2.99
+45740;"Dead Rising® 2";"2010-09-27";"windows";"Action;Adventure";2713;934;1108;14.99
+45750;"Lost Planet® 2";"2010-10-15";"windows";"Action;Adventure";998;504;879;12.99
+45760;"Ultra Street Fighter® IV";"2014-08-07";"windows";"Action";8247;1141;835;22.99
+45770;"Dead Rising 2: Off the Record";"2011-10-11";"windows";"Action;Adventure";1387;376;435;14.99
+46000;"Bob Came in Pieces";"2010-01-22";"windows;mac";"Adventure;Indie";68;29;0;3.99
+46200;"A.I.M. Racing";"2010-01-22";"windows";"Action;Racing";54;21;0;0.0
+46250;"NecroVisioN: Lost Company";"2010-02-19";"windows";"Action";169;71;0;4.99
+46260;"Star Wolves 3: Civil War";"2010-03-02";"windows";"RPG;Strategy";312;89;422;3.99
+46270;"Star Wolves";"2010-03-02";"windows";"RPG;Strategy";182;42;0;2.79
+46280;"Star Wolves 2";"2010-03-02";"windows";"RPG;Strategy";42;52;0;2.79
+46290;"Theatre of War";"2010-07-09";"windows";"Strategy";116;86;0;2.79
+46340;"Theatre of War 2: Africa 1943";"2010-07-09";"windows";"Simulation;Strategy";86;50;0;3.99
+46350;"Real Warfare 1242";"2011-11-30";"windows";"Strategy";31;30;0;2.79
+46360;"Theatre of War 2: Kursk 1943";"2010-07-09";"windows";"Simulation;Strategy";81;42;0;3.99
+46370;"Rig n Roll";"2010-07-09";"windows";"Simulation";165;175;0;3.99
+46380;"Reign: Conflict of Nations";"2010-07-12";"windows";"Strategy";36;44;0;2.79
+46400;"Greed: Black Border";"2010-01-13";"windows";"Action;RPG";106;153;28;3.99
+46410;"Avencast: Rise of the Mage";"2010-03-17";"windows";"Action;Indie;RPG";348;175;56;6.99
+46440;"Future Wars";"2010-07-15";"windows";"Strategy";84;204;3;3.99
+46450;"Grotesque Tactics: Evil Heroes";"2010-10-15";"windows";"Indie;RPG;Strategy";217;140;20;6.99
+46480;"Still Life";"2011-06-01";"windows";"Adventure";431;98;13;5.59
+46490;"Still Life 2";"2011-06-01";"windows";"Adventure";123;155;0;5.59
+46500;"Syberia";"2011-05-19";"windows;mac";"Adventure;Casual";2092;260;293;9.99
+46510;"Syberia II";"2011-05-19";"windows;mac";"Adventure";862;156;227;9.99
+46520;"Wasteland Angel";"2011-09-01";"windows";"Action;Indie";167;119;101;6.99
+46540;"Trapped Dead";"2011-07-15";"windows";"Action;Strategy";258;410;142;3.99
+46550;"Post Mortem";"2011-08-26";"windows";"Adventure";97;87;0;5.59
+46570;"Grotesque Tactics 2 – Dungeons and Donuts";"2011-11-21";"windows";"Adventure;Indie;RPG;Strategy";103;87;105;6.99
+46600;"Swarm Arena";"2010-08-19";"windows";"Action;Casual;Indie";40;12;0;2.89
+46700;"Ironclads: American Civil War";"2010-04-28";"windows";"Strategy";9;30;0;34.95
+46710;"Ironclads: High Seas";"2010-04-28";"windows";"Strategy";15;21;0;34.95
+46720;"Dimensity";"2010-07-21";"windows";"RPG";3;12;0;6.99
+46730;"Hazen: The Dark Whispers";"2010-04-28";"windows";"RPG";10;29;0;7.99
+46740;"World Basketball Manager 2010";"2010-04-21";"windows";"Simulation";40;88;0;2.09
+46750;"Dark Fall: Lost Souls";"2010-04-21";"windows";"Adventure;Indie";109;63;0;9.99
+46760;"Ironclads: Schleswig War 1864";"2011-06-21";"windows";"Strategy";6;13;0;34.95
+46770;"Making History II: The War of the World";"2010-08-27";"windows;mac;linux";"Indie;Simulation;Strategy";195;57;0;10.99
+46790;"Armada 2526";"2011-04-08";"windows";"Strategy";14;12;399;10.99
+46830;"Ironclads: Anglo Russian War 1866";"2011-06-21";"windows";"Strategy";9;17;0;34.95
+46840;"Ironclads: Chincha Islands War 1866";"2011-06-21";"windows";"Strategy";3;12;0;34.95
+46850;"Zombie Pirates";"2011-04-20";"windows";"Casual";29;17;0;10.99
+47110;"Escape From Paradise ";"2010-07-08";"windows";"Action";2;3;0;6.99
+47120;"Escape From Paradise 2";"2010-07-08";"windows";"Action";2;0;0;6.99
+47130;"Book of Legends";"2010-07-08";"windows";"Adventure";5;2;0;6.99
+47400;"Stronghold 3 Gold";"2012-05-25";"windows;mac;linux";"Simulation;Strategy";971;2385;506;0.0
+47410;"Stronghold Kingdoms";"2012-02-27";"windows";"Free to Play;Massively Multiplayer;Strategy";4886;2609;329;0.0
+47700;"Command & Conquer 4: Tiberian Twilight";"2010-03-18";"windows";"Strategy";378;1712;160;9.99
+47730;"Dragon Age™: Origins Awakening";"2010-03-18";"windows";"RPG";92;7;0;9.99
+47780;"Dead Space™ 2";"2011-01-27";"windows";"Action";8943;493;292;14.99
+47790;"Medal of Honor™";"2010-10-12";"windows";"Action";3209;1370;133;14.99
+47800;"RISK™: Factions";"2011-03-08";"windows";"Strategy";405;214;979;7.99
+47810;"Dragon Age: Origins - Ultimate Edition";"2010-10-29";"windows";"RPG";8808;726;686;19.99
+47870;"Need For Speed: Hot Pursuit";"2010-12-14";"windows";"Racing";11405;2775;467;14.99
+47890;"The Sims™ 3";"2011-01-27";"windows";"Simulation";11679;2493;4730;24.99
+47920;"Shift 2 Unleashed";"2011-03-31";"windows";"Racing";1071;629;0;19.99
+48000;"LIMBO";"2011-08-02";"windows;mac;linux";"Adventure;Indie";30321;1994;117;6.99
+48110;"Silent Hunter 5®: Battle of the Atlantic";"2010-03-01";"windows";"Simulation";516;752;1520;25.99
+48150;"Voodoo Dice";"2010-07-15";"windows";"Casual";4;1;0;8.59
+48190;"Assassin’s Creed® Brotherhood";"2011-03-17";"windows";"Action;Adventure";6676;929;600;12.49
+48240;"Anno 2070™";"2011-11-17";"windows";"Strategy";5653;3686;879;16.99
+48700;"Mount & Blade: Warband";"2010-03-31";"windows;mac;linux";"Action;RPG";75872;2213;7932;14.99
+48720;"Mount & Blade: With Fire & Sword";"2011-05-03";"windows";"Action;RPG";6236;1055;723;7.99
+48800;"Ship Simulator Extremes";"2010-08-27";"windows";"Simulation";676;794;0;14.99
+48950;"Greed Corp";"2010-12-10";"windows";"Strategy";399;68;38;6.99
+49000;"Hotel Dash™ Suite Success™";"2010-05-06";"windows;mac";"Casual";24;6;0;4.99
+49300;"Commander: Conquest of the Americas";"2010-07-30";"windows";"Strategy";60;74;0;7.99
+49320;"Woody Two-Legs: Attack of the Zombie Pirates";"2010-11-02";"windows";"Casual";32;24;0;3.99
+49470;"Magic: The Gathering - Duels of the Planeswalkers 2012";"2011-06-15";"windows";"Strategy";705;95;935;0.0
+49520;"Borderlands 2";"2012-09-20";"windows;mac;linux";"Action;RPG";144595;11021;3276;19.99
+49600;"Beat Hazard";"2010-04-15";"windows;mac;linux";"Action;Casual;Indie";6296;328;437;6.99
+49800;"Flight of the Icarus";"2010-05-12";"windows;mac";"Action;Indie";95;148;22;3.99
+49810;"CreaVures";"2011-02-23";"windows;mac";"Indie";117;25;0;3.99
+49900;"Plain Sight";"2010-04-05";"windows";"Action;Indie";177;83;0;3.99
+50000;"Nimbus";"2010-10-25";"windows";"Indie;Racing";179;10;1;5.99
+50130;"Mafia II";"2011-03-22";"windows;mac";"Action";31445;1855;1029;19.99
+50300;"Spec Ops: The Line";"2012-06-28";"windows;mac;linux";"Action;Adventure";32361;2613;293;19.99
+50510;"Burn Zombie Burn!";"2010-08-12";"windows";"Action";65;93;3;6.99
+50910;"Professor Fizzwizzle and the Molten Mystery";"2010-04-21";"windows;mac";"Casual";12;0;0;4.99
+50920;"Hidden Expedition: Amazon";"2010-04-21";"windows";"Casual;Indie";8;4;0;6.99
+50930;"Hidden Expedition: Everest";"2010-04-21";"windows";"Casual";2;3;0;6.99
+50940;"Hidden Expedition: Titanic";"2010-04-21";"windows";"Casual";5;1;0;6.99
+50960;"Mystery Case Files: Huntsville™";"2010-04-21";"windows";"Casual";17;3;0;6.99
+50970;"Mystery Case Files: Madame Fate®";"2007-12-14";"windows";"Casual";15;6;0;4.99
+50980;"Mystery Case Files: Prime Suspects™";"2010-04-21";"windows";"Casual";9;3;0;4.99
+50990;"Mystery Case Files: Ravenhearst®";"2010-04-21";"windows";"Casual";24;1;0;6.99
+51000;"Mystery Case Files: Return to Ravenhearst™";"2010-04-21";"windows";"Casual";16;8;0;6.99
+51010;"My Tribe";"2010-04-21";"windows;mac";"Casual;Simulation";33;15;0;6.99
+51020;"Unwell Mel";"2010-04-21";"windows;mac";"Casual";5;1;0;4.99
+51030;"Atlantis Sky Patrol";"2010-04-21";"windows;mac";"Casual;Indie";6;1;0;6.99
+51060;"Drawn®: The Painted Tower";"2011-01-19";"windows";"Adventure;Casual";87;13;0;6.99
+55000;"Flotilla";"2010-04-01";"windows;mac;linux";"Adventure;Indie;Strategy";166;25;130;6.99
+55040;"Atom Zombie Smasher";"2011-03-14";"windows;mac;linux";"Indie;Strategy";1397;180;72;6.99
+55100;"Homefront";"2011-03-14";"windows";"Action";5506;3685;1772;14.99
+55110;"Red Faction®: Armageddon™";"2011-06-09";"windows";"Action";2674;1005;307;14.99
+55140;"MX vs. ATV Reflex";"2010-11-26";"windows";"Racing";1599;359;1024;14.99
+55150;"Warhammer 40,000: Space Marine";"2011-09-08";"windows";"Action";9847;998;712;19.99
+55230;"Saints Row: The Third";"2011-11-17";"windows;linux";"Action";44810;1877;1848;6.99
+57000;"NyxQuest: Kindred Spirits";"2010-09-27";"windows;mac";"Action;Adventure";87;9;0;1.99
+57200;"Puzzle Dimension";"2010-06-21";"windows;mac";"Casual;Indie";412;41;8;1.99
+57300;"Amnesia: The Dark Descent";"2010-09-08";"windows;mac;linux";"Action;Adventure;Indie";20222;1199;173;14.99
+57620;"Patrician IV - Steam Special Edition";"2010-09-17";"windows";"Strategy";153;129;0;9.99
+57640;"Broken Sword: Director's Cut";"2010-09-02";"windows;mac;linux";"Adventure";1131;108;1177;4.99
+57650;"Dungeons";"2011-02-04";"windows";"RPG;Strategy";214;266;112;6.99
+57680;"The First Templar - Steam Special Edition";"2011-05-12";"windows";"Action;Adventure";473;208;36;6.99
+57690;"Tropico 4";"2011-09-01";"windows;mac";"Simulation;Strategy";8740;827;518;12.49
+57700;"Who's That Flying?!";"2011-01-31";"windows";"Action;Casual;Indie";98;42;25;3.99
+57740;"Jagged Alliance - Back in Action";"2012-02-08";"windows;mac;linux";"RPG;Simulation;Strategy";730;345;185;14.99
+57800;"Doc Clock: The Toasted Sandwich of Time";"2010-10-15";"windows;mac";"Adventure;Casual;Indie";79;92;11;2.99
+57900;"Duke Nukem Forever";"2011-06-09";"windows;mac";"Action";4433;2243;434;14.99
+58200;"Jolly Rover";"2010-06-07";"windows;mac";"Adventure;Casual;Indie";249;31;3;6.99
+58230;"MacGuffin's Curse";"2012-04-19";"windows;mac";"Adventure;Casual;Indie";81;16;229;6.99
+58400;"Turba";"2010-07-01";"windows";"Casual;Indie";46;83;14;3.49
+58520;"Blood Bowl - Legendary Edition";"2010-10-28";"windows";"Sports;Strategy";675;228;284;7.99
+58550;"A Game of Thrones - Genesis";"2011-09-28";"windows";"Strategy";201;420;8;6.99
+58560;"Runaway: A Twist of Fate";"2011-04-21";"windows";"Adventure";191;34;0;6.99
+58570;"The Next BIG Thing";"2011-04-21";"windows;mac";"Adventure";352;59;1;6.99
+58610;"Wargame: European Escalation";"2012-02-22";"windows;mac;linux";"Strategy";1892;574;11;7.99
+60340;"Luxor: 5th Passage";"2011-01-25";"windows;mac";"Action;Adventure;Casual";39;20;0;6.99
+60350;"Glowfish";"2011-09-30";"windows;mac";"Adventure;Casual;Indie";80;11;0;6.99
+60600;"ProtoGalaxy";"2010-10-06";"windows";"Action;Indie";30;22;33;0.0
+60700;"Power of Defense";"2010-08-04";"windows;mac";"Strategy;Indie";9;25;0;6.99
+60800;"Numen: Contest of Heroes";"2010-06-03";"windows";"RPG";66;69;0;4.99
+61100;"Lucid";"2011-07-19";"windows";"Indie;Casual";171;53;127;4.99
+61310;"Fractal: Make Blooms Not War";"2011-11-29";"windows;mac";"Indie;Casual";140;44;30;4.99
+61500;"Age of Wonders";"2010-10-01";"windows";"RPG;Strategy";334;98;161;3.99
+61510;"Age of Wonders II: The Wizard's Throne";"2010-10-01";"windows";"RPG;Strategy";105;28;0;6.99
+61520;"Age of Wonders Shadow Magic";"2010-10-01";"windows";"RPG;Strategy";225;35;151;6.99
+61600;"Zen Bound 2";"2010-11-16";"windows;mac;linux";"Indie;Casual";432;65;133;3.99
+61700;"Might & Magic: Clash of Heroes";"2011-09-21";"windows";"RPG;Strategy";1293;157;1595;8.59
+61730;"Critter Crunch";"2012-09-11";"windows;mac";"Action;Indie;Casual";256;14;137;4.99
+62000;"Flight Control HD";"2010-11-18";"windows;mac";"Action;Casual";406;36;85;2.99
+62100;"Chime";"2010-09-06";"windows";"Casual";564;39;707;3.99
+63000;"HOARD";"2011-04-04";"windows;mac;linux";"Action;Casual;Indie;Strategy";673;168;31;6.99
+63110;"Alter Ego";"2010-08-03";"windows";"Adventure";139;59;12;7.19
+63200;"Monday Night Combat";"2011-01-24";"windows";"Action;Strategy;Indie;Sports";720;205;101;3.99
+63500;"Swords and Soldiers HD";"2010-12-02";"windows;mac";"Action;Casual;Indie;Strategy";572;160;132;6.99
+63610;"Riven: The Sequel to MYST";"2010-08-04";"windows;mac";"Adventure;Casual";288;103;0;3.99
+63650;"URU: Complete Chronicles";"2010-08-03";"windows;mac";"Adventure;Casual";68;18;0;6.99
+63660;"Myst: Masterpiece Edition";"2011-02-02";"windows;mac";"Adventure;Casual";155;80;0;3.99
+63700;"BIT.TRIP BEAT";"2010-11-02";"windows;mac";"Action;Casual;Indie";616;140;78;6.99
+63710;"BIT.TRIP RUNNER";"2011-02-28";"windows;mac";"Action;Indie";3058;490;149;6.99
+63800;"Delve Deeper";"2010-09-24";"windows";"Adventure;Indie;RPG;Strategy";225;159;241;3.99
+63900;"Fantasy Wars";"2010-08-06";"windows";"Strategy";115;28;0;3.99
+63910;"King's Bounty: Crossworlds";"2010-09-17";"windows";"RPG;Strategy";492;47;30;11.99
+63940;"Men of War: Vietnam";"2011-09-08";"windows";"Strategy";399;247;10;5.59
+63960;"Theatre of War 3: Korea";"2011-03-24";"windows";"Strategy";50;76;0;4.99
+64000;"Men of War: Assault Squad";"2011-02-24";"windows";"Strategy";2881;416;292;7.19
+65070;"Ride 'em Low";"2013-11-04";"windows";"Racing;Simulation";56;55;0;2.09
+65080;"Kaptain Brawe: A Brawe New World";"2011-01-20";"windows;mac";"Adventure";87;30;0;3.99
+65270;"Demolition Company Gold Edition";"2011-08-04";"windows";"Simulation";144;27;0;7.19
+65400;"Archon Classic";"2010-11-02";"windows";"Strategy;Indie";87;17;16;6.99
+65500;"Aura: Fate of the Ages";"2010-10-04";"windows";"Adventure";84;63;0;4.49
+65530;"SpellForce 2: Faith in Destiny";"2012-06-19";"windows";"RPG;Strategy";125;85;1244;13.99
+65540;"Gothic 1";"2001-03-15";"windows";"Action;RPG";3396;523;409;0.0
+65560;"Painkiller Redemption";"2011-02-25";"windows";"Action";206;196;28;4.49
+65600;"Gothic 3: Forsaken Gods Enhanced Edition";"2011-03-22";"windows";"RPG";247;254;1054;8.99
+65610;"ArcaniA: Fall of Setarrif";"2011-10-24";"windows";"RPG";119;225;5;13.99
+65710;"Pat & Mat";"2010-11-05";"windows";"Casual";297;59;0;3.99
+65730;"Take On Helicopters";"2011-10-27";"windows";"Simulation";340;260;2;11.99
+65740;"Carrier Command: Gaea Mission";"2012-09-28";"windows";"Action;Strategy";362;442;81;19.99
+65780;"ARMA: Gold Edition";"2011-07-13";"windows";"Action;Simulation;Strategy";548;209;22;5.99
+65790;"ARMA: Cold War Assault";"2011-08-08";"windows";"Action;Simulation;Strategy";3195;942;28;3.49
+65800;"Dungeon Defenders";"2011-10-18";"windows;mac;linux";"Action;Indie;RPG;Strategy";10693;932;1993;9.99
+65930;"The Bureau: XCOM Declassified";"2013-08-22";"windows;mac";"Action";6661;2923;201;14.99
+65980;"Sid Meier's Civilization®: Beyond Earth™";"2014-10-23";"windows;mac;linux";"Strategy";9555;8224;932;29.99
+67000;"The Polynomial - Space of the music";"2010-10-15";"windows;mac;linux";"Action;Casual;Indie";331;114;4;4.99
+67370;"The Darkness II";"2012-02-09";"windows;mac";"Action";11992;1234;191;19.99
+70000;"Dino D-Day";"2011-04-08";"windows";"Action;Indie";12222;2367;172;6.99
+70100;"Hacker Evolution";"2010-09-14";"windows;mac;linux";"Simulation";598;308;189;0.79
+70110;"Hacker Evolution: Untold";"2010-09-14";"windows;mac;linux";"Indie;Simulation";192;148;242;0.79
+70120;"Hacker Evolution Duality";"2011-08-15";"windows;mac;linux";"Indie";176;298;46;0.79
+70200;"Governor of Poker 2";"2010-10-11";"windows";"Adventure;Casual;Simulation";68;22;387;5.79
+70210;"Governor of Poker 2 - Premium Edition";"2010-10-11";"windows";"Adventure;Casual;Indie;Simulation";147;29;0;14.99
+70300;"VVVVVV";"2010-09-07";"windows;mac;linux";"Action;Indie";6719;268;76;3.99
+70400;"Recettear: An Item Shop's Tale";"2010-09-10";"windows";"RPG;Indie";5047;183;764;12.99
+70420;"Chantelise - A Tale of Two Sisters";"2011-07-29";"windows";"Action;RPG;Indie";440;148;53;6.49
+70500;"Diamond Dan";"2010-10-08";"windows;mac";"Action;Adventure;Casual;Indie";33;11;0;0.79
+70600;"Worms Ultimate Mayhem";"2011-09-28";"windows";"Strategy";2188;323;689;10.99
+70620;"Worms Crazy Golf";"2011-10-19";"windows;mac";"Sports;Strategy";400;88;67;6.99
+70640;"Worms";"2011-10-19";"windows";"Strategy";319;53;2;4.99
+70650;"Worms Blast";"2011-10-19";"windows";"Casual;Strategy";102;101;23;5.59
+70660;"Worms Pinball";"2011-10-19";"windows";"Casual";140;184;11;5.59
+70900;"Star Ruler";"2010-09-20";"windows";"Indie;Strategy";229;44;5;7.19
+71000;"Evochron Mercenary";"2012-01-16";"windows";"Action;Indie;Simulation";322;85;0;14.99
+71230;"Crazy Taxi";"2011-03-04";"windows";"Action;Racing";1240;273;17;5.59
+71240;"SEGA Bass Fishing";"2011-03-04";"windows";"Simulation;Sports";325;62;6;5.59
+71260;"Space Channel 5: Part 2";"2011-03-04";"windows";"Action";687;89;0;5.59
+71340;"Sonic Generations Collection";"2011-11-03";"windows";"Action";6921;589;165;0.0
+72000;"Closure";"2012-09-07";"windows;linux";"Indie";680;107;72;6.99
+72400;"Clones";"2010-11-18";"windows";"Adventure;Indie";245;80;210;0.79
+72850;"The Elder Scrolls V: Skyrim";"2011-11-10";"windows";"RPG";237303;14951;7089;9.99
+72900;"Winter Voices";"2010-10-29";"windows";"Adventure;Indie;RPG";139;77;0;0.0
+73010;"Cities in Motion";"2011-02-22";"windows;mac;linux";"Simulation";605;179;1;14.99
+73060;"Defenders of Ardania";"2012-03-14";"windows";"Strategy";32;68;28;8.99
+73170;"Darkest Hour: A Hearts of Iron Game";"2011-04-08";"windows";"Strategy";1075;144;0;7.99
+73190;"Pride of Nations";"2011-06-07";"windows";"Simulation;Strategy";35;44;0;14.99
+73210;"Sengoku";"2011-09-15";"windows";"RPG;Simulation;Strategy";205;110;112;7.99
+73220;"Supreme Ruler: Cold War";"2011-07-29";"windows";"Strategy";113;62;0;6.99
+78000;"Bejeweled® 3";"2010-12-07";"windows;mac";"Strategy;Casual";2670;126;85;4.25
+80000;"APOX";"2011-01-20";"windows";"Action;Indie;Strategy";46;113;104;11.99
+80200;"Fate of the World";"2011-02-28";"windows;mac";"Casual;Indie;Simulation;Strategy";267;80;123;6.99
+80300;"Puzzle Bots";"2010-10-22";"windows";"Adventure;Indie";109;38;0;3.49
+80310;"Gemini Rue";"2011-10-26";"windows;mac;linux";"Adventure;Indie";1199;128;97;6.99
+80330;"The Blackwell Legacy";"2012-01-13";"windows;mac;linux";"Adventure;Indie";848;107;0;3.99
+80340;"Blackwell Unbound";"2012-01-13";"windows;mac;linux";"Adventure;Indie";364;27;0;3.99
+80350;"Blackwell Convergence";"2012-01-13";"windows;mac;linux";"Adventure;Indie";298;14;0;3.99
+80360;"Blackwell Deception";"2012-01-13";"windows";"Adventure;Indie";312;11;205;6.99
+90200;"Farming Simulator 2011";"2010-10-29";"windows;mac";"Simulation";338;68;0;7.19
+90400;"Blue Toad Murder Files™: The Mysteries of Little Riddle";"2010-12-03";"windows";"Adventure;Casual";59;13;0;2.99
+91100;"SkyDrift";"2011-11-21";"windows";"Indie;Racing";771;98;1329;6.99
+91200;"Anomaly: Warzone Earth";"2011-04-08";"windows;mac;linux";"Action;Indie;Strategy";3300;481;200;7.99
+91330;"Iron Front: Digital War Edition";"2012-05-25";"windows";"Action;Simulation;Strategy";434;275;155;10.99
+91600;"Sanctum";"2011-04-15";"windows;mac";"Action;Casual;Indie;Strategy";2552;296;153;7.19
+91700;"E.Y.E: Divine Cybermancy";"2011-07-29";"windows";"Action;Indie;RPG";4459;906;413;6.99
+91800;"Cloning Clyde";"2011-03-15";"windows";"Casual;Indie";77;9;0;3.99
+91810;"Ancients of Ooga";"2011-05-20";"windows";"Indie;Casual";21;7;0;6.99
+91900;"Post Apocalyptic Mayhem";"2011-03-17";"windows";"Action;Racing";1219;225;193;6.99
+92000;"Hydrophobia: Prophecy";"2011-05-09";"windows";"Action;Adventure;Indie;Strategy";1270;827;106;3.99
+92100;"DETOUR";"2011-05-16";"windows";"Indie;Strategy";1107;673;180;0.79
+92200;"Gundemonium Recollection";"2011-09-27";"windows";"Action;Indie";130;8;78;2.79
+92210;"Hitogata Happa";"2011-09-27";"windows";"Action;Indie";146;29;5;2.79
+92220;"GundeadliGne";"2011-09-27";"windows";"Action;Indie";124;22;23;2.79
+92300;"A.R.E.S.: Extinction Agenda";"2011-01-19";"windows";"Action;Indie";564;253;191;3.99
+92400;"B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now)";"2011-02-28";"windows";"Indie";36;13;0;1.49
+92600;"Xotic";"2011-09-16";"windows";"Action;Indie";121;39;54;7.19
+92700;"Shadow Harvest: Phantom Ops";"2011-04-15";"windows";"Action";36;79;58;6.99
+92800;"SpaceChem";"2011-03-02";"windows;mac;linux";"Indie;Simulation";3700;324;177;6.99
+92900;"Agricultural Simulator 2011: Extended Edition";"2011-02-23";"windows";"Simulation";84;82;0;2.09
+93200;"Revenge of the Titans";"2011-03-16";"windows;mac;linux";"Action;Indie;Strategy";837;158;121;11.39
+94000;"Dinner Date";"2011-03-01";"windows";"Indie;Casual";445;371;0;2.89
+94200;"Jamestown";"2011-06-08";"windows;mac";"Action;Indie";1955;103;79;6.99
+94300;"The Dream Machine: Chapter 1 & 2";"2012-05-11";"windows;mac";"Adventure;Casual;Indie";968;85;68;2.79
+94400;"Nidhogg";"2014-01-13";"windows;mac";"Action;Indie;Sports";5480;758;123;6.99
+94590;"Puzzle Agent 2";"2011-06-30";"windows;mac";"Adventure;Casual";588;86;82;6.99
+94620;"Hector: Badge of Carnage - Full Series";"2011-04-27";"windows;mac";"Adventure;Casual";172;14;0;14.99
+95000;"Super Splatters";"2013-06-26";"windows;mac;linux";"Action;Casual;Indie";120;35;254;6.99
+95300;"Capsized";"2011-04-29";"windows;mac;linux";"Action;Indie";723;212;152;5.99
+95400;"ibb & obb";"2014-05-26";"windows;mac;linux";"Action;Adventure;Indie";3125;211;255;8.99
+95700;"The Cat and the Coup";"2011-06-15";"windows;mac";"Free to Play;Indie";823;52;12;0.0
+95900;"Air Conflicts: Secret Wars";"2011-07-15";"windows";"Action;Simulation";167;111;20;4.79
+96000;"The Tiny Bang Story";"2011-04-22";"windows;mac;linux";"Adventure;Casual;Indie";3923;567;284;3.99
+96100;"Defy Gravity Extended";"2016-03-18";"windows";"Action;Casual;Indie";7553;1224;158;0.79
+96200;"Steel Storm: Burning Retribution";"2011-05-11";"windows;linux";"Action;Indie";181;115;280;11.39
+96800;"Nexuiz";"2012-05-10";"windows";"Action";167;105;9;7.99
+96900;"Slam Bolt Scrappers";"2013-03-14";"windows";"Action;Indie;Strategy";25;15;0;6.99
+97000;"Solar 2";"2011-06-17";"windows;mac;linux";"Indie;Casual";1540;158;229;6.99
+97100;"Section 8®: Prejudice™";"2011-05-04";"windows";"Action";707;217;53;6.99
+97110;"Kohan: Immortal Sovereigns";"2011-08-24";"windows";"Strategy";36;7;0;6.99
+97120;"Kohan: Ahriman's Gift";"2011-08-24";"windows";"Strategy";42;5;0;6.99
+97130;"Kohan II: Kings of War";"2011-08-24";"windows";"Strategy";91;8;0;6.99
+97330;"Magic: The Gathering - Duels of the Planeswalkers 2013";"2012-06-20";"windows";"Strategy";921;130;1070;6.99
+98100;"Trauma";"2011-08-08";"windows;mac";"Adventure;Indie;Casual";402;182;7;4.39
+98200;"Frozen Synapse";"2011-05-26";"windows;mac;linux";"Indie;Strategy";1990;430;183;18.99
+98300;"Toy Soldiers";"2012-04-27";"windows";"Action;Casual;Simulation;Strategy";1032;108;148;4.99
+98400;"Hard Reset Extended Edition";"2012-07-12";"windows";"Action;Indie";3225;656;158;9.99
+98500;"Naval Warfare";"2011-05-25";"windows";"Action;Indie";134;121;0;1.99
+98600;"Demolition Inc.";"2011-09-19";"windows;mac";"Action;Casual;Indie;Simulation;Strategy";197;53;101;4.79
+98800;"Dungeons of Dredmor";"2011-07-13";"windows;mac;linux";"Casual;Indie;RPG";3879;235;800;3.49
+98900;"Alien Hallway";"2011-08-19";"windows";"Action;Casual;Indie;Strategy";141;91;0;3.99
+99100;"Dungeons and Dragons: Daggerdale";"2011-06-24";"windows";"Action;RPG";97;283;0;10.99
+99120;"Yar's Revenge";"2011-04-28";"windows";"Action";29;20;0;6.99
+99300;"Renegade Ops";"2011-10-26";"windows";"Action";1773;297;18;9.99
+99400;"Garshasp: The Monster Slayer";"2011-05-09";"windows";"Action;Indie";156;166;0;3.99
+99410;"Garshasp: Temple of the Dragon";"2012-09-24";"windows";"Action;Indie";40;81;0;3.99
+99700;"NightSky";"2011-03-01";"windows;mac;linux";"Casual;Indie;Strategy";748;100;21;6.99
+99900;"Spiral Knights";"2011-06-14";"windows;mac";"Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG";15666;3202;275;0.0
+99910;"Puzzle Pirates";"2011-08-31";"windows;mac";"Adventure;Casual;Free to Play;Massively Multiplayer;Strategy";961;239;107;0.0
+102200;"Runespell: Overture";"2011-07-20";"windows";"Adventure;Indie;RPG";257;76;96;7.99
+102400;"Vertex Dispenser";"2011-06-10";"windows;mac";"Action;Indie;Strategy";20;9;0;6.99
+102500;"Kingdoms of Amalur: Reckoning™";"2012-02-09";"windows";"Action;RPG";8523;1201;252;19.99
+102600;"Orcs Must Die!";"2011-10-11";"windows";"Action;Indie;Strategy";5371;180;159;7.99
+102810;"Gatling Gears";"2011-08-30";"windows";"Action;Adventure;Indie";87;20;21;7.99
+102840;"Shank 2";"2012-02-07";"windows;mac;linux";"Action;Adventure;Indie";1707;373;297;7.19
+102850;"Warp";"2012-03-21";"windows";"Action;Adventure;Indie";199;74;0;7.99
+104000;"iBomber Defense";"2011-05-26";"windows;mac";"Indie;Strategy";148;51;112;2.99
+104020;"Storm in a Teacup";"2012-01-19";"windows;mac";"Casual;Indie";91;38;0;2.99
+104100;"Inside a Star-filled Sky";"2011-05-14";"windows;mac";"Action;Strategy;Indie";53;24;0;4.99
+104200;"BEEP";"2011-05-06";"windows";"Adventure;Indie";4036;731;140;1.59
+104900;"ORION: Prelude";"2013-04-16";"windows";"Action;Adventure;Indie;RPG";22057;7558;263;0.79
+105000;"A New Beginning - Final Cut";"2012-12-11";"windows;mac";"Adventure;Indie";1000;314;101;7.99
+105100;"Lume";"2011-05-09";"windows;mac";"Adventure;Casual;Indie";206;251;8;4.79
+105300;"Critical Mass";"2011-06-20";"windows;mac";"Casual;Indie";293;77;0;1.59
+105420;"Ms. Splosion Man";"2013-04-03";"windows";"Action;Indie";167;49;0;6.99
+105450;"Age of Empires® III: Complete Collection";"2012-01-05";"windows";"Simulation;Strategy";13759;1801;902;29.99
+105600;"Terraria";"2011-05-16";"windows;mac;linux";"Action;Adventure;Indie;RPG";255600;7797;5585;6.99
+105700;"Tobe's Vertical Adventure";"2011-07-18";"windows";"Action;Adventure;Indie";80;50;17;0.79
+105800;"PixelJunk™ Eden";"2012-02-02";"windows";"Action;Casual;Indie";558;140;65;6.99
+107100;"Bastion";"2011-08-16";"windows;mac;linux";"Action;Indie;RPG";27887;1098;391;11.39
+107200;"Space Pirates and Zombies";"2011-08-15";"windows;mac;linux";"Action;Indie;RPG;Strategy";2315;202;225;6.99
+107300;"Breath of Death VII";"2011-07-13";"windows";"RPG;Indie";994;187;30;0.0
+107310;"Cthulhu Saves the World";"2011-07-13";"windows";"Indie;RPG";2868;222;351;0.0
+107410;"Arma 3";"2013-09-12";"windows";"Action;Simulation;Strategy";105034;12524;18823;29.99
+107600;"Waves";"2011-11-16";"windows";"Action;Casual;Indie";974;60;11;3.99
+108110;"Starpoint Gemini";"2012-02-16";"windows";"RPG;Simulation";35;75;0;10.59
+108200;"Ticket to Ride";"2012-05-24";"windows;mac;linux";"Casual;Indie;Strategy";1476;283;607;6.99
+108210;"Memoir '44 Online";"2011-10-12";"windows";"Casual;Simulation;Strategy";177;119;7;0.0
+108500;"Vessel";"2012-03-01";"windows";"Action;Indie;Strategy";540;70;21;14.99
+108600;"Project Zomboid";"2013-11-08";"windows;mac;linux";"Indie;RPG;Simulation;Early Access";17273;2606;658;9.99
+108700;"Death Rally";"2012-08-03";"windows";"Action;Racing";376;158;0;6.99
+108710;"Alan Wake";"2012-02-16";"windows";"Action;Adventure";22962;2163;239;11.39
+108800;"Crysis 2 - Maximum Edition";"2011-03-22";"windows";"Action";6724;1432;176;19.99
+109200;"Legend of Fae";"2011-07-26";"windows";"Casual;Indie";77;22;0;6.99
+109500;"Fowl Space";"2012-03-21";"windows";"Action;Indie";116;77;0;3.99
+109600;"Neverwinter";"2013-12-05";"windows";"Adventure;Free to Play;Massively Multiplayer;RPG";18517;5297;1273;0.0
+109700;"Achron";"2011-08-29";"windows";"Indie;Strategy";54;32;0;14.99
+110400;"inMomentum";"2011-10-31";"windows";"Indie;Racing";117;40;0;6.99
+110500;"Data Jammers: FastForward";"2011-10-24";"windows;mac";"Action;Indie";54;26;0;0.0
+110600;"Astro Tripper";"2011-09-15";"windows";"Action;Indie";30;26;0;3.99
+110610;"Alien Zombie Megadeath";"2011-10-18";"windows";"Action;Indie";47;17;0;3.99
+110630;"Mutant Storm: Reloaded";"2012-03-21";"windows";"Action;Indie";23;14;0;3.99
+110800;"L.A. Noire";"2011-11-08";"windows";"Adventure;Strategy";14096;2315;428;19.99
+111000;"The Clockwork Man";"2011-08-10";"windows;mac;linux";"Indie;Casual";40;32;0;4.99
+111010;"The Clockwork Man: The Hidden World";"2011-09-23";"windows;mac;linux";"Adventure;Casual;Indie";41;20;0;6.99
+111100;"Snuggle Truck";"2012-02-03";"windows;mac;linux";"Casual;Indie;Racing";363;81;199;3.99
+111400;"Bunch of Heroes";"2011-09-21";"windows";"Action;Indie";180;206;27;3.99
+111600;"Serious Sam Double D XXL";"2011-08-30";"windows";"Action;Indie";514;92;527;6.99
+112100;"Avadon: The Black Fortress";"2011-08-17";"windows;mac;linux";"RPG;Indie";342;76;13;6.99
+113020;"Monaco: What's Yours Is Mine";"2013-04-24";"windows;mac;linux";"Action;Adventure;Casual;Indie;Strategy";7237;749;183;10.99
+113200;"The Binding of Isaac";"2011-09-28";"windows;mac";"Action;Adventure;Indie;RPG";43227;1923;1849;3.99
+113400;"APB Reloaded";"2011-12-06";"windows";"Action;Free to Play;Massively Multiplayer";20028;11779;3835;0.0
+113420;"Fallen Earth Free2Play";"2012-02-22";"windows";"Free to Play;Massively Multiplayer;RPG";3938;3142;107;0.0
+115100;"Costume Quest";"2011-10-14";"windows;mac;linux";"Adventure;Casual;RPG";2635;210;219;6.99
+115110;"Stacking";"2012-03-06";"windows;mac;linux";"Adventure;Indie";1271;155;238;6.99
+115120;"Iron Brigade";"2012-08-13";"windows";"Action;Strategy";573;124;21;10.99
+115200;"Cossacks II: Napoleonic Wars";"2011-08-26";"windows";"Strategy";151;183;17;3.99
+115210;"American Conquest";"2011-08-26";"windows";"Strategy";180;92;0;3.99
+115220;"American Conquest: Fight Back";"2011-08-26";"windows";"Strategy";151;73;2;3.99
+115320;"Prototype 2";"2012-07-26";"windows";"Action;Adventure";5411;2244;698;19.99
+115800;"Owlboy";"2016-11-01";"windows;mac;linux";"Action;Adventure;Indie";3542;555;613;18.99
+116100;"Super Toy Cars";"2014-06-06";"windows;mac";"Indie;Racing";201;132;0;6.99
+200010;"Quantum Conundrum";"2012-06-21";"windows";"Casual;Strategy";1224;225;162;6.99
+200020;"Global Ops: Commando Libya";"2011-10-26";"windows";"Action";131;191;0;3.99
+200080;"Nancy Drew®: Shadow at the Water's Edge";"2011-09-15";"windows;mac";"Adventure";68;30;0;5.19
+200130;"Puzzler World 2";"2011-10-24";"windows";"Casual;Indie;Strategy";150;44;61;4.99
+200150;"Battle Chess: Game of Kings™";"2015-12-11";"windows";"Casual;Strategy";94;110;0;22.99
+200170;"Worms Revolution";"2012-10-10";"windows";"Strategy";3922;686;445;10.99
+200190;"Sideway™ New York";"2011-11-15";"windows";"Adventure;Indie";68;40;0;6.99
+200210;"Realm of the Mad God";"2012-02-20";"windows;mac";"Action;Free to Play;Indie;Massively Multiplayer;RPG";23414;4728;3531;0.0
+200230;"Off-Road Drive";"2011-09-29";"windows";"Racing;Simulation";286;177;0;3.99
+200260;"Batman: Arkham City - Game of the Year Edition";"2012-09-07";"windows;mac";"Action;Adventure";25995;1255;1554;14.99
+200370;"A Game of Dwarves";"2012-10-23";"windows";"Strategy;Casual";275;167;991;7.99
+200390;"Oil Rush";"2012-01-25";"windows;mac;linux";"Indie;Strategy";173;170;9;5.59
+200410;"SOL: Exodus";"2012-01-25";"windows";"Action;Indie;Simulation";45;47;0;5.59
+200490;"Memento Mori";"2012-11-09";"windows";"Adventure";68;48;4;9.99
+200510;"XCOM: Enemy Unknown";"2012-10-11";"windows;mac;linux";"Strategy";36630;2072;1470;14.99
+200550;"Dungeons - The Dark Lord";"2011-09-27";"windows";"RPG;Simulation;Strategy";65;113;3;14.99
+200670;"Disciples III - Resurrection";"2011-10-11";"windows";"Strategy";54;101;0;9.99
+200710;"Torchlight II";"2012-09-20";"windows;mac;linux";"Action;Adventure;Indie;RPG";29539;1757;1037;14.99
+200900;"Cave Story+";"2011-11-22";"windows;linux";"Action;Adventure;Indie";5120;230;150;10.99
+200960;"Geneforge 1";"2001-12-01";"windows";"Strategy;RPG;Indie";268;17;0;0.0
+200980;"Geneforge 2";"2003-07-01";"windows";"Strategy;RPG;Indie";32;3;0;0.0
+200990;"Geneforge 3";"2005-04-01";"windows";"Strategy;RPG;Indie";26;4;0;0.0
+201000;"Geneforge 4: Rebellion";"2006-11-01";"windows";"Strategy;RPG;Indie";24;2;0;0.0
+201010;"Geneforge 5: Overthrow";"2008-11-01";"windows";"Strategy;RPG;Indie";60;6;0;0.0
+201070;"Revelations 2012";"2012-04-23";"windows";"Action;Indie;Strategy";188;133;8;0.0
+201210;"Pox Nora";"2014-10-15";"windows;mac";"Free to Play;RPG;Strategy";384;148;2;0.0
+201230;"EverQuest II";"2011-12-07";"windows";"Free to Play;Massively Multiplayer;RPG";846;319;548;0.0
+201290;"Sins of a Solar Empire: Trinity®";"2011-11-16";"windows";"Strategy";428;149;145;15.49
+201420;"Toki Tori 2+";"2013-07-11";"windows;mac;linux";"Adventure;Casual;Indie";671;130;109;10.99
+201480;"Serious Sam: The Random Encounter";"2011-10-24";"windows";"Action;Indie;RPG";330;310;18;3.99
+201490;"Airline Tycoon 2";"2011-10-24";"windows";"Simulation;Strategy";61;386;0;6.99
+201510;"Flatout 3: Chaos & Destruction";"2011-12-13";"windows";"Racing";290;1874;19;6.99
+201570;"Really Big Sky";"2012-02-24";"windows";"Action;Indie";1429;462;247;3.99
+201790;"Orcs Must Die! 2";"2012-07-30";"windows";"Action;Indie;Strategy";13321;682;429;11.99
+201810;"Wolfenstein: The New Order";"2014-05-19";"windows";"Action";26727;3011;539;14.99
+201870;"Assassin's Creed® Revelations";"2011-11-30";"windows";"Action;Adventure";5912;1055;1153;12.49
+202130;"Impire";"2013-02-14";"windows";"Strategy";167;208;76;14.99
+202200;"Galactic Civilizations® II: Ultimate Edition";"2011-12-02";"windows";"Indie;Strategy";894;300;13;14.99
+202310;"Ridge Racer™ Unbounded";"2012-03-29";"windows";"Racing";541;450;0;7.99
+202370;"Scary Girl";"2012-04-09";"windows";"Action";36;24;31;4.99
+202410;"Scoregasm";"2012-02-08";"windows;mac";"Action;Indie";107;22;17;3.99
+202670;"Nancy Drew®: Alibi in Ashes";"2011-11-02";"windows;mac";"Adventure";42;7;0;5.19
+202690;"Hegemony Gold: Wars of Ancient Greece";"2012-03-30";"windows";"Indie;Strategy";117;4;5;10.99
+202710;"Demigod";"2011-12-14";"windows";"Nudity;Violent;Action;RPG;Strategy";564;212;149;7.19
+202730;"Dynamite Jack";"2012-05-10";"windows;mac;linux";"Action;Adventure;Indie";345;56;9;7.19
+202750;"Alan Wake's American Nightmare";"2012-05-22";"windows";"Action;Adventure";3598;1468;71;6.19
+202860;"Real Warfare 2: Northern Crusades";"2011-11-18";"windows";"Strategy";36;49;0;3.99
+202970;"Call of Duty®: Black Ops II";"2012-11-12";"windows";"Action";25827;4658;524;39.99
+203140;"Hitman: Absolution™";"2012-11-19";"windows;mac";"Action";23277;2478;650;14.99
+203160;"Tomb Raider";"2013-03-04";"windows;mac;linux";"Action;Adventure";93509;4103;527;14.99
+203210;"Titan Attacks!";"2012-02-03";"windows;mac;linux";"Action;Casual;Indie";790;79;189;7.19
+203290;"America's Army: Proving Grounds";"2013-08-01";"windows";"Action;Free to Play";6413;1902;89;0.0
+203350;"King's Bounty: Warriors of the North";"2012-10-25";"windows;mac";"RPG;Strategy";727;156;593;6.99
+203510;"Fortune Summoners";"2012-01-30";"windows";"Action;Indie;RPG";581;93;27;12.99
+203560;"Containment: The Zombie Puzzler";"2012-03-02";"windows;mac;linux";"Casual;Indie";203;47;0;3.99
+203630;"Warlock - Master of the Arcane";"2012-05-08";"windows";"Strategy";1811;293;115;18.99
+203650;"Sonic the Hedgehog 4 - Episode II";"2012-05-14";"windows";"Adventure";663;206;577;5.99
+203680;"F1 RACE STARS™";"2012-11-15";"windows";"Racing";689;215;42;10.99
+203750;"Binary Domain";"2012-04-26";"windows";"Action";4416;742;639;9.99
+203770;"Crusader Kings II";"2012-02-14";"windows;mac;linux";"RPG;Simulation;Strategy";31668;4187;1366;29.99
+203830;"The Dark Eye: Chains of Satinav";"2012-06-22";"windows;mac";"Adventure;Indie";1279;199;290;26.99
+203990;"SATAZIUS";"2011-12-16";"windows;linux";"Action;Indie";211;24;87;4.79
+204030;"Fable - The Lost Chapters";"2011-12-19";"windows";"Action;Adventure;RPG";4384;364;494;6.99
+204060;"Superbrothers: Sword & Sworcery EP";"2012-04-16";"windows;mac;linux";"Adventure;Indie";1764;489;73;4.99
+204100;"Max Payne 3";"2012-05-31";"windows";"Action";21581;4374;464;14.99
+204120;"LEGO® Harry Potter: Years 5-7";"2012-01-05";"windows";"Adventure";628;104;1904;14.99
+204180;"Waveform";"2012-03-20";"windows;mac;linux";"Adventure;Indie;Strategy";1778;345;125;0.79
+204220;"Snapshot";"2012-08-30";"windows;mac;linux";"Adventure;Casual;Indie";161;61;89;6.99
+204240;"The Bridge";"2013-02-22";"windows;mac;linux";"Casual;Indie;Strategy";2950;374;129;6.99
+204300;"Awesomenauts - the 2D moba";"2012-08-01";"windows;mac;linux";"Action;Free to Play;Indie;Strategy";20770;3678;999;0.0
+204340;"Serious Sam 2";"2012-01-31";"windows";"Action;Indie";5353;702;233;6.99
+204360;"Castle Crashers®";"2012-09-26";"windows;mac";"Action;Adventure;Casual;Indie;RPG";50273;2063;1094;9.99
+204390;"Pineapple Smash Crew ";"2012-02-02";"windows";"Action;Indie";94;20;0;6.99
+204440;"Pickers";"2012-02-22";"windows;mac";"Adventure;Casual";112;26;0;6.99
+204530;"Infested Planet";"2014-03-06";"windows;mac";"Action;Indie;Strategy";1954;127;2974;11.39
+204560;"Confrontation";"2012-04-04";"windows";"Action;RPG;Strategy";77;228;0;6.99
+204580;"Rotastic";"2012-10-11";"windows";"Action;Casual";23;4;0;7.99
+204630;"Retro City Rampage™ DX";"2014-11-11";"windows;mac;linux";"Action;Adventure;Indie;Racing";2005;243;540;10.99
+204760;"Deep Black: Reloaded";"2012-04-18";"windows";"Action";52;144;0;22.99
+204860;"Men of War: Condemned Heroes";"2012-04-12";"windows";"Action;Strategy";188;101;115;5.59
+204880;"Sins of a Solar Empire: Rebellion®";"2012-06-12";"windows";"Indie;Strategy";8642;712;507;30.99
+204940;"Crusader Kings Complete";"2012-02-14";"windows";"Strategy";89;53;60;7.99
+204960;"Magical Drop V";"2012-11-15";"windows";"Casual;Indie";218;192;182;0.79
+205020;"Lumino City";"2014-12-02";"windows;mac";"Adventure;Casual;Indie";928;117;29;8.99
+205060;"BIT.TRIP CORE";"2012-10-02";"windows;mac";"Action;Indie";70;51;0;6.99
+205070;"BIT.TRIP VOID";"2012-12-19";"windows;mac";"Action;Indie";58;19;0;6.99
+205080;"BIT.TRIP FATE";"2013-07-11";"windows;mac";"Action;Indie";68;41;0;6.99
+205090;"BIT.TRIP FLUX";"2014-06-05";"windows;mac";"Action;Casual;Indie";71;62;0;6.99
+205100;"Dishonored";"2012-10-11";"windows";"Action;Adventure";41756;1269;749;7.99
+205190;"Rocksmith™";"2012-10-18";"windows";"Casual;Simulation";869;80;1371;25.99
+205230;"Hell Yeah! Wrath of the Dead Rabbit";"2012-10-03";"windows";"Action";2712;434;188;9.99
+205270;"3DMark 11";"2012-10-02";"windows";"Utilities";29;7;0;14.99
+205530;"Gratuitous Tank Battles";"2012-05-17";"windows;mac";"Indie;Simulation;Strategy";48;43;0;6.99
+205550;"Foreign Legion: Multi Massacre";"2012-07-09";"windows;mac";"Action;Indie;Casual";200;108;26;4.79
+205610;"Port Royale 3";"2012-05-04";"windows";"Action;Simulation;Strategy";479;214;64;9.99
+205650;"The Testament of Sherlock Holmes";"2012-09-20";"windows";"Adventure";1488;301;1;14.99
+205690;"1000 Amps";"2012-02-22";"windows;mac";"Adventure;Indie";229;62;0;3.99
+205710;"EverQuest";"2012-12-13";"windows";"Free to Play;Massively Multiplayer;RPG";598;219;20;0.0
+205730;"Insanely Twisted Shadow Planet";"2012-04-17";"windows;mac;linux";"Action;Adventure;Indie";547;83;275;11.99
+205810;"Jagged Alliance: Crossfire";"2012-08-24";"windows";"RPG;Simulation;Strategy";112;75;0;9.99
+205830;"Luxor Evolved";"2012-03-01";"windows";"Action;Indie;Casual";196;18;94;6.99
+205840;"Yesterday";"2012-03-22";"windows";"Adventure";551;113;126;6.99
+205870;"Auditorium";"2012-02-28";"windows;mac";"Indie;Casual";202;46;0;4.99
+205910;"Tiny and Big: Grandpa's Leftovers";"2012-06-19";"windows;mac;linux";"Indie";3483;309;207;6.99
+205950;"Jet Set Radio";"2012-09-19";"windows";"Action";3398;631;207;5.59
+205990;"Warlock 2: The Exiled";"2014-04-10";"windows;mac;linux";"Strategy";558;288;0;14.99
+206020;"Avernum 4";"2012-05-11";"windows";"RPG;Indie";55;10;0;0.0
+206040;"Avernum 5";"2012-05-11";"windows";"RPG;Indie";17;4;0;3.99
+206060;"Avernum 6";"2012-05-11";"windows";"RPG;Indie";36;2;0;3.99
+206190;"Gunpoint";"2013-06-03";"windows;mac;linux";"Action;Indie;Strategy";10384;271;212;6.0
+206210;"Gotham City Impostors Free to Play";"2012-08-30";"windows";"Action;Free to Play";9269;1773;120;0.0
+206230;"Clan of Champions";"2012-10-30";"windows";"Action";31;22;0;1.59
+206250;"Cladun X2 / クラシックダンジョンX2";"2012-08-14";"windows";"Action;Indie;RPG";78;27;541;6.99
+206370;"Tales From Space: Mutant Blobs Attack";"2012-08-15";"windows;mac;linux";"Action;Indie";544;57;183;7.19
+206410;"Crazy Machines Elements";"2012-02-10";"windows";"Casual;Strategy";18;6;0;6.99
+206420;"Saints Row IV";"2013-08-22";"windows;linux";"Action;Adventure";54091;4945;1279;10.99
+206440;"To the Moon";"2012-09-07";"windows;mac;linux";"Adventure;Indie;RPG";42115;1423;200;6.99
+206480;"Dungeons & Dragons Online®";"2012-06-25";"windows;mac";"Action;Adventure;Free to Play;Massively Multiplayer;RPG";1718;696;557;0.0
+206500;"AirMech Strike";"2018-03-30";"windows";"Action;Free to Play;Indie;Strategy";7640;1440;441;0.0
+206610;"3SwitcheD";"2012-03-29";"windows;mac";"Casual;Indie";117;196;260;6.99
+206690;"iBomber Defense Pacific";"2012-03-01";"windows;mac;linux";"Casual;Indie;Strategy";421;84;82;2.99
+207000;"Alien Spidy";"2013-03-20";"windows;mac";"Action;Adventure;Indie";82;54;0;7.99
+207020;"Bang Bang Racing";"2012-06-08";"windows";"Racing";317;82;0;7.99
+207080;"Indie Game: The Movie";"2012-06-12";"windows;mac";"Indie";1536;126;218;6.99
+207140;"SpeedRunners";"2016-04-19";"windows;mac;linux";"Action;Casual;Indie;Racing;Sports";20854;1455;421;10.99
+207170;"Legend of Grimrock";"2012-04-11";"windows;mac;linux";"Adventure;Indie;RPG";4420;268;314;10.99
+207190;"Fireburst";"2012-04-25";"windows";"Action;Adventure;Racing";72;69;0;6.99
+207230;"ArcheBlade™";"2014-04-25";"windows";"Action;Free to Play;Indie";5642;2086;640;0.0
+207250;"Cubemen";"2012-03-16";"windows;mac;linux";"Indie;Strategy";347;134;70;2.79
+207320;"Ys: The Oath in Felghana";"2012-03-19";"windows";"Action;Adventure;RPG";936;57;635;9.99
+207350;"Ys Origin";"2012-05-31";"windows";"Action;Adventure;RPG";1811;91;826;12.99
+207370;"eXceed - Gun Bullet Children";"2012-08-02";"windows";"Action;Indie";204;215;97;1.99
+207380;"eXceed 2nd - Vampire REX";"2012-08-02";"windows";"Action";193;29;147;4.79
+207400;"eXceed 3rd - Jade Penetrate Black Package";"2012-08-02";"windows";"Action";489;41;127;4.79
+207420;"Wizorb";"2012-03-14";"windows;mac;linux";"Action;Adventure;Indie";538;224;504;1.99
+207430;"Hack, Slash, Loot";"2012-04-05";"windows;mac";"Casual;Indie;RPG";337;332;133;4.99
+207490;"Rayman® Origins";"2012-03-29";"windows";"Action;Adventure";1509;114;266;8.59
+207530;"Noitu Love 2: Devolution";"2012-04-23";"windows";"Action;Indie";469;28;219;3.99
+207570;"English Country Tune";"2012-08-09";"windows;mac;linux";"Indie;Casual";278;61;3;3.99
+207650;"A Virus Named TOM";"2012-08-01";"windows;mac;linux";"Action;Indie;Strategy";379;305;92;6.99
+207670;"AVSEQ";"2012-08-23";"windows;mac";"Indie;Casual";28;34;0;1.59
+207690;"Botanicula";"2012-05-07";"windows;mac";"Adventure;Casual;Indie";3524;136;16;7.99
+207710;"Bumbledore";"2012-03-15";"windows;mac";"Casual;Indie;Strategy";25;15;0;3.99
+207730;"Arena Wars 2";"2012-10-12";"windows";"Action;Strategy";128;256;0;2.79
+207750;"Symphony";"2012-08-06";"windows;mac;linux";"Action;Casual;Indie";1159;209;321;6.19
+207790;"Jane's Advanced Strike Fighters";"2012-03-08";"windows";"Simulation";102;229;0;7.99
+207930;"Sacred Citadel";"2013-04-16";"windows";"Action";645;287;220;7.99
+208110;"Myst V: End of Ages";"2012-03-16";"windows;mac";"Adventure;Casual";57;40;0;6.99
+208140;"Endless Space® - Collection";"2012-07-04";"windows;mac";"Strategy";5708;1417;1102;0.0
+208200;"Doom 3: BFG Edition";"2012-10-18";"windows";"Action";3957;772;644;14.99
+208400;"Avernum: Escape From the Pit";"2012-04-11";"windows;mac";"Strategy;RPG;Indie";658;55;0;6.99
+208460;"Tryst";"2012-09-14";"windows";"Action;Indie;Strategy";10;36;30;11.99
+208500;"F1 2012™";"2012-09-19";"windows";"Racing;Simulation;Sports";1447;176;1623;14.99
+208520;"Omerta - City of Gangsters";"2013-01-31";"windows;mac";"Simulation;Strategy";1029;632;209;10.99
+208580;"STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™";"2012-08-23";"windows;mac;linux";"RPG";8047;978;990;7.19
+208600;"Lunar Flight";"2012-04-10";"windows;mac";"Indie;Simulation";465;95;411;10.99
+208620;"Midnight Mysteries: Salem Witch Trials";"2012-03-28";"windows";"Adventure;Casual";59;32;0;6.99
+208630;"Midnight Mysteries 3: Devil on the Mississippi";"2012-03-28";"windows";"Adventure;Casual";60;15;0;6.99
+208640;"Midnight Mysteries 4: Haunted Houdini";"2012-03-28";"windows";"Adventure;Casual";53;4;0;6.99
+208650;"Batman™: Arkham Knight";"2015-06-23";"windows";"Action;Adventure";33121;12981;1266;15.99
+208670;"Blades of Time";"2012-04-20";"windows;mac";"Action;Adventure";1363;333;105;6.99
+208710;"Colour Bind";"2012-09-24";"windows";"Action;Indie";23;10;0;6.99
+208730;"Game of Thrones";"2012-06-07";"windows";"Action;RPG";1407;587;1042;10.99
+208750;"Apotheon";"2015-02-03";"windows;mac;linux";"Action;Adventure;Indie;RPG";2239;240;716;10.99
+209000;"Batman™: Arkham Origins";"2013-10-24";"windows";"Action;Adventure";20365;3519;538;0.0
+209060;"Drunken Robot Pornography";"2014-02-19";"windows;linux";"Action;Indie";524;99;167;10.99
+209080;"Guns of Icarus Online";"2012-10-29";"windows;mac;linux";"Action;Adventure;Indie;Simulation";12932;1276;275;3.99
+209100;"Resident Evil: Operation Raccoon City";"2012-05-18";"windows";"Action";1171;1079;237;22.99
+209120;"Street Fighter X Tekken";"2012-05-11";"windows";"Action";858;697;136;22.99
+209160;"Call of Duty®: Ghosts";"2014-03-25";"windows";"Action";14892;10757;266;39.99
+209190;"Stealth Bastard Deluxe";"2012-11-28";"windows;mac;linux";"Action;Indie";783;93;373;6.99
+209230;"Sherlock Holmes and The Hound of The Baskervilles";"2012-04-23";"windows";"Adventure;Casual";194;41;0;6.99
+209330;"A Valley Without Wind";"2012-04-24";"windows;mac;linux";"Action;Adventure;Indie";272;186;84;0.0
+209360;"All Zombies Must Die!: Scorepocalypse ";"2012-04-19";"windows";"Action;Indie";43;14;0;3.99
+209370;"Analogue: A Hate Story";"2012-04-27";"windows;mac;linux";"Indie";1881;128;167;7.19
+209390;"Dungeonbowl - Knockout Edition";"2012-07-02";"windows";"Sports;Strategy";15;52;487;9.99
+209520;"Mini Motor Racing EVO";"2013-05-01";"windows";"Casual;Indie;Racing";411;224;121;3.99
+209540;"Strike Suit Zero";"2013-01-23";"windows;mac;linux";"Action;Indie;Simulation";1211;339;57;14.99
+209610;"Roller Coaster Rampage";"2012-06-19";"windows";"Casual;Indie;Simulation";61;49;0;6.99
+209630;"Magrunner: Dark Pulse";"2013-06-20";"windows";"Action;Adventure";251;50;0;6.99
+209650;"Call of Duty®: Advanced Warfare - Gold Edition";"2014-11-03";"windows";"Action";13389;8379;250;39.99
+209670;"Cortex Command";"2012-09-28";"windows;mac";"Action;Indie;Strategy";3119;1454;199;14.99
+209690;"Fieldrunners";"2012-05-24";"windows;mac";"Strategy;Indie;Casual";124;79;130;3.99
+209730;"R.A.W. Realms of Ancient War";"2012-10-11";"windows";"Action;RPG";288;312;24;11.99
+209750;"Cannon Fodder 3";"2012-08-06";"windows";"Action";57;56;0;10.99
+209790;"Splice";"2012-06-13";"windows;mac;linux";"Indie;Casual";470;61;21;6.99
+209830;"Lone Survivor: The Director's Cut";"2012-04-23";"windows;mac";"Action;Adventure;Indie;RPG;Simulation";1019;153;93;11.39
+209850;"Highborn";"2013-02-19";"windows;mac";"Casual;Indie;Strategy";33;20;0;1.59
+209950;"Triple Town";"2012-12-06";"windows;mac";"Casual;Indie;Strategy";559;50;170;6.99
+210170;"Spirits";"2012-09-04";"windows;mac;linux";"Action;Indie;Strategy";152;61;135;2.89
+210230;"Nancy Drew®: Tomb of the Lost Queen";"2012-05-16";"windows;mac";"Adventure";19;2;0;14.99
+210770;"Sanctum 2";"2013-05-15";"windows;mac;linux";"Action;Indie;Strategy";11629;1273;293;11.39
+210870;"Cloudberry Kingdom™";"2013-08-02";"windows";"Indie";174;17;33;8.59
+210950;"Rune Classic";"2012-06-13";"windows";"Action;Adventure";541;50;316;6.99
+210970;"The Witness";"2016-01-26";"windows;mac";"Adventure;Indie";6572;1282;630;29.99
+211010;"Alien Shooter 2 Conscription";"2012-05-18";"windows";"Action;Indie;RPG";200;46;47;7.19
+211160;"Viking: Battle for Asgard";"2012-10-17";"windows";"Action;Adventure";856;1013;43;9.99
+211180;"Unmechanical";"2012-08-08";"windows;mac;linux";"Adventure;Casual;Indie";371;28;58;6.99
+211260;"They Bleed Pixels";"2012-08-29";"windows;mac;linux";"Action;Indie";1965;327;300;6.99
+211280;"Primal Fears";"2013-01-08";"windows";"Action;Indie";172;120;0;6.99
+211340;"Magical Diary: Horse Hall";"2012-05-31";"windows;mac;linux";"Adventure;Indie;RPG";800;96;0;10.99
+211360;"Offspring Fling!";"2012-05-11";"windows;mac";"Adventure;Indie";449;90;134;4.99
+211400;"Deadlight";"2012-10-25";"windows";"Action;Adventure;Indie";8981;2298;307;9.99
+211440;"Adventures of Shuggy";"2012-06-13";"windows;mac;linux";"Indie";955;149;69;3.99
+211500;"RaceRoom Racing Experience";"2013-02-12";"windows";"Free to Play;Racing;Simulation;Sports";5204;3571;81;0.0
+211580;"Wanderlust: Rebirth";"2012-07-27";"windows";"Action;Adventure;Indie;RPG";249;229;152;3.99
+211600;"Thief™ Gold";"2012-05-22";"windows";"Action;Simulation";1649;148;230;4.99
+211740;"Thief™ II: The Metal Age";"2012-05-22";"windows";"Action;Simulation";845;51;1584;4.99
+211780;"Conflict Desert Storm™";"2012-05-28";"windows";"Action";376;93;0;4.99
+211800;"Dead Hungry Diner";"2012-05-16";"windows";"Casual;Indie";91;28;239;3.99
+211820;"Starbound";"2016-07-22";"windows;mac;linux";"Action;Adventure;Casual;Indie;RPG";74162;7816;3556;11.99
+211900;"Conquest of Elysium 3";"2012-10-24";"windows;mac;linux";"Indie;Strategy";236;53;0;6.99
+211970;"Test Drive: Ferrari Racing Legends";"2012-12-10";"windows";"Racing";144;108;1350;14.99
+212010;"Galaxy on Fire 2™ Full HD";"2012-08-21";"windows";"Action;Indie;Simulation;Strategy";1046;382;361;5.59
+212030;"Kung Fu Strike - The Warrior's Rise";"2012-07-24";"windows";"Action;Indie";803;211;98;6.99
+212050;"Resonance";"2012-07-25";"windows";"Adventure;Indie";353;30;219;6.99
+212070;"Star Conflict";"2013-02-27";"windows;mac;linux";"Action;Free to Play;Massively Multiplayer;Simulation";8647;2796;4623;0.0
+212110;"Sugar Cube: Bittersweet Factory";"2012-11-07";"windows";"Action;Indie";145;48;268;4.99
+212160;"Vindictus";"2012-06-22";"windows";"Action;Adventure;Free to Play;Massively Multiplayer;RPG";3646;1460;408;0.0
+212390;"Continent of the Ninth Seal";"2012-09-13";"windows";"Action;Free to Play;Massively Multiplayer;RPG";892;334;48;0.0
+212500;"The Lord of the Rings Online™";"2012-06-06";"windows;mac";"Free to Play;Massively Multiplayer;RPG";6860;1644;892;0.0
+212630;"Tom Clancy's Ghost Recon: Future Soldier™";"2012-06-27";"windows";"Action";2178;1153;229;12.49
+212680;"FTL: Faster Than Light";"2012-09-14";"windows;mac;linux";"Indie;Simulation;Strategy";42641;1629;1111;6.99
+212700;"Party of Sin";"2012-12-13";"windows";"Action;Adventure;Indie";98;89;290;4.79
+212780;"New Star Soccer 5";"2012-09-27";"windows;mac";"Indie;Simulation;Sports";190;105;0;9.99
+212800;"Super Crate Box";"2012-08-29";"windows;mac;linux";"Action;Free to Play;Indie";5951;702;34;0.0
+213030;"Penny Arcade's On the Rain-Slick Precipice of Darkness 3";"2012-06-25";"windows;mac";"Indie;RPG";466;71;0;1.69
+213330;"LEGO® Batman™ 2: DC Super Heroes";"2012-06-22";"windows";"Action;Adventure";969;129;988;14.99
+213350;"MDK2 HD";"2012-07-30";"windows";"Action";49;43;0;10.99
+213390;"Atooms to Moolecules Demo";"2012-04-06";"windows";"Indie;Casual";9;6;0;0.0
+213610;"Sonic Adventure 2";"2012-11-19";"windows";"Action";4676;913;805;5.99
+213650;"Dwarfs - F2P";"2012-10-18";"windows;mac";"Casual;Free to Play;Indie;Strategy";1327;225;30;0.0
+213670;"South Park™: The Stick of Truth™";"2014-03-06";"windows";"Action;Adventure;RPG";35896;911;1045;25.99
+213850;"Magic 2014 — Duels of the Planeswalkers";"2013-06-26";"windows";"Strategy";3615;773;1149;6.99
+214100;"Rigonauts";"2012-08-07";"windows";"Strategy;Indie;Casual;Simulation";27;28;0;6.99
+214130;"Aerofly FS 1 Flight Simulator";"2012-10-17";"windows";"Indie;Simulation";88;53;0;15.49
+214150;"Galactic Civilizations® I: Ultimate Edition";"2012-08-14";"windows";"Strategy";93;91;22;6.99
+214170;"Divine Divinity";"2012-07-05";"windows";"RPG";1432;193;39;4.79
+214250;"I Am Alive";"2012-09-06";"windows";"Action;Adventure";1361;701;408;12.49
+214340;"Deponia";"2012-08-06";"windows;mac;linux";"Adventure;Indie";7208;840;217;6.99
+214360;"Tower Wars";"2012-08-14";"windows;mac";"Action;Indie;Strategy";1176;433;239;5.59
+214420;"Gear Up";"2015-01-28";"windows;mac;linux";"Action;Free to Play;Indie";6383;2225;139;0.0
+214490;"Alien: Isolation";"2014-10-06";"windows;mac;linux";"Action";24534;1958;563;29.99
+214550;"Eets Munchies";"2014-03-11";"windows;mac;linux";"Casual;Indie;Simulation;Strategy";471;122;128;4.99
+214570;"ETHER VAPOR Remaster";"2012-09-27";"windows";"Action";188;55;71;5.59
+214590;"Fairy Bloom Freesia";"2012-10-17";"windows";"Action;Indie";882;139;159;5.59
+214610;"Cherry Tree High Comedy Club";"2012-11-08";"windows";"Adventure;Indie";457;79;222;5.59
+214630;"Call of Duty: Black Ops - Mac Edition";"2012-09-27";"mac";"Action";168;105;0;15.49
+214700;"Thirty Flights of Loving";"2012-08-20";"windows;mac";"Adventure;Casual;Indie";934;616;0;3.99
+214730;"Space Rangers HD: A War Apart";"2013-10-17";"windows";"Action;Adventure;RPG;Simulation;Strategy";3313;170;0;11.99
+214770;"Guacamelee! Gold Edition";"2013-08-08";"windows;mac;linux";"Action;Adventure;Indie";4881;338;245;9.99
+214790;"The Basement Collection";"2012-08-31";"windows;mac";"Adventure;Indie;Strategy";812;153;315;2.99
+214830;"Half Minute Hero: Super Mega Neo Climax Ultimate Boy";"2012-09-27";"windows";"Action;Casual;RPG";1147;172;254;6.99
+214870;"Painkiller Hell & Damnation";"2012-10-31";"windows;mac;linux";"Action";2240;679;189;17.99
+214910;"Air Conflicts: Pacific Carriers";"2012-09-21";"windows;mac";"Action;Simulation";181;208;0;7.19
+214950;"Total War™: ROME II - Emperor Edition";"2013-09-02";"windows;mac";"Strategy";31864;13423;5760;29.99
+214970;"Intrusion 2";"2012-09-11";"windows;linux";"Action;Indie";983;194;85;6.49
+215080;"WAKFU";"2014-09-18";"windows;mac;linux";"Adventure;Free to Play;Massively Multiplayer;RPG;Strategy";4413;1335;2258;0.0
+215160;"The Book of Unwritten Tales";"2012-07-31";"windows;mac;linux";"Adventure";1386;134;62;17.99
+215280;"Secret World Legends";"2017-07-31";"windows";"Action;Adventure;Free to Play;Massively Multiplayer;RPG";4420;2106;645;0.0
+215390;"Damage Inc. Pacific Squadron WWII";"2012-08-28";"windows";"Action;Simulation";6;6;0;29.99
+215470;"Primal Carnage";"2012-10-29";"windows";"Action;Indie";4447;1323;423;5.59
+215510;"Rocketbirds: Hardboiled Chicken";"2012-10-15";"windows;mac;linux";"Adventure;Indie";2175;571;92;3.99
+215530;"The Incredible Adventures of Van Helsing";"2013-05-22";"windows";"Action;Adventure;Indie;RPG";4993;1064;572;10.99
+215550;"Zombie Playground™";"2016-10-31";"windows;mac";"Violent;Gore;Action;Adventure;Indie;RPG";155;168;5;6.99
+215630;"Demonicon";"2013-10-24";"windows";"Action;Adventure;RPG";492;235;654;6.99
+215670;"Home";"2012-08-31";"windows;mac";"Adventure;Indie";1069;518;21;1.99
+215690;"Zeno Clash 2";"2013-04-30";"windows";"Action;Indie";764;256;156;10.99
+215710;" Fieldrunners 2";"2013-01-10";"windows";"Action;Strategy;Casual";268;53;0;6.99
+215770;"Shad'O";"2012-09-04";"windows";"Action;Indie;Strategy";50;42;58;3.99
+215790;"Dream Pinball 3D";"2012-09-19";"windows;mac";"Casual;Simulation";164;379;273;4.99
+215830;"Closers";"2018-02-06";"windows";"Action;Free to Play;Massively Multiplayer;RPG";2061;734;194;0.0
+215870;"Dungeon-Party";"2013-03-13";"windows";"Free to Play;Massively Multiplayer";154;231;1;0.0
+215930;"Jagged Alliance 2 - Wildfire";"2012-11-16";"windows;mac;linux";"RPG;Strategy";454;180;526;4.99
+216090;"Go Home Dinosaurs!";"2013-03-14";"windows";"Casual;Indie;Strategy";336;20;458;6.99
+216110;"Tiny Troopers";"2012-08-24";"windows;mac";"Action;Indie;Strategy";719;183;35;3.99
+216130;"Gemini Wars";"2012-11-02";"windows;mac";"Indie;Strategy";30;103;0;10.99
+216150;"MapleStory";"2012-08-09";"windows";"Casual;Free to Play;Massively Multiplayer;RPG";3629;1711;71;0.0
+216210;"Secret Files 3";"2012-09-13";"windows";"Adventure";55;31;0;7.99
+216260;"Don Bradman Cricket 14";"2014-06-25";"windows";"Indie;Simulation;Sports";444;52;0;15.49
+216290;"Gateways";"2012-09-13";"windows;mac;linux";"Indie";171;12;9;3.99
+216670;"Great Big War Game";"2012-08-28";"windows";"Indie;Strategy";30;4;0;4.99
+216890;"Blood Bowl: Chaos Edition";"2012-10-11";"windows";"Sports;Strategy";1108;277;342;11.99
+216910;"Of Orcs And Men";"2012-10-11";"windows";"Action;RPG";856;333;143;10.99
+216930;"Luxor: Amun Rising HD";"2012-09-03";"windows";"Casual";18;4;0;6.99
+217120;"Waves 2";"2015-12-16";"windows";"Action;Casual;Indie;Early Access";63;8;0;6.99
+217140;"Rise of the Triad";"2013-07-31";"windows";"Action";1436;673;280;10.99
+217200;"Worms Armageddon";"2013-03-19";"windows";"Strategy";3517;231;246;10.99
+217270;"Karateka";"2012-12-03";"windows";"Action;Indie";127;55;0;2.89
+217290;"Din's Curse";"2012-08-22";"windows;mac;linux";"Action;Indie;RPG";142;22;0;6.99
+217690;"Anna - Extended Edition";"2013-04-12";"windows;mac;linux";"Adventure;Indie";878;489;269;7.99
+217750;"Age of Conan: Unchained";"2013-02-22";"windows";"Action;Adventure;Free to Play;Massively Multiplayer;RPG";874;397;148;0.0
+217790;"Dogfight 1942";"2012-09-21";"windows";"Simulation";414;165;0;6.99
+217920;"Alien Rage - Unlimited";"2013-09-24";"windows";"Action";1657;722;317;14.99
+218020;"Nethergate: Resurrection";"2012-10-05";"windows";"Strategy;RPG;Indie";50;8;0;3.99
+218040;"Democracy 2";"2012-10-11";"windows;mac";"Indie;Simulation;Strategy";50;47;0;14.99
+218060;"BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien";"2013-02-26";"windows;mac;linux";"Action;Indie";2615;221;57;10.99
+218090;"Unity of Command: Stalingrad Campaign";"2012-10-17";"windows;mac;linux";"Indie;Strategy";504;116;8368;14.99
+218230;"PlanetSide 2";"2012-11-20";"windows";"Action;Free to Play;Massively Multiplayer";35968;7753;1051;0.0
+218410;"Defender's Quest: Valley of the Forgotten (DX edition)";"2012-10-30";"windows;mac;linux";"Indie;RPG;Strategy";2688;102;899;10.99
+218510;"Planets Under Attack";"2012-09-27";"windows;mac";"Indie;Strategy";492;191;299;6.99
+218620;"PAYDAY 2";"2013-08-13";"windows;linux";"Action;RPG";308657;56523;3975;7.49
+218640;"Lucius";"2012-10-26";"windows";"Violent;Gore;Action;Adventure;Indie";5775;1400;172;6.99
+218660;"iBomber Attack";"2012-11-01";"windows;mac;linux";"Action;Adventure;Indie";112;30;0;4.99
+218680;"Scribblenauts Unlimited";"2013-02-15";"windows";"Adventure;Casual;Strategy";6661;588;630;14.99
+218700;"Angelica Weaver: Catch Me When You Can";"2013-01-07";"windows";"Adventure;Casual";70;28;0;9.99
+218740;"Pid";"2012-10-31";"windows;mac";"Adventure;Indie";2021;370;61;6.99
+218820;"Mercenary Kings: Reloaded Edition";"2014-03-25";"windows;mac;linux";"Action;Adventure;Indie;RPG";1511;637;348;14.99
+219070;"Miner Wars Arena";"2012-08-28";"windows;mac";"Action;Indie";10;13;0;3.99
+219150;"Hotline Miami";"2012-10-23";"windows;mac;linux";"Action;Indie";45809;1211;380;6.99
+219190;"Ultratron";"2013-03-18";"windows;mac;linux";"Action;Indie";545;60;84;7.19
+219200;"Droid Assault";"2013-01-09";"windows;mac;linux";"Action;Indie";275;55;8;7.19
+219340;"The Banner Saga: Factions";"2013-02-25";"windows;mac";"Free to Play;Indie;RPG;Strategy";569;202;95245;0.0
+219640;"Chivalry: Medieval Warfare";"2012-10-16";"windows;mac;linux";"Action;Indie";51499;10939;675;18.99
+219680;"Proteus";"2013-01-30";"windows;mac;linux";"Adventure;Casual;Indie";1847;659;36;6.99
+219700;"Dogs of War Online";"2014-02-04";"windows";"Free to Play;Strategy";447;250;29;0.0
+219760;"Beyond Divinity";"2012-10-29";"windows";"RPG";150;131;13;4.79
+219780;"Divinity II: Developer's Cut";"2012-10-29";"windows";"RPG";2001;441;2511;14.99
+219830;"King Arthur's Gold";"2013-11-05";"windows;mac;linux";"Action;Free to Play;Indie";3127;643;384;0.0
+219890;"Antichamber";"2013-01-31";"windows;mac;linux";"Adventure;Indie";12232;612;176;14.99
+219910;"Edna & Harvey: Harvey's New Eyes";"2012-10-16";"windows;mac;linux";"Adventure;Indie";1674;162;170;15.99
+219950;"NiGHTS Into Dreams";"2012-12-17";"windows";"Adventure";553;79;9;5.59
+219990;"Grim Dawn";"2016-02-25";"windows";"Action;Adventure;Indie;RPG";26805;2605;3651;19.99
+220090;"The Journey Down: Chapter One";"2013-01-09";"windows;mac;linux";"Adventure;Indie";902;129;303;5.99
+220160;"Trials Evolution: Gold Edition";"2013-03-21";"windows";"Action;Racing";1382;423;501;16.99
+220200;"Kerbal Space Program";"2015-04-27";"windows;mac;linux";"Indie;Simulation";49328;5168;9223;29.99
+220240;"Far Cry 3";"2012-11-28";"windows";"Action;Adventure";46331;5622;836;16.99
+220260;"Farming Simulator 2013 Titanium Edition";"2013-10-09";"windows;mac";"Casual;Simulation";3962;381;705;11.39
+220420;"Nancy Drew®: The Deadly Device";"2012-10-23";"windows;mac";"Adventure";10;2;0;15.49
+220440;"DmC: Devil May Cry";"2013-01-24";"windows";"Action;Adventure";14820;956;533;23.99
+220460;"Cargo Commander";"2012-11-01";"windows;mac;linux";"Action;Indie";641;140;663;2.09
+220660;"StarDrive";"2013-04-26";"windows";"Indie;Strategy";547;729;0;22.99
+220740;"Chaos on Deponia";"2012-11-06";"windows;mac;linux";"Adventure;Indie";1433;121;227;15.99
+220780;"Thomas Was Alone";"2012-11-12";"windows;mac";"Indie";7456;438;72;5.99
+220820;"Zombie Driver HD";"2012-10-17";"windows";"Violent;Gore;Action;Indie;Racing";2050;381;338;6.99
+220860;"McPixel";"2012-09-25";"windows;mac";"Action;Adventure;Indie";3000;581;136;2.99
+220900;"Jack Lumber";"2013-04-30";"windows;mac;linux";"Action;Casual;Indie;Strategy";218;125;140;3.99
+221020;"Towns";"2012-11-07";"windows;mac";"Indie;RPG;Simulation;Strategy";632;1878;2365;9.99
+221040;"Resident Evil 6 / Biohazard 6";"2013-03-21";"windows";"Action;Adventure";14643;3904;1602;19.99
+221100;"DayZ";"2018-12-13";"windows";"Action;Adventure;Massively Multiplayer";118435;77169;7235;33.99
+221180;"Eufloria HD";"2014-10-14";"windows;mac;linux";"Indie;Strategy";351;35;0;10.99
+221260;"Little Inferno";"2012-11-19";"windows;mac;linux";"Adventure;Casual;Indie";6403;459;177;6.99
+221380;"Age of Empires II HD";"2013-04-09";"windows";"Strategy";54090;3178;1569;14.99
+221540;"DG2: Defense Grid 2";"2014-09-23";"windows";"Indie;Strategy";1579;354;3601;10.99
+221640;"Super Hexagon";"2012-11-27";"windows;mac;linux";"Action;Indie";19797;616;140;1.99
+221680;"Rocksmith® 2014 Edition - Remastered";"2016-10-04";"windows;mac";"Casual;Simulation";8228;789;6704;25.99
+221810;"The Cave";"2013-01-23";"windows;mac;linux";"Adventure";1702;266;217;9.99
+221830;"The Book of Unwritten Tales: The Critter Chronicles";"2012-12-05";"windows;mac;linux";"Adventure;Indie";266;50;0;17.99
+221910;"The Stanley Parable";"2013-10-17";"windows;mac;linux";"Adventure;Indie";31538;2846;170;9.99
+222140;"Puddle";"2012-11-09";"windows;mac;linux";"Action;Indie;Simulation";322;119;186;5.59
+222180;"Mushroom Men: Truffle Trouble";"2015-03-10";"windows";"Action;Indie";21;9;0;1.99
+222420;"THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION";"2014-12-16";"windows";"Action";880;163;0;10.99
+222440;"THE KING OF FIGHTERS 2002 UNLIMITED MATCH";"2015-02-27";"windows";"Action";903;78;0;10.99
+222480;"Resident Evil Revelations / Biohazard Revelations";"2013-05-23";"windows";"Action;Adventure";4962;975;683;23.99
+222500;"Rail Adventures - VR Tech Demo";"2016-08-25";"windows";"Action;Free to Play;Indie;Racing";16;17;0;0.0
+222520;"Champions of Regnum";"2013-02-27";"windows;mac;linux";"Free to Play;Indie;Massively Multiplayer;RPG";514;322;43;0.0
+222640;"Aarklash: Legacy";"2013-09-12";"windows";"Adventure;Strategy";478;145;144;12.39
+222730;"Reus";"2013-05-16";"windows;mac;linux";"Indie;Simulation;Strategy";3569;917;1293;6.99
+222750;"Wargame: Airland Battle";"2013-05-29";"windows;mac;linux";"Strategy";3279;415;1069;14.99
+222880;"Insurgency";"2014-01-22";"windows;mac;linux";"Action;Indie;Strategy";92355;9570;712;6.99
+222940;"THE KING OF FIGHTERS XIII STEAM EDITION";"2013-09-13";"windows";"Action";4300;537;451;14.99
+222980;"Dead Pixels";"2012-12-07";"windows";"Action;Indie;RPG";2005;309;117;1.99
+223000;"7 Wonders: Ancient Alien Makeover";"2012-10-24";"windows";"Strategy;Casual";159;24;0;6.99
+223100;"Homefront®: The Revolution";"2016-05-19";"windows";"Violent;Action;Adventure";6396;5102;408;24.99
+223220;"Giana Sisters: Twisted Dreams";"2012-10-22";"windows";"Action;Indie";1229;326;177;10.99
+223280;"Cut the Rope";"2013-03-22";"windows";"Indie;Casual";49;5;0;3.99
+223330;"Sea Dogs: To Each His Own - Pirate Open World RPG";"2012-12-01";"windows";"RPG";928;288;0;10.99
+223410;"Perpetuum";"2014-10-17";"windows";"Indie;Massively Multiplayer;RPG";455;194;269;3.99
+223430;"Miner Wars 2081";"2012-11-28";"windows";"Action;Adventure;Indie;RPG;Simulation";110;212;0;3.99
+223450;"Dyad";"2013-04-24";"windows";"Action;Indie;Racing";166;51;0;11.99
+223470;"POSTAL 2";"2012-11-02";"windows;mac;linux";"Action;Adventure;Indie";36263;1872;257;6.99
+223490;"Blockscape";"2014-07-03";"windows";"Casual;Indie;RPG;Simulation;Strategy;Early Access";343;490;0;6.99
+223510;"Miasmata";"2012-11-28";"windows";"Action;Adventure;Indie";739;218;171;11.99
+223710;"Cry of Fear";"2013-04-25";"windows";"Action;Adventure;Indie";20990;3497;3830;0.0
+223730;"Fly'N";"2012-11-09";"windows";"Action;Adventure;Indie";378;60;76;7.49
+223750;"DCS World Steam Edition";"2013-08-02";"windows";"Free to Play;Simulation";5083;1534;2343;0.0
+223810;"Ys I & II Chronicles+";"2013-02-14";"windows";"Action;Adventure;RPG";1083;135;124;9.99
+223830;"Xenonauts";"2014-06-16";"windows;mac;linux";"Indie;Simulation;Strategy";2497;337;880;18.99
+224000;"Project Eagle: A 3D Interactive Mars Base";"2018-11-27";"windows";"Free to Play;Simulation";269;91;0;0.0
+224040;"LocoCycle";"2014-02-14";"windows";"Action;Adventure;Casual;Racing";197;53;0;6.99
+224260;"No More Room in Hell";"2013-10-31";"windows;mac;linux";"Action;Free to Play;Indie";48190;5747;2661;0.0
+224300;"Legacy of Kain: Defiance";"2012-12-06";"windows";"Action;Adventure";429;61;522;4.99
+224460;"Contrast";"2013-11-15";"windows";"Adventure;Indie";4028;415;91;8.49
+224480;"Octodad: Dadliest Catch";"2014-01-30";"windows;mac;linux";"Action;Adventure;Indie";6742;536;174;11.99
+224500;"Gnomoria";"2016-02-23";"windows;mac;linux";"Indie;Simulation;Strategy";2509;698;261;10.99
+224600;"Defiance";"2014-06-04";"windows";"Action;Free to Play;Massively Multiplayer;RPG";9150;2808;953;0.0
+224700;"The Game of Life";"2013-06-10";"windows";"Strategy;Casual";23;47;0;6.99
+224740;"Clockwork Empires";"2016-10-26";"windows;mac";"Indie;Simulation;Strategy";348;426;470;22.99
+224760;"FEZ";"2013-05-01";"windows;mac;linux";"Indie";10641;928;144;6.99
+224820;"Super House of Dead Ninjas";"2013-02-18";"windows";"Action;Indie";1306;56;564;4.99
+224860;"Arma Tactics";"2013-10-01";"windows;mac;linux";"Indie;Strategy";239;514;76;5.99
+224900;"Iron Sky: Invasion";"2012-12-13";"windows;mac;linux";"Action;Simulation;Strategy";385;274;414;14.99
+224920;"Legacy of Kain: Soul Reaver";"2012-12-06";"windows";"Action;Adventure";798;302;77;4.99
+224940;"Legacy of Kain: Soul Reaver 2";"2012-12-06";"windows";"Action;Adventure";288;107;50;4.99
+224960;"Tomb Raider I";"2012-11-28";"windows";"Action;Adventure";1700;374;25;4.99
+224980;"Tomb Raider IV: The Last Revelation";"2012-11-28";"windows";"Action;Adventure";422;64;20;4.99
+225000;"Tomb Raider V: Chronicles";"2012-11-28";"windows";"Action;Adventure";232;77;10;4.99
+225020;"Tomb Raider VI: The Angel of Darkness";"2012-11-28";"windows";"Action";349;262;1995;4.99
+225080;"Brothers - A Tale of Two Sons";"2013-09-03";"windows";"Action;Adventure;Indie";31689;1708;128;10.99
+225160;"Shadow Warrior Classic Redux";"2013-07-08";"windows;mac;linux";"Action";1789;151;124;6.99
+225260;"Brutal Legend";"2013-02-26";"windows;mac;linux";"Action;Adventure;Strategy";12816;905;461;10.99
+225280;"Full Mojo Rampage";"2014-05-08";"windows";"Action;Indie;RPG";971;167;319;10.99
+225300;"Tomb Raider II";"2012-11-28";"windows";"Action;Adventure";805;115;3;4.99
+225320;"Tomb Raider III";"2012-11-28";"windows";"Action;Adventure";468;97;34;4.99
+225360;"DARK";"2013-07-03";"windows";"Action;RPG";476;500;75;6.99
+225420;"Cities in Motion 2";"2013-04-02";"windows;mac;linux";"Simulation;Strategy";1130;873;157;14.99
+225540;"Just Cause™ 3";"2015-11-30";"windows";"Action;Adventure";37747;14024;2086;11.99
+225600;"Blade Symphony";"2014-05-07";"windows;mac;linux";"Action;Indie";3129;1537;413;0.0
+225640;"Sacred 2 Gold";"2012-12-21";"windows";"RPG";1177;495;69;10.99
+225840;"Sven Co-op";"2016-01-22";"windows";"Action;Casual;Free to Play;Indie";12211;1173;407;0.0
+226100;"PixelJunk™ Nom Nom Galaxy";"2015-08-03";"windows";"Action;Casual;Indie;Strategy";517;190;0;6.99
+226120;"Weird Worlds: Return to Infinite Space";"2013-03-19";"windows;mac;linux";"Adventure;Casual;Indie;Strategy";315;192;0;3.99
+226560;"Escape Dead Island";"2014-11-20";"windows";"Adventure";549;383;0;10.99
+226580;"F1 2014";"2014-10-16";"windows";"Racing;Sports";1113;317;1508;19.99
+226620;"Desktop Dungeons";"2013-11-07";"windows;mac;linux";"Adventure;Casual;Indie;RPG;Strategy";1056;104;0;11.99
+226720;"LOST PLANET® 3";"2013-08-26";"windows";"Action";1597;1002;155;19.99
+226740;"Monster Loves You!";"2013-03-18";"windows;mac;linux";"Adventure;Casual;Indie;RPG;Simulation";827;247;180;6.99
+226780;"MUD Motocross World Championship";"2013-03-15";"windows";"Racing;Sports";42;44;0;7.99
+226820;"Nancy Drew®: Ghost of Thornton Hall";"2013-05-14";"windows;mac";"Adventure";58;4;1642;15.49
+226840;"Age of Wonders III";"2014-03-31";"windows;mac;linux";"RPG;Strategy";4479;1132;984;22.99
+226860;"Galactic Civilizations III";"2015-05-14";"windows";"Indie;Strategy";6051;1891;199;23.79
+226960;"Ironclad Tactics";"2013-09-18";"windows;mac;linux";"Casual;Indie;Strategy";381;170;142;10.99
+227000;"Primordia";"2012-12-05";"windows";"Adventure;Indie";1863;49;234;6.99
+227060;"Hegemony Rome: The Rise of Caesar";"2014-05-15";"windows";"Indie;RPG;Simulation;Strategy";235;154;0;10.99
+227080;"Papo & Yo";"2013-04-18";"windows;mac;linux";"Adventure;Indie";2405;160;158;10.99
+227100;"Sniper Elite: Nazi Zombie Army";"2013-02-28";"windows";"Action";3204;446;365;10.99
+227160;"Kinetic Void";"2014-11-21";"windows;mac;linux";"Action;Indie;Simulation";298;1138;33;14.99
+227200;"Waking Mars";"2012-12-13";"windows;mac;linux";"Action;Adventure;Indie";919;113;229;6.99
+227220;"Sang-Froid - Tales of Werewolves";"2013-04-05";"windows";"Action;Adventure;Indie;RPG;Strategy";1480;209;203;0.0
+227300;"Euro Truck Simulator 2";"2012-10-12";"windows;mac;linux";"Indie;Simulation";176769;5825;4942;14.99
+227380;"Dragon's Lair";"2013-05-17";"windows;mac;linux";"Action;Adventure;Casual";312;92;0;6.99
+227560;"Scourge: Outbreak";"2014-04-02";"windows;mac";"Action;Indie";321;166;289;5.59
+227580;"10,000,000";"2013-01-15";"windows;mac;linux";"Action;Casual;Indie;RPG";1573;187;333;3.99
+227600;"Castle of Illusion";"2013-09-04";"windows";"Adventure;Casual";1329;151;147;9.99
+227760;"March of the Eagles";"2013-02-18";"windows";"Simulation;Strategy";143;65;0;14.99
+227780;"Serious Sam Classics: Revolution";"2014-04-30";"windows";"Action;Indie;Early Access";1339;165;27;7.99
+227800;"Retrovirus";"2013-01-31";"windows";"Action;Indie";120;44;105;7.19
+227860;"Castle Story";"2017-08-17";"windows;mac;linux";"Indie;Strategy";2711;2361;272;18.99
+227900;"Battleship";"2013-06-10";"windows";"Strategy;Casual";19;14;0;6.99
+227920;"Risk";"2013-06-10";"windows";"Strategy;Casual";78;113;16;6.99
+227940;"Heroes & Generals";"2016-10-18";"windows";"Action;Free to Play;Indie;Massively Multiplayer";65856;34416;1752;0.0
+228200;"Company of Heroes";"2006-09-11";"windows";"Violent;Action;Strategy";2526;287;1475;0.0
+228260;"Fallen Enchantress: Legendary Heroes";"2013-05-22";"windows";"Indie;RPG;Strategy";1265;495;1610;19.49
+228280;"Baldur's Gate: Enhanced Edition";"2013-01-16";"windows;mac;linux";"RPG;Strategy";4148;688;569;14.99
+228300;"Remember Me";"2013-06-06";"windows";"Action;Adventure";9080;1815;276;22.99
+228320;"A Valley Without Wind 2";"2013-02-18";"windows;mac;linux";"Action;Adventure;Indie;Strategy";94;97;0;0.0
+228360;"Full Throttle Remastered";"2017-04-18";"windows;mac;linux";"Adventure";1162;91;15;10.99
+228380;"Wreckfest";"2018-06-14";"windows";"Action;Indie;Racing;Simulation;Sports";8834;2486;778;38.99
+228440;"Cubemen 2";"2013-04-08";"windows;mac;linux";"Indie;Strategy";148;65;440;5.59
+228760;"TrackMania² Canyon";"2013-02-27";"windows";"Racing;Sports";1065;259;3793;16.99
+228960;"Skulls of the Shogun";"2013-07-29";"windows;mac;linux";"Indie;Strategy";498;56;329;7.19
+229480;"Dungeons & Dragons: Chronicles of Mystara";"2013-06-18";"windows";"Action;Adventure;RPG";785;180;0;11.99
+229520;"Dungeon Hearts";"2013-03-28";"windows;mac;linux";"Casual;Indie;Strategy";319;178;200;1.99
+229560;"Hacker Evolution IMMERSION";"2016-07-29";"windows;mac;linux";"Action;Indie;Simulation;Early Access";22;16;0;14.99
+229580;"Dream";"2015-07-31";"windows";"Adventure;Indie";549;382;58;5.99
+229600;"Bientôt l'été";"2013-02-06";"windows;mac";"Casual;Indie;Simulation";115;141;0;6.99
+229810;"A Fistful of Gun";"2015-09-23";"windows";"Action;Indie";284;136;267;9.99
+229870;"ShootMania Storm";"2013-04-10";"windows";"Action";648;101;507;16.99
+229890;"Joe Danger";"2013-06-24";"windows";"Action;Casual;Indie;Racing";66;13;0;9.99
+229970;"Armada 2526 Gold Edition";"2013-02-28";"windows";"Indie;Strategy";44;29;0;14.99
+230050;"DLC Quest";"2013-03-18";"windows;mac";"Indie";5434;718;126;1.99
+230070;"The Age of Decadence";"2015-10-14";"windows";"Indie;RPG";1719;373;297;11.39
+230150;"Incredipede";"2013-03-18";"windows;mac";"Adventure;Indie;Simulation";228;93;0;6.99
+230190;"War for the Overworld";"2015-04-02";"windows;mac;linux";"Indie;Simulation;Strategy";3948;753;471;22.99
+230270;"N++ (NPLUSPLUS)";"2016-08-25";"windows;mac;linux";"Action";1600;83;494;10.99
+230290;"Universe Sandbox ²";"2015-08-24";"windows;mac;linux";"Casual;Indie;Simulation;Early Access";5918;377;120;19.49
+230310;"Akaneiro: Demon Hunters";"2014-11-25";"windows;mac;linux";"Action;Free to Play;Indie;RPG";114;207;0;0.0
+230410;"Warframe";"2013-03-25";"windows";"Action;Free to Play";226541;20268;5845;0.0
+230650;"Lords of Football";"2013-04-05";"windows";"Indie;Simulation;Sports;Strategy";123;136;0;10.99
+230700;"La-Mulana";"2013-04-15";"windows;mac;linux";"Action;Adventure;Indie";1447;333;583;10.99
+230760;"DIVO";"2013-02-01";"windows;linux";"Casual;Indie";8;14;0;3.99
+230820;"The Night of the Rabbit";"2013-05-28";"windows;mac";"Adventure;Indie";1700;179;96;16.99
+230840;"Daylight";"2014-04-29";"windows";"Action;Adventure;Casual;Indie";760;767;184;6.99
+230980;"Starseed Pilgrim";"2013-04-16";"windows;mac";"Adventure;Indie";256;192;62;4.49
+231020;"Storm";"2013-06-27";"windows";"Indie;Simulation";63;27;217;6.99
+231040;"Beatbuddy: Tale of the Guardians";"2013-08-06";"windows;mac;linux";"Action;Adventure;Casual;Indie";814;236;99;6.99
+231140;"Cities XL Platinum";"2013-02-06";"windows";"Simulation";771;584;19;7.49
+231160;"The Swapper";"2013-05-30";"windows;mac;linux";"Action;Adventure;Indie";5699;242;129;11.99
+231200;"Kentucky Route Zero";"2013-02-22";"windows;mac;linux";"Adventure;Indie";1506;310;0;18.99
+231310;"MirrorMoon EP";"2013-09-04";"windows;mac;linux";"Adventure;Indie";278;178;252;10.99
+231330;"Deadfall Adventures";"2013-11-15";"windows;linux";"Action;Adventure";1474;572;0;17.99
+231430;"Company of Heroes 2";"2013-06-25";"windows;mac;linux";"Strategy";32548;12038;1846;14.99
+231720;"Bad Hotel";"2013-10-16";"windows;mac;linux";"Casual;Indie";123;237;339;3.99
+231740;"Knights of Pen and Paper +1 Edition";"2013-06-18";"windows;mac;linux";"Indie;RPG";2268;417;709;7.99
+232010;"Euro Truck Simulator";"2013-03-08";"windows;mac";"Indie;Simulation";3772;973;315;3.99
+232050;"Eador. Masters of the Broken World";"2013-04-19";"windows";"Indie;Strategy";1365;679;272;14.99
+232090;"Killing Floor 2";"2016-11-18";"windows";"Action";60917;8354;2967;19.99
+232430;"Gone Home";"2013-08-15";"windows;mac;linux";"Adventure;Indie";11893;3651;90;10.99
+232750;"Mars: War Logs";"2013-04-26";"windows";"Action;RPG";1403;525;346;11.99
+232770;"POSTAL";"2013-03-21";"windows;mac;linux";"Action;Indie";2319;502;137;1.49
+232790;"Broken Age";"2014-01-28";"windows;mac;linux";"Adventure;Casual;Indie";5312;1063;271;11.39
+232890;"Stronghold Crusader 2";"2014-09-22";"windows";"Simulation;Strategy";4280;2786;259;24.99
+232910;"TrackMania² Stadium";"2013-06-20";"windows";"Racing;Sports";2915;571;6516;8.59
+232950;"Bridge Project";"2013-03-28";"windows;mac";"Simulation";333;338;2;15.99
+232970;"Thunder Wolves";"2013-05-15";"windows";"Action;Casual;Indie";377;61;0;7.99
+233110;"Defense Technica";"2013-10-24";"windows;mac";"Indie;Strategy";57;95;0;11.99
+233130;"Shadow Warrior";"2013-09-26";"windows;mac;linux";"Action;Adventure";18716;1426;319;29.99
+233150;"LUFTRAUSERS";"2014-03-18";"windows;mac;linux";"Action;Indie;Simulation";3180;302;260;6.99
+233190;"Final Exam";"2013-11-05";"windows";"Action;Indie";761;143;196;6.99
+233210;"Air Conflicts: Vietnam";"2013-10-02";"windows;mac;linux";"Action;Simulation";63;169;0;11.39
+233230;"Kairo";"2013-04-24";"windows;mac;linux";"Adventure;Indie";1131;392;0;3.99
+233270;"Far Cry 3 - Blood Dragon";"2013-05-01";"windows";"Action;Adventure";9282;1257;249;12.49
+233290;"Murdered: Soul Suspect";"2014-06-05";"windows";"Action;Adventure;RPG";8658;1647;282;19.99
+233310;"Avadon 2: The Corruption";"2013-10-30";"windows;mac";"Indie;RPG;Strategy";111;22;4;6.99
+233350;"Sudeki";"2014-02-24";"windows";"Action;Adventure;RPG";413;70;217;4.99
+233410;"Tomb Raider - The Final Hours Digital Book";"2013-03-07";"windows;mac";"Action";94;11;0;1.59
+233450;"Prison Architect";"2015-10-06";"windows;mac;linux";"Indie;Simulation;Strategy";31687;2286;1472;23.79
+233470;"Evoland";"2013-04-04";"windows;mac";"Adventure;Indie;RPG";4437;906;237;6.99
+233510;"Lunnye Devitsy";"2009-07-01";"windows";"Casual;Indie";103;52;82;0.0
+233550;"Another World – 20th Anniversary Edition";"2013-04-04";"windows;mac;linux";"Action;Adventure";1167;234;102;6.99
+233610;"Distance";"2018-09-18";"windows;mac;linux";"Action;Indie;Racing";3989;279;887;19.49
+233720;"Surgeon Simulator";"2013-04-19";"windows;mac;linux";"Action;Indie;Simulation";11387;2462;266;6.99
+233740;"Organ Trail: Director's Cut";"2013-03-19";"windows;mac;linux";"Indie;Strategy";2182;284;203;3.99
+233840;"Worms Clan Wars";"2013-08-15";"windows;mac;linux";"Strategy";1730;556;533;18.99
+233860;"Kenshi";"2018-12-06";"windows";"Action;Indie;RPG;Simulation;Strategy";9512;1171;1756;22.99
+233980;"UnEpic";"2014-07-25";"windows;mac;linux";"Action;Indie;RPG";5899;449;392;9.99
+234080;"Castlevania: Lords of Shadow – Ultimate Edition";"2013-08-27";"windows";"Action;Adventure";3827;953;706;19.99
+234140;"Mad Max";"2015-09-01";"windows;mac;linux";"Action;Adventure";36222;3811;1030;15.99
+234160;"Strike Suit Infinity";"2013-04-30";"windows";"Action;Indie";459;82;168;4.99
+234190;"Receiver";"2013-04-29";"windows;mac;linux";"Action;Indie;Simulation";2627;695;77;3.99
+234270;"Ken Follett's The Pillars of the Earth";"2017-08-15";"windows;mac;linux";"Adventure;Casual;Indie";1320;99;101;26.99
+234290;"Zack Zero";"2013-04-29";"windows";"Action;Adventure;Indie";244;136;66;1.99
+234330;"MARVEL Puzzle Quest";"2013-12-05";"windows";"Casual;Free to Play;RPG";2341;1051;0;0.0
+234350;"Luxor 2 HD";"2013-05-13";"windows";"Casual";67;16;10;6.99
+234370;"Shattered Haven";"2013-03-18";"windows;mac;linux";"Action;Adventure;Indie";29;59;0;6.99
+234390;"Teleglitch: Die More Edition";"2013-07-24";"windows;mac;linux";"Action;Indie";2158;361;117;8.99
+234490;"Rush Bros.";"2013-05-24";"windows;mac";"Action;Indie;Racing";553;341;63;7.19
+234630;"Project CARS";"2015-03-15";"windows";"Racing;Simulation;Sports";8618;2720;232;23.39
+234650;"Shadowrun Returns";"2013-07-25";"windows;mac;linux";"Adventure;Indie;RPG;Strategy";8676;1132;278;10.99
+234670;"NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD";"2013-10-24";"windows";"Action;Adventure";8209;882;1360;14.99
+234820;"Driver Fusion - The Best Driver & Device Solution";"2013-05-06";"windows";"Education;Software Training;Utilities;Web Publishing";184;88;0;0.0
+234900;"Anodyne";"2013-03-22";"windows;mac";"Action;Adventure;Indie";856;154;128;6.99
+234920;"Dyscourse";"2015-03-25";"windows;mac;linux";"Adventure;Casual;Indie;Simulation";327;92;258;10.99
+234940;"The 39 Steps";"2013-04-25";"windows;mac;linux";"Adventure;Casual;Indie";982;317;218;3.99
+235070;"Bad Bots";"2013-05-17";"windows;mac";"Action;Indie";139;106;83;3.99
+235210;"STRIDER™ / ストライダー飛竜®";"2014-02-19";"windows";"Action;Adventure";2127;401;324;11.99
+235250;"Super Sanctum TD";"2013-05-09";"windows;mac";"Casual;Indie;Strategy";1271;169;121;3.99
+235320;"Original War";"2014-01-27";"windows";"Indie;Strategy";923;66;232;3.99
+235340;"Prime World";"2014-03-31";"windows";"Action;Free to Play;Massively Multiplayer;RPG";1954;1378;28;0.0
+235360;"Prime World: Defenders";"2013-06-05";"windows;mac";"Casual;Indie;RPG;Strategy";673;213;739;6.99
+235380;"Blitzkrieg 3";"2017-06-02";"windows;mac";"Strategy";2714;1890;221;7.19
+235400;"King’s Bounty: Legions";"2013-12-10";"windows";"Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy";617;577;19;0.0
+235460;"METAL GEAR RISING: REVENGEANCE";"2014-01-09";"windows";"Action";13722;1157;863;19.99
+235520;"The White Laboratory";"2019-03-28";"windows";"Indie;Strategy";120;34;0;7.19
+235540;"Warhammer: End Times - Vermintide";"2015-10-23";"windows";"Action;Indie";13905;3560;1200;22.99
+235600;"Tom Clancy’s Splinter Cell Blacklist";"2013-08-23";"windows";"Action;Adventure";10016;1982;669;16.99
+235620;"Small World 2";"2013-12-11";"windows;mac;linux";"Casual;Indie;Strategy";520;174;1364;6.99
+235660;"Eador: Genesis";"2013-10-14";"windows";"Indie;Strategy";199;38;0;3.99
+235720;"Cubetractor";"2013-05-29";"windows;mac";"Action;Indie;Strategy";327;103;36;3.99
+235800;"Audiosurf 2";"2015-05-26";"windows;mac;linux";"Indie";3785;882;507;10.99
+235820;"Element4l";"2013-05-24";"windows;mac;linux";"Action;Indie";506;99;0;6.99
+235900;"RPG Maker XP";"2013-12-13";"windows";"Web Publishing";326;34;0;18.99
+235980;"Tetrobot and Co.";"2013-10-22";"windows;mac;linux";"Casual;Indie";371;9;1107;6.99
+236010;"Bloxitivity";"2016-01-21";"windows";"Casual;Indie";16;14;0;8.99
+236090;"Dust: An Elysian Tail";"2013-05-24";"windows;mac;linux";"Action;Adventure;Indie;RPG";15064;625;370;11.99
+236110;"Dungeon Defenders II";"2017-06-20";"windows";"Action;Free to Play;Indie;RPG;Strategy";10766;3802;523;0.0
+236130;"Horizon";"2014-02-06";"windows";"Indie;Strategy";243;177;84;22.99
+236150;"Starpoint Gemini 2";"2014-09-26";"windows";"Action;RPG;Simulation";2604;1126;326;26.99
+236290;"Cranky Cat";"2013-06-05";"windows";"Casual";22;5;0;1.99
+236370;"Interstellar Marines";"2013-07-02";"windows;mac;linux";"Action;Indie;RPG;Simulation;Early Access";4556;2946;112;6.95
+236390;"War Thunder";"2013-08-15";"windows;mac;linux";"Action;Free to Play;Massively Multiplayer;Simulation";83852;22166;4200;0.0
+236430;"DARK SOULS™ II";"2014-04-25";"windows";"Action;RPG";30008;3799;2377;29.99
+236450;"PAC-MAN™ Championship Edition DX+";"2013-09-24";"windows";"Action";5988;291;67;7.99
+236470;"PAC-MAN MUSEUM™";"2014-02-25";"windows";"Action";120;80;0;14.99
+236490;"Hexodius";"2013-06-21";"windows";"Action;Indie";18;12;9;7.99
+236510;"Takedown: Red Sabre";"2014-02-10";"windows";"Action;Simulation;Strategy";2136;3378;80;3.99
+236690;"Blood Bowl 2";"2015-09-22";"windows;mac";"Sports;Strategy";2734;1085;1433;14.99
+236730;"Anomaly 2";"2013-05-15";"windows;mac;linux";"Action;Indie;Strategy";511;121;87;11.49
+236790;"Agricultural Simulator 2013 - Steam Edition";"2013-06-07";"windows";"Casual;Simulation";145;486;5;6.99
+236850;"Europa Universalis IV";"2013-08-13";"windows;mac;linux";"Simulation;Strategy";40346;8254;8138;34.99
+236930;"Blackwell Epiphany";"2014-04-24";"windows";"Adventure;Indie";503;8;0;6.99
+236970;"Jack Keane 2 - The Fire Within";"2013-06-28";"windows";"Adventure";19;22;0;7.19
+237310;"Elsword";"2014-07-02";"windows";"Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG";4755;1511;796;0.0
+237350;"Frozen Cortex";"2015-02-19";"windows;mac;linux";"Indie;Sports;Strategy";188;69;0;18.99
+237430;"Expeditions: Conquistador";"2013-05-30";"windows;mac;linux";"Indie;RPG;Strategy";887;201;0;17.99
+237470;"Battle Worlds: Kronos";"2013-11-04";"windows;mac;linux";"Strategy";159;76;34;14.99
+237550;"Realms of Arkania: Blade of Destiny";"2013-07-29";"windows;mac;linux";"Adventure;Indie;RPG";168;139;1;10.99
+237570;"Penny Arcade's On the Rain-Slick Precipice of Darkness 4";"2013-06-07";"windows";"Indie;RPG";253;57;315;1.69
+237630;"DuckTales: Remastered";"2013-08-13";"windows";"Action;Adventure;Casual";3198;523;240;11.99
+237740;"Angry Video Game Nerd Adventures";"2013-09-20";"windows";"Action;Adventure;Indie";2416;298;157;3.99
+237760;"Intake";"2013-11-06";"windows;mac";"Action;Indie";349;26;75;6.99
+237850;"Dreamfall Chapters";"2017-07-21";"windows;mac;linux";"Adventure;Indie";2829;562;335;18.99
+237870;"Planet Explorers";"2016-11-08";"windows;mac;linux";"Action;Adventure;Indie;RPG;Simulation";3847;1729;545;7.19
+237890;"Agarest: Generations of War";"2014-02-04";"windows";"Adventure;RPG;Strategy";1199;447;272;10.99
+237930;"Transistor";"2014-05-20";"windows;mac;linux";"Action;Indie;RPG";22158;1162;353;15.49
+237950;"UFO: Afterlight";"2014-01-06";"windows";"Indie;Strategy";210;140;2380;4.99
+237970;"Memento Mori 2";"2014-05-13";"windows";"Adventure;Indie";56;22;0;16.99
+237990;"The Banner Saga";"2014-01-14";"windows;mac";"Indie;RPG;Strategy";9750;1131;164;18.74
+238010;"Deus Ex: Human Revolution - Director's Cut";"2013-10-25";"windows;mac";"Action;RPG";13044;1233;947;12.99
+238050;"The Apogee Throwback Pack";"2013-07-01";"windows;mac";"Action";198;20;37;6.99
+238090;"Sniper Elite 3";"2014-06-27";"windows";"Action;Adventure";12737;3297;321;22.99
+238210;"System Shock 2";"2013-05-10";"windows;mac";"Action;RPG";4227;274;256;6.99
+238240;"Edge of Space";"2015-09-17";"windows";"Action;Adventure;Indie;RPG";996;1647;0;10.99
+238260;"Pinball Arcade";"2013-11-04";"windows;mac";"Free to Play;Simulation";2175;812;6;0.0
+238320;"Outlast";"2013-09-04";"windows;mac;linux";"Action;Adventure;Indie";45966;1953;751;15.49
+238370;"Magicka 2";"2015-05-26";"windows;mac;linux";"Action;Adventure";4873;1382;198;10.99
+238430;"Contagion";"2013-10-25";"windows";"Action;Adventure;Indie";9087;3585;366;6.99
+238460;"BattleBlock Theater®";"2014-05-15";"windows;mac;linux";"Action;Adventure;Casual;Indie";47342;1290;774;10.99
+238530;"Super Puzzle Platformer Deluxe";"2013-05-24";"windows;mac";"Action;Casual;Indie";367;33;0;5.59
+238630;"Fist Puncher";"2013-06-21";"windows;mac;linux";"Action;Indie";192;65;0;6.99
+238750;"Might & Magic X - Legacy";"2014-01-23";"windows;mac";"RPG";1571;780;274;20.99
+238870;"Citadels";"2013-07-25";"windows";"Action;Strategy";62;354;0;10.99
+238890;"Skyward Collapse";"2013-05-23";"windows;mac;linux";"Indie;Simulation;Strategy";126;164;68;3.99
+238910;"Bionic Dues";"2013-10-08";"windows;mac;linux";"Indie;RPG;Strategy";672;226;249;6.99
+238930;"7 Grand Steps: What Ancients Begat";"2013-06-07";"windows;mac";"Casual;Indie;Simulation;Strategy";356;299;178;14.99
+238960;"Path of Exile";"2013-10-23";"windows";"Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG";71593;6117;5263;0.0
+239030;"Papers, Please";"2013-08-08";"windows;mac;linux";"Adventure;Indie";25587;1103;674;6.99
+239070;"Hammerwatch";"2013-08-12";"windows;mac;linux";"Action;Adventure;Indie;RPG";5092;566;288;6.99
+239090;"Samurai Gunn";"2013-12-10";"windows;mac";"Action";337;21;0;11.99
+239120;"FINAL FANTASY III";"2014-05-27";"windows";"RPG";1029;250;138;10.99
+239140;"Dying Light";"2015-01-26";"windows;mac;linux";"Action;RPG";78192;6176;2033;24.99
+239160;"Thief";"2014-02-27";"windows;mac";"Action;Adventure";10486;4326;276;19.99
+239200;"Amnesia: A Machine for Pigs";"2013-09-10";"windows;mac;linux";"Action;Adventure;Indie";4336;2143;100;14.99
+239250;"Castlevania: Lords of Shadow 2";"2014-02-25";"windows";"Action;Adventure";2390;479;732;24.99
+239430;"Q.U.B.E: Director's Cut";"2014-05-21";"windows;mac;linux";"Action;Adventure;Indie";1194;217;63;6.99
+239700;"Hate Plus";"2013-08-19";"windows;mac;linux";"Indie";452;72;0;7.19
+239720;"PAC-MAN™ and the Ghostly Adventures";"2014-03-06";"windows";"Action";126;33;0;29.99
+239800;"Bleed";"2013-07-03";"windows;mac;linux";"Action;Indie";1635;120;132;3.99
+239820;"Game Dev Tycoon";"2013-08-29";"windows;mac;linux";"Casual;Indie;Simulation;Strategy";27373;1436;807;6.99
+239840;"Dead State: Reanimated";"2014-12-04";"windows";"Indie;RPG;Strategy";1405;526;1264;14.99
+240320;"Panzar";"2013-11-25";"windows";"Action;Free to Play;Massively Multiplayer;RPG";2987;1609;2218;0.0
+240340;"Space Ace";"2013-08-27";"windows;mac;linux";"Action;Adventure;Casual";80;8;0;6.99
+240360;"Dragon's Lair 2: Time Warp";"2013-10-24";"windows;mac;linux";"Action;Adventure;Casual";46;9;0;6.99
+240440;"Quadrilateral Cowboy";"2016-07-25";"windows;mac;linux";"Action;Adventure;Indie";468;50;316;14.99
+240600;"MotoGP™13";"2013-06-20";"windows";"Racing;Simulation;Sports";409;166;0;6.99
+240620;"Wanderlust Adventures";"2015-08-10";"windows";"Action;Adventure;Indie;RPG";137;86;201;6.99
+240720;"Getting Over It with Bennett Foddy";"2017-12-06";"windows;mac;linux";"Action";10964;2913;169;5.79
+240760;"Wasteland 2: Director's Cut";"2014-09-18";"windows;mac;linux";"Adventure;Indie;RPG;Strategy";6221;1309;564;23.79
+240970;"Half Minute Hero: The Second Coming";"2014-04-04";"windows";"Action;Indie;RPG";425;33;637;6.99
+241000;"Jon Shafer's At the Gates";"2019-01-23";"windows;mac;linux";"Indie;Strategy";148;139;0;24.99
+241240;"Contraption Maker";"2014-07-07";"windows;mac;linux";"Casual;Indie;Simulation";959;92;102;7.19
+241260;"Sherlock Holmes: Crimes and Punishments";"2014-09-29";"windows";"Adventure";1988;169;464;19.99
+241300;"Card City Nights 2";"2017-09-01";"windows;mac;linux";"Adventure;Indie;Strategy";62;8;444;5.79
+241320;"Ittle Dew";"2013-07-23";"windows;mac;linux";"Adventure;Indie";940;69;266;7.19
+241410;"CastleStorm";"2013-07-29";"windows";"Action;Indie;Strategy";1104;129;950;6.99
+241560;"The Crew™";"2014-12-19";"windows";"Action;Massively Multiplayer;Racing";9479;4636;657;25.99
+241600;"Rogue Legacy";"2013-06-27";"windows;mac;linux";"Action;Adventure;Indie;RPG";13854;936;769;10.99
+241620;"Inquisitor";"2013-08-01";"windows";"Violent;Gore;Indie;RPG";330;164;0;6.99
+241720;"Guncraft";"2013-08-09";"windows";"Action;Indie";607;636;103;10.99
+241760;"Kill to Collect";"2016-04-06";"windows";"Action;Adventure;Indie";120;40;0;6.99
+241910;"Goodbye Deponia";"2013-10-17";"windows;mac;linux";"Adventure;Indie";1324;163;239;16.99
+242050;"Assassin’s Creed® IV Black Flag™";"2013-11-19";"windows";"Action;Adventure";23904;3362;3234;16.99
+242110;"Joe Danger 2: The Movie";"2013-06-24";"windows;mac;linux";"Action;Casual;Indie;Racing";199;149;391;9.99
+242130;"Vector Thrust";"2015-07-02";"windows";"Action;Indie;Simulation";319;283;0;18.99
+242530;"The Chaos Engine";"2013-08-29";"windows;mac;linux";"Action";196;108;0;6.99
+242570;"Space Hulk";"2013-08-15";"windows;mac;linux";"Indie;Strategy";1292;556;87;18.99
+242640;"Styx: Master of Shadows";"2014-10-07";"windows";"Action";4506;962;243;24.99
+242680;"Nuclear Throne";"2015-12-05";"windows;mac;linux";"Action;Indie;RPG";9694;405;682;9.29
+242700;"Injustice: Gods Among Us Ultimate Edition";"2013-11-29";"windows";"Action";8793;1473;288;14.99
+242720;"GunZ 2: The Second Duel";"2014-05-01";"windows";"Action;Free to Play;Indie";6865;3424;450;0.0
+242760;"The Forest";"2018-04-30";"windows";"Action;Adventure;Indie;Simulation";110460;8881;2417;15.49
+242780;"Cognition: An Erica Reed Thriller";"2013-09-19";"windows;mac";"Adventure;Indie";503;101;111;10.99
+242820;"140";"2013-10-16";"windows;mac;linux";"Action;Indie";3398;241;205;3.99
+242840;"In Verbis Virtus";"2015-04-03";"windows";"Action;Adventure;Indie;RPG";1102;266;286;14.99
+242860;"Verdun";"2015-04-28";"windows;mac;linux";"Action;Indie;Strategy";22048;4418;3846;15.49
+242880;"Sir, You Are Being Hunted";"2014-05-02";"windows;mac;linux";"Action;Indie";2760;743;98;14.99
+242920;"Banished";"2014-02-18";"windows";"Indie;Simulation;Strategy";24653;2820;1209;14.99
+243000;"Omikron: The Nomad Soul";"2013-09-26";"windows";"RPG";234;97;0;6.99
+243120;"Betrayer";"2014-03-24";"windows";"Action;Adventure;Indie";2601;578;112;3.99
+243160;"Mushroom 11";"2015-10-15";"windows;mac;linux";"Action;Adventure;Indie";436;88;373;10.99
+243200;"Memoria";"2013-08-29";"windows;mac";"Adventure;Indie";1352;136;168;26.99
+243220;"FRACT OSC";"2014-04-22";"windows;mac";"Indie";448;72;0;10.99
+243280;"Poöf";"2013-11-08";"windows;mac";"Action;Indie;Strategy";155;42;217;4.99
+243360;"TrackMania² Valley";"2013-07-04";"windows";"Racing;Sports";282;80;466;16.99
+243450;"Urban Trial Freestyle";"2013-09-18";"windows";"Action;Racing;Simulation;Sports";1191;272;166;4.99
+243470;"Watch_Dogs™";"2014-05-26";"windows";"Action;Adventure";15159;7383;1176;25.99
+243780;"PixelJunk™ Monsters Ultimate";"2013-08-26";"windows;mac;linux";"Strategy";618;185;135;6.99
+243800;"Gas Guzzlers Extreme";"2013-10-08";"windows";"Action;Racing;Sports";2511;415;137;18.99
+243930;"Bound By Flame";"2014-05-08";"windows;linux";"Action;RPG";1843;943;731;14.99
+243950;"Divinity: Dragon Commander";"2013-08-06";"windows";"Action;RPG;Strategy";1274;431;430;29.99
+243970;"Invisible, Inc.";"2015-05-12";"windows;mac;linux";"Action;Indie;Strategy";3559;271;325;14.99
+244030;"Take On Mars";"2017-02-09";"windows";"Simulation";850;660;13;20.99
+244050;"Rise of Flight United";"2013-09-05";"windows";"Free to Play;Simulation";736;668;37;0.0
+244070;"Sid Meier’s Ace Patrol";"2013-08-27";"windows";"Casual;Strategy";389;181;175;3.99
+244090;"Sid Meier’s Ace Patrol: Pacific Skies";"2013-11-05";"windows";"Casual;Strategy";202;120;193;3.99
+244160;"Homeworld Remastered Collection";"2015-02-25";"windows;mac";"Simulation;Strategy";5377;827;353;26.99
+244210;"Assetto Corsa";"2014-12-19";"windows";"Indie;Racing;Simulation;Sports";15277;2337;3107;15.49
+244410;"Supreme Ruler 1936";"2014-05-09";"windows";"Indie;Simulation;Strategy";169;61;0;9.99
+244430;"realMyst: Masterpiece Edition";"2014-02-05";"windows;mac";"Adventure;Indie";521;102;0;12.99
+244450;"Men of War: Assault Squad 2";"2014-05-15";"windows";"Action;Simulation;Strategy";11389;2025;4678;19.99
+244590;"Epigenesis";"2014-08-01";"windows";"Action;Indie;Sports";807;418;139;0.0
+244690;"Face Noir";"2013-10-17";"windows";"Adventure;Indie";158;75;81;6.99
+244710;"Shelter";"2013-08-28";"windows;mac";"Adventure;Indie";2774;479;77;6.99
+244730;"Divekick";"2013-08-20";"windows";"Action;Indie";1418;268;238;3.99
+244750;"Aztez";"2017-08-01";"windows;mac;linux";"Action;Indie;Strategy";91;19;0;14.99
+244770;"StarMade";"2014-12-04";"windows;mac;linux";"Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access";1852;772;2957;10.99
+244810;"Foul Play";"2013-09-18";"windows;mac;linux";"Action;Adventure;Casual;Indie";493;107;0;9.99
+244850;"Space Engineers";"2019-02-28";"windows";"Action;Indie;Simulation;Strategy";60221;9609;3739;15.49
+244870;"Electronic Super Joy";"2013-08-23";"windows;mac;linux";"Action;Indie";3032;306;242;5.49
+244890;"Velocity®Ultra";"2013-12-12";"windows";"Action;Indie";136;39;0;6.49
+244910;"Homesick";"2015-05-28";"windows";"Adventure;Indie";788;218;130;10.99
+244930;"SNOW";"2019-02-14";"windows";"Free to Play;Indie;Simulation;Sports";7235;3754;8180;0.0
+244950;"Where is my Heart?";"2014-05-29";"windows;mac";"Adventure;Casual;Indie";123;33;0;5.59
+245050;"SpellForce 2 - Demons of the Past";"2014-01-16";"windows";"RPG;Strategy";94;106;0;17.99
+245170;"Skullgirls";"2013-08-22";"windows;mac;linux";"Action;Indie";14298;838;347;6.99
+245280;"ENSLAVED™: Odyssey to the West™ Premium Edition";"2013-10-24";"windows";"Action;Adventure";3677;650;185;14.99
+245300;"Disney Epic Mickey 2:  The Power of Two";"2014-10-06";"windows";"Action;Adventure";102;76;0;15.49
+245370;"Etherium";"2015-03-25";"windows";"Strategy";321;509;577;7.49
+245390;"I Have No Mouth, and I Must Scream";"2013-10-17";"windows;mac;linux";"Adventure";836;106;100;4.79
+245410;"Wizardry 6: Bane of the Cosmic Forge";"2013-09-10";"windows;mac;linux";"Adventure;RPG";82;36;0;0.0
+245430;"Wizardry 7: Crusaders of the Dark Savant";"2013-09-10";"windows;mac;linux";"Adventure;RPG";71;23;0;0.0
+245450;"Wizardry 8";"2013-09-10";"windows;mac";"Adventure;RPG";460;41;0;6.99
+245470;"Democracy 3";"2013-10-14";"windows;mac;linux";"Indie;Simulation;Strategy";4492;1596;752;18.99
+245490;"Trials Fusion™";"2014-04-24";"windows";"Racing";1141;615;418;16.99
+245620;"Tropico 5";"2014-05-23";"windows;mac;linux";"RPG;Simulation;Strategy";7878;2482;292;14.99
+246070;"Hack 'n' Slash";"2014-09-09";"windows;mac;linux";"Adventure;Casual;Indie";412;348;46;9.99
+246090;"Spacebase DF-9";"2014-10-27";"windows;mac;linux";"Indie;Simulation;Strategy";741;3134;228;6.99
+246110;"MASSIVE CHALICE";"2015-06-01";"windows;mac;linux";"Indie;Strategy";1094;449;56;14.99
+246420;"Kingdom Rush";"2014-01-06";"windows;mac;linux";"Action;Indie;Strategy";5101;182;225;6.99
+246580;"The Typing of The Dead: Overkill";"2013-10-29";"windows";"Action";2280;347;175;14.99
+246620;"Plague Inc: Evolved";"2016-02-18";"windows;mac;linux";"Casual;Indie;Simulation;Strategy";20081;1419;585;11.99
+246680;"Secrets of Rætikon";"2014-04-17";"windows;mac;linux";"Action;Adventure;Indie";268;156;6;6.99
+246700;"Strike Vector";"2014-01-28";"windows";"Action;Indie";1560;756;97;8.99
+246720;"Wayward Manor";"2014-07-15";"windows;mac";"Adventure;Casual;Indie";29;50;0;4.99
+246740;"Huntsman: The Orphanage (Halloween Edition)";"2013-09-13";"windows;mac";"Action;Adventure;Indie";66;159;3;6.19
+246760;"Legends of Eisenwald";"2015-07-02";"windows";"Adventure;Indie;RPG;Strategy";1013;298;506;14.99
+246800;"BeatBlasters III";"2014-02-21";"windows;mac;linux";"Action;Indie";31;46;0;6.99
+246820;"Jeklynn Heights";"2016-05-25";"windows";"Action;Adventure;Casual;Indie;Early Access";14;4;0;0.0
+246840;"FATE";"2013-12-12";"windows";"Action;Adventure;RPG";857;78;11;5.59
+246880;"Recruits";"2014-07-31";"windows";"Action;Indie;Early Access";26;58;1;6.99
+246900;"Viscera Cleanup Detail";"2015-10-23";"windows;mac";"Indie;Simulation";6753;580;589;9.99
+246920;"Bombernauts";"2017-12-29";"windows;mac;linux";"Action;Indie";113;10;0;6.99
+246940;"Lords of the Black Sun";"2014-09-12";"windows";"Indie;Strategy";76;292;0;22.99
+246960;"Giana Sisters: Twisted Dreams - Rise of the Owlverlord";"2013-09-26";"windows";"Action;Indie";267;52;99;3.99
+246980;"InFlux";"2013-09-18";"windows";"Adventure;Casual;Indie";142;62;0;7.19
+247000;"Talisman: Digital Edition";"2014-02-25";"windows;mac";"Indie;RPG;Strategy";2975;986;332;5.19
+247020;"Cook, Serve, Delicious!";"2013-10-08";"windows;mac;linux";"Action;Indie;Simulation;Strategy";4232;235;381;6.99
+247080;"Crypt of the NecroDancer";"2015-04-23";"windows;mac;linux";"Action;Indie;RPG";14162;533;326;10.99
+247140;"Soundodger+";"2013-10-11";"windows";"Casual;Indie";615;67;130;5.59
+247240;"Volgarr the Viking";"2013-09-13";"windows;mac;linux";"Action;Adventure;Indie";1698;387;231;6.99
+247370;"Mutant Mudds Deluxe";"2013-11-21";"windows";"Action;Indie";328;114;0;6.99
+247430;"Hitman: Contracts";"2014-01-21";"windows";"Action";1000;195;15;8.29
+247660;"Deadly Premonition: The Director's Cut";"2013-10-29";"windows";"Nudity;Violent;Gore;Action;Adventure";2038;916;318;19.99
+247730;"Nether: Resurrected";"2014-06-05";"windows";"Action;Indie;Massively Multiplayer;RPG;Simulation";7456;10167;257;6.99
+247870;"Redshirt";"2013-11-13";"windows;mac";"Indie;RPG;Simulation;Strategy";152;221;281;6.99
+247950;"Sacred 3";"2014-07-31";"windows";"Action;RPG";954;2861;182;10.99
+248190;"Knytt Underground";"2013-10-25";"windows;mac;linux";"Sexual Content;Violent;Adventure;Indie";275;41;228;4.99
+248270;"Songs2See";"2013-11-26";"windows;mac";"Casual;Indie;Simulation";39;37;0;9.99
+248310;"Freedom Planet";"2014-07-21";"windows;mac;linux";"Action;Indie";3549;163;259;10.99
+248330;"Dino Run DX";"2015-09-29";"windows;mac";"Action;Indie;Racing";590;49;0;4.79
+248350;"Omegalodon";"2013-09-20";"windows";"Action;Indie";241;135;96;7.19
+248370;"Bridge It +";"2013-11-18";"windows";"Simulation";83;39;0;4.99
+248390;"Craft The World";"2014-11-24";"windows;mac";"Indie;RPG;Simulation;Strategy";6946;984;1891;13.99
+248470;"Doorways: Prelude";"2013-09-20";"windows;mac;linux";"Action;Adventure;Indie";364;188;130;6.99
+248510;"Dominions 3: The Awakening";"2013-09-10";"windows;mac;linux";"Indie;Strategy";87;18;0;14.99
+248530;"Depth Hunter 2: Deep Dive";"2014-08-20";"windows";"Action;Adventure;Casual;Indie;Simulation;Sports";659;227;288;10.99
+248550;"Megabyte Punch";"2013-10-15";"windows;mac;linux";"Action;Adventure;Indie";866;108;57;11.99
+248570;"Toribash";"2014-05-16";"windows;mac;linux";"Action;Free to Play;Indie;Strategy";11143;1563;130;0.0
+248610;"Door Kickers";"2014-10-20";"windows;mac;linux";"Action;Indie;Simulation;Strategy";5834;349;366;14.99
+248630;"Kingdoms Rise";"2013-11-18";"windows";"Action;Indie;RPG;Early Access";492;585;22;11.99
+248650;"Draw a Stickman: EPIC";"2013-12-03";"windows";"Adventure;Casual;Indie";783;248;84;2.79
+248800;"Dysfunctional Systems: Learning to Manage Chaos";"2013-09-26";"windows;mac;linux";"Adventure;Casual;Indie;RPG";614;181;0;3.99
+248820;"Risk of Rain";"2013-11-08";"windows;mac;linux";"Action;Indie;RPG";22700;1589;946;6.99
+248860;"NEO Scavenger";"2014-12-15";"windows;mac;linux";"Indie;RPG;Strategy";2947;319;906;11.39
+249050;"Dungeon of the Endless™";"2014-10-27";"windows;mac";"Adventure;Indie;RPG;Strategy";7423;1046;648;8.99
+249130;"LEGO® Marvel™ Super Heroes";"2013-11-15";"windows;mac";"Action;Adventure";8797;691;4034;14.99
+249190;"Ancient Space";"2014-09-23";"windows;mac";"Strategy";136;168;0;14.99
+249230;"Risen 3 - Titan Lords";"2014-08-13";"windows";"RPG";2756;1144;412;10.99
+249330;"Unholy Heights";"2013-10-04";"windows";"Indie;Simulation;Strategy";1120;126;86;2.79
+249360;"Zafehouse: Diaries";"2013-09-06";"windows";"Indie;RPG;Simulation;Strategy";273;131;298;1.69
+249550;"NEStalgia";"2014-04-15";"windows";"Indie;Massively Multiplayer;RPG";226;98;0;6.99
+249570;"The Castle Doctrine";"2014-01-29";"windows;mac;linux";"Indie;Massively Multiplayer;Strategy";176;190;38;12.49
+249590;"Teslagrad";"2013-12-13";"windows;mac;linux";"Indie";1581;258;449;6.99
+249610;"Galactic Arms Race";"2014-06-05";"windows";"Action;Casual;Indie";41;33;112;1.99
+249650;"Blackguards";"2014-01-22";"windows";"Indie;RPG;Strategy";1669;1050;174;26.99
+249680;"Marlow Briggs and the Mask of Death";"2013-09-20";"windows";"Action;Adventure";1685;138;57;3.99
+249870;"Scribblenauts Unmasked: A DC Comics Adventure";"2013-09-24";"windows";"Action;Adventure;Casual;Strategy";1284;287;124;14.99
+249930;"A-Train 8";"2013-09-18";"windows";"Simulation";20;26;0;14.99
+249990;"FORCED: Slightly Better Edition";"2013-10-24";"windows;mac;linux";"Action;Adventure;Indie;RPG";1804;621;241;10.99
+250050;"Life Goes On: Done to Death";"2014-04-17";"windows;mac;linux";"Action;Adventure;Casual;Indie";1516;63;151;6.99
+250070;"TorqueL";"2015-01-22";"windows";"Action;Indie";15;4;162;6.99
+250110;"Assault Android Cactus";"2015-09-23";"windows;mac;linux";"Action;Indie";1282;71;379;10.99
+250180;"METAL SLUG 3";"2014-02-14";"windows";"Action";5229;553;212;5.99
+250260;"Jazzpunk: Director's Cut";"2014-02-07";"windows;mac;linux";"Adventure;Indie";4136;393;305;10.99
+250320;"The Wolf Among Us";"2013-10-11";"windows;mac";"Adventure";21127;517;675;11.99
+250340;"Blockland";"2013-12-16";"windows;mac";"Action;Indie;Simulation";3706;1444;625;7.19
+250380;"Knock-knock";"2013-10-04";"windows;mac;linux";"Indie";946;132;507;6.99
+250400;"How to Survive";"2014-08-29";"windows";"Action;Adventure;RPG";12965;2751;333;10.99
+250420;"8BitMMO";"2015-01-26";"windows;mac;linux";"Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG";2822;1972;31;0.0
+250460;"Bridge Constructor";"2013-10-16";"windows;mac;linux";"Casual;Indie;Simulation";840;286;158;6.99
+250500;"Super Amazing Wagon Adventure";"2013-10-17";"windows";"Action;Adventure;Indie";1691;93;270;2.09
+250520;"UnderRail";"2015-12-18";"windows";"Indie;RPG";1485;252;29;9.99
+250540;"C-Wars";"2015-08-13";"windows;mac";"Action;Indie;RPG;Strategy;Early Access";46;44;0;9.99
+250560;"Fight The Dragon";"2014-12-04";"windows;mac;linux";"Indie;RPG";1004;256;283;6.99
+250580;"Paranautical Activity: Deluxe Atonement Edition";"2014-10-20";"windows;mac;linux";"Action;Indie;RPG";961;430;321;6.99
+250600;"The Plan";"2014-02-14";"windows;mac;linux";"Casual;Free to Play;Indie";19476;1644;8;0.0
+250620;"Among the Sleep - Enhanced Edition";"2014-05-29";"windows;mac;linux";"Action;Adventure;Indie";3897;608;83;13.49
+250640;"Croixleur Sigma";"2014-04-30";"windows";"Action;Indie";268;62;416;5.59
+250660;"Bunny Must Die! Chelsea and the 7 Devils";"2013-09-26";"windows";"Action;Adventure;Indie";221;100;425;6.99
+250680;"BELOW";"2018-12-14";"windows";"Adventure;Indie;RPG";340;143;72;19.99
+250700;"Super Time Force Ultra";"2014-08-25";"windows;mac;linux";"Action;Indie";675;72;133;10.99
+250720;"Starlight Inception™";"2014-04-22";"windows";"Action;Indie;Simulation";10;44;0;6.99
+250760;"Shovel Knight: Treasure Trove";"2014-06-26";"windows;mac;linux";"Action;Adventure;Indie";9334;332;501;18.99
+250900;"The Binding of Isaac: Rebirth";"2014-11-04";"windows;mac;linux";"Action";72830;1840;4583;10.99
+251020;"Railroad X";"2014-06-09";"windows";"Simulation";19;25;0;13.49
+251060;"Wargame: Red Dragon";"2014-04-17";"windows;mac;linux";"Strategy";7949;1137;1702;24.99
+251110;"INFRA";"2016-01-15";"windows";"Adventure;Indie";757;98;0;23.79
+251130;"Chroma Squad";"2015-04-30";"windows;mac;linux";"Indie;RPG;Strategy";2656;197;188;11.39
+251150;"The Legend of Heroes: Trails in the Sky";"2014-07-29";"windows";"RPG";3413;318;3755;12.99
+251170;"Damned";"2014-10-06";"windows";"Adventure";2538;974;450;15.49
+251210;"Hive";"2014-03-20";"windows;mac;linux";"Casual;Indie;Strategy";179;21;0;6.99
+251230;"Livelock";"2016-08-30";"windows";"Action;Adventure;Indie";307;87;252;7.19
+251270;"Corpse Party";"2016-04-25";"windows;linux";"Adventure;Indie;RPG";459;39;0;10.99
+251290;"The Legend of Heroes: Trails in the Sky SC";"2015-10-29";"windows";"RPG";1108;26;0;22.99
+251310;"Eleusis";"2013-10-16";"windows";"Adventure;Indie";130;99;208;9.99
+251370;"Escape Goat";"2013-10-09";"windows;mac;linux";"Action;Indie";566;15;0;3.99
+251410;"Dark Matter";"2013-10-17";"windows;mac;linux";"Action;Indie";78;107;0;6.99
+251430;"The Inner World";"2013-09-27";"windows;mac;linux";"Adventure;Indie";570;51;0;11.99
+251450;"Heroes of Havoc: Idle Adventures";"2016-12-15";"windows;mac";"Free to Play;RPG";76;114;0;0.0
+251470;"TowerFall Ascension";"2014-03-11";"windows;mac;linux";"Action;Indie";1906;125;337;10.99
+251490;"Gravity Ghost";"2015-01-26";"windows;mac;linux";"Indie";253;8;0;10.99
+251510;"Constant C";"2014-03-11";"windows";"Action;Casual;Indie";44;7;0;6.99
+251530;"Anomaly Korea";"2013-11-06";"windows;mac;linux";"Action;Strategy";433;113;261;3.99
+251570;"7 Days to Die";"2013-12-13";"windows;mac;linux";"Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access";60718;16905;2953;18.99
+251630;"The Impossible Game";"2014-05-08";"windows;mac;linux";"Indie";919;155;0;3.99
+251690;"Speedball 2 HD";"2013-12-05";"windows";"Action;Indie;Sports";345;186;91;6.99
+251710;"Chainsaw Warrior";"2013-10-07";"windows;mac;linux";"Adventure;Indie;RPG;Strategy";176;148;141;3.99
+251730;"Legend of Grimrock 2";"2014-10-15";"windows;mac";"Adventure;Indie;RPG";2075;215;951;17.99
+251770;"Shadow Man";"2013-10-18";"windows;mac";"Action";409;55;48;3.99
+251830;"Stick it to The Man!";"2013-12-13";"windows;mac";"Action;Adventure;Indie";546;27;0;5.99
+251850;"Master Reboot";"2013-10-29";"windows;mac";"Action;Adventure;Indie";465;150;173;11.99
+251870;"Go! Go! Nippon! ~My First Trip to Japan~";"2014-02-21";"windows";"Adventure";2319;313;184;6.99
+251890;"World of Diving";"2014-08-26";"windows;mac;linux";"Adventure;Indie;Simulation;Early Access";349;264;693;14.99
+251910;"Solar Flux";"2013-10-24";"windows;mac;linux";"Indie;Strategy";217;69;135;6.99
+251950;"WWII Online";"2017-09-05";"windows;mac";"Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access";905;1300;10;0.0
+251990;"Long Live The Queen";"2013-11-08";"windows;mac;linux";"Indie;RPG;Simulation;Strategy";5656;305;350;6.99
+252010;"Oniken: Unstoppable Edition";"2014-02-05";"windows";"Action;Indie";589;123;294;3.99
+252030;"Valdis Story: Abyssal City";"2013-10-30";"windows;mac";"Action;Indie;RPG";1934;345;1234;10.99
+252050;"Construction Machines 2014";"2014-03-28";"windows";"Simulation";38;272;108;4.99
+252070;"Gimbal";"2013-11-19";"windows";"Action;Indie";153;48;0;7.19
+252090;"Lacuna Passage";"2017-05-17";"windows;mac";"Indie;Simulation;Early Access";63;16;0;11.39
+252110;"Lovers in a Dangerous Spacetime";"2015-09-09";"windows;mac;linux";"Action;Indie;Simulation";1870;105;249;10.99
+252130;"Divide By Sheep";"2015-07-02";"windows;mac";"Adventure;Casual;Indie";713;49;140;3.99
+252170;"Anomaly Warzone Earth Mobile Campaign";"2013-11-06";"windows;mac;linux";"Action;Strategy";262;63;152;3.99
+252230;"YAIBA: NINJA GAIDEN Z";"2014-03-21";"windows";"Action;Adventure";247;120;68;22.99
+252250;"Maia";"2018-11-23";"windows;mac;linux";"Indie;Simulation;Strategy";462;463;19;17.98
+252270;"Zombie Tycoon 2: Brainhov's Revenge";"2013-12-09";"windows";"Action;Indie;Strategy";166;89;133;3.99
+252290;"Elegy for a Dead World";"2014-12-10";"windows;mac;linux";"Adventure;Indie";173;89;3;10.99
+252310;"Syder Arcade";"2013-10-24";"windows;mac;linux";"Action;Indie";533;92;173;6.99
+252330;"Slender: The Arrival";"2013-10-28";"windows;mac";"Action;Adventure;Indie";4468;578;46;6.99
+252350;"Double Dragon: Neon";"2014-02-06";"windows";"Action;Indie";1520;449;182;6.99
+252390;"DwarfCorp";"2019-02-01";"windows;mac;linux";"Indie;Simulation;Strategy";68;43;0;14.99
+252410;"SteamWorld Dig";"2013-12-05";"windows;mac;linux";"Action;Adventure;Indie";4095;311;169;6.99
+252430;"Dusty Revenge:Co-Op Edition";"2014-02-17";"windows;mac";"Action;Indie";70;100;0;10.99
+252450;"StarDrive 2";"2015-04-09";"windows;mac;linux";"Indie;Strategy";967;758;833;22.99
+252470;"Space Pirates And Zombies 2";"2017-11-07";"windows;mac;linux";"Action;Adventure;Indie;RPG;Simulation;Strategy";1667;437;1244;14.99
+252490;"Rust";"2018-02-08";"windows;mac";"Action;Adventure;Indie;Massively Multiplayer;RPG";220370;53709;9352;27.79
+252530;"OMSI 2: Steam Edition";"2013-12-11";"windows";"Casual;Simulation";2717;803;7999;27.11
+252550;"Qbeh-1: The Atlas Cube";"2014-05-15";"windows;mac";"Adventure;Casual;Indie";515;67;0;7.19
+252570;"Depths of Fear :: Knossos";"2014-04-24";"windows;mac";"Action;Adventure;Indie";258;140;0;4.79
+252610;"Death Road to Canada";"2016-07-21";"windows;mac;linux";"Action;Indie;RPG";3307;234;1139;10.99
+252630;"Eldritch Reanimated";"2013-10-21";"windows;mac;linux";"Action;Adventure;Indie;RPG";1556;210;186;9.99
+252670;"Nihilumbra";"2013-10-25";"windows;mac;linux";"Adventure;Casual;Indie";2268;272;260;4.99
+252690;"Fantasy Grounds";"2014-05-09";"windows;mac";"Indie;RPG;Strategy";377;100;43074;29.99
+252710;"The Last Express Gold Edition";"2013-11-21";"windows;mac";"Adventure";164;36;1;4.99
+252730;"YOU DON'T KNOW JACK Vol. 1 XL";"2013-11-05";"windows";"Casual;Indie";95;35;0;1.99
+252750;"MouseCraft";"2014-07-08";"windows;mac;linux";"Action;Adventure;Casual;Indie;Strategy";210;25;0;6.99
+252830;"Claire";"2014-07-07";"windows;mac";"Action;Adventure;Indie";217;94;0;6.99
+252870;"PULSAR: Lost Colony";"2015-09-15";"windows;mac;linux";"Action;Adventure;Indie;Simulation;Early Access";1989;212;1159;19.49
+252890;"Dracula: Love Kills";"2013-10-29";"windows";"Adventure;Casual";100;23;0;6.99
+252910;"Skyscraper Simulator";"2013-10-21";"windows";"Simulation";63;349;44;2.09
+252950;"Rocket League®";"2015-07-07";"windows;mac;linux";"Action;Indie;Racing;Sports";242561;21816;5825;14.99
+252970;"McDROID";"2014-09-05";"windows;mac;linux";"Action;Indie;Strategy";100;31;0;6.99
+253030;"Race The Sun";"2013-12-09";"windows;mac;linux";"Action;Indie;Racing";5258;343;172;6.99
+253110;"The Cat Lady";"2013-12-04";"windows";"Adventure;Indie";3446;246;229;7.19
+253150;"Halfway";"2014-07-22";"windows;mac;linux";"Action;Indie;RPG;Strategy";429;123;430;9.99
+253230;"A Hat in Time";"2017-10-05";"windows;mac";"Adventure;Indie";14019;292;377;22.99
+253250;"Stonehearth";"2018-07-25";"windows;mac";"Indie;Simulation;Strategy";5242;1719;644;15.49
+253290;"FOTONICA";"2014-11-06";"windows;mac;linux";"Action;Indie";598;82;432;10.99
+253330;"Neverending Nightmares";"2014-09-26";"windows;mac;linux";"Action;Adventure;Indie";1505;517;248;10.99
+253350;"Tiny Barbarian DX";"2013-12-03";"windows;mac;linux";"Action;Adventure";172;31;0;22.99
+253370;"Axis Game Factory's AGFPRO v3";"2013-11-19";"windows;mac;linux";"Animation & Modeling;Design & Illustration;Education;Software Training;Utilities";233;128;198;7.19
+253390;"Hot Tin Roof: The Cat That Wore A Fedora";"2015-02-20";"windows;mac;linux";"Action;Adventure;Indie;RPG";111;59;247;10.99
+253410;"Ravensword: Shadowlands";"2013-12-06";"windows;mac;linux";"Action;Adventure;Indie;RPG";221;236;0;4.99
+253430;"CastleMiner Z";"2014-02-03";"windows";"Violent;Action;Adventure;Indie";4478;1831;192;2.79
+253490;"CABAL Online";"2016-02-17";"windows";"Action;Free to Play;Massively Multiplayer;RPG";495;277;3;0.0
+253510;"WARMACHINE: Tactics";"2014-11-20";"windows";"Indie;Strategy";459;560;273;0.0
+253570;"Gentlemen!";"2013-11-05";"windows;mac;linux";"Action;Indie";50;83;8;3.99
+253610;"Wrack";"2014-09-30";"windows";"Action;Indie";371;137;48;6.99
+253690;"Tiny Brains";"2013-12-11";"windows";"Action;Adventure;Casual;Indie";337;94;132;7.19
+253710;"theHunter Classic";"2014-06-03";"windows";"Action;Adventure;Free to Play;Simulation;Sports";11440;15403;163;0.0
+253750;"Ikaruga";"2014-02-18";"windows";"Action;Indie";1398;70;454;6.99
+253770;"Bus-Simulator 2012";"2013-11-22";"windows";"Simulation";313;552;47;7.19
+253790;"rymdkapsel";"2014-01-30";"windows;mac;linux";"Indie;Strategy";168;36;495;5.59
+253840;"Shantae: Half-Genie Hero";"2016-12-20";"windows";"Action;Adventure;Indie";1704;160;309;14.99
+253860;"Earth 2140";"2013-11-15";"windows;mac";"Strategy";110;87;255;3.99
+253880;"Earth 2150 Trilogy";"2013-11-01";"windows;mac";"Strategy";320;117;342;4.99
+253900;"Knights and Merchants";"2013-10-14";"windows;mac;linux";"Simulation;Strategy";2341;515;239;4.99
+253960;"Jack Orlando: Director's Cut";"2013-10-04";"windows;mac;linux";"Adventure";194;111;297;3.99
+253980;"Enclave";"2013-10-04";"windows;mac;linux";"RPG";4076;1139;213;3.99
+254060;"KnightShift";"2013-09-27";"windows;mac";"RPG;Strategy";467;316;254;4.99
+254080;"World War III: Black Gold";"2013-09-27";"windows;mac";"Strategy";247;196;290;3.99
+254200;"FortressCraft Evolved!";"2015-11-09";"windows;mac;linux";"Adventure;Casual;Indie;RPG;Simulation;Strategy";1775;622;2902;9.99
+254300;"Dofus";"2016-11-15";"windows";"Adventure;Massively Multiplayer;RPG;Strategy";264;102;244;0.0
+254320;"Duskers";"2016-05-18";"windows;mac;linux";"Indie;Strategy";946;122;0;14.99
+254440;"Pool Nation";"2013-10-18";"windows";"Casual;Indie;Simulation;Sports;Strategy";2295;253;1047;5.19
+254460;"Obscure";"2014-03-10";"windows";"Action;Adventure";685;55;0;4.99
+254480;"Obscure II (Obscure: The Aftermath)";"2014-03-10";"windows";"Action;Adventure";263;66;0;6.99
+254590;"Theme Park Studio";"2016-12-02";"windows";"Indie;Simulation";222;244;0;22.99
+254700;"resident evil 4 / biohazard 4";"2014-02-27";"windows";"Action;Adventure";11260;2172;1073;14.99
+254820;"Ground Control Anthology";"2015-07-08";"windows";"Strategy";57;10;0;3.99
+254840;"Ground Control II: Operation Exodus";"2015-07-08";"windows";"Strategy";99;18;0;3.99
+254860;"Lords of the Realm III";"2015-12-03";"windows";"Simulation;Strategy";8;13;0;3.99
+254880;"MoonBase Commander";"2014-02-06";"windows";"Strategy";101;10;0;4.79
+254920;"Lords of the Realm";"2015-12-03";"windows";"Strategy";27;7;0;1.59
+254960;"Silent Storm Gold Edition";"2013-10-02";"windows";"Action;RPG;Strategy";572;65;39;8.99
+255070;"Abyss Odyssey";"2014-07-15";"windows";"Action;Adventure;Indie";1349;816;173;10.99
+255220;"GRID Autosport";"2014-06-26";"windows;mac;linux";"Racing;Sports";4969;1610;228;24.99
+255260;"Pro Cycling Manager 2014";"2014-06-19";"windows";"Simulation";158;82;0;6.99
+255280;"1954 Alcatraz";"2014-03-11";"windows";"Adventure;Indie";695;259;232;6.99
+255300;"Journey of a Roach";"2013-11-04";"windows;mac;linux";"Adventure;Indie";1022;142;280;5.99
+255320;"Edna & Harvey: The Breakout";"2013-10-25";"windows";"Adventure;Indie";767;162;186;11.99
+255340;"Escape Goat 2";"2014-03-24";"windows;mac;linux";"Action;Casual;Indie";300;9;0;6.99
+255370;"KickBeat Steam Edition";"2014-01-20";"windows";"Action;Indie";474;251;195;6.99
+255390;"Max: The Curse of Brotherhood";"2014-05-21";"windows";"Adventure";968;53;0;10.99
+255420;"Magic 2015 - Duels of the Planeswalkers";"2014-07-16";"windows";"Strategy";1768;2225;1986;6.99
+255710;"Cities: Skylines";"2015-03-10";"windows;mac;linux";"Simulation;Strategy";67553;6005;3225;22.99
+255870;"PixelJunk™ Shooter";"2013-11-11";"windows;mac;linux";"Action";437;47;221;6.99
+255940;"The 11th Hour";"2013-10-18";"windows;mac";"Adventure";63;74;1;4.79
+255960;"Bad Mojo Redux";"2014-07-03";"windows";"Adventure;Simulation";77;13;2;4.79
+256010;"Jagged Alliance Flashback";"2014-10-21";"windows;mac;linux";"Indie;RPG;Strategy";316;374;269;14.99
+256030;"Shadows: Heretic Kingdoms";"2014-11-20";"windows";"Indie;RPG";227;135;0;29.99
+256070;"Truck Racer";"2013-10-18";"windows";"Racing";127;45;0;6.99
+256190;"Enemy Front";"2014-06-10";"windows";"Action";2213;1307;116;15.99
+256290;"Child of Light";"2014-04-29";"windows";"RPG";9980;747;605;12.49
+256330;"WRC 4 FIA World Rally Championship";"2013-10-25";"windows";"Racing";557;315;0;24.99
+256370;"MXGP - The Official Motocross Videogame";"2014-03-28";"windows";"Racing;Simulation;Sports";647;183;0;7.19
+256390;"MotoGP™14";"2014-06-20";"windows";"Racing;Simulation;Sports";202;217;309;7.19
+256460;"Cosmic Star Heroine";"2017-04-11";"windows";"Indie;RPG";383;42;283;10.99
+257030;"Project Nimbus";"2017-09-26";"windows;mac";"Action;Indie";888;127;187;15.49
+257050;"Darkout";"2013-12-04";"windows";"Action;Adventure;Indie";409;388;270;9.99
+257120;"Not The Robots";"2013-12-12";"windows;mac;linux";"Action;Indie;Strategy";428;108;107;6.99
+257170;"Rebuild 3: Gangs of Deadsville";"2015-05-29";"windows;mac";"Indie;Simulation;Strategy";928;163;6704;10.99
+257220;"Secret Files: Sam Peters";"2013-10-18";"windows";"Adventure";77;39;0;7.99
+257260;"Inherit the Earth: Quest for the Orb";"2014-11-26";"windows;mac;linux";"Adventure;Casual";61;4;3;4.79
+257350;"Baldur's Gate II: Enhanced Edition";"2013-11-15";"windows;mac;linux";"RPG;Strategy";2600;423;1163;14.99
+257510;"The Talos Principle";"2014-12-11";"windows;mac;linux";"Action;Adventure;Indie";17237;785;230;29.99
+257630;"Blast Em!";"2014-01-22";"windows;mac";"Action;Indie";134;152;0;0.79
+257670;"Elder Sign: Omens";"2013-11-27";"windows;mac;linux";"Casual;Indie;Strategy";190;54;0;4.79
+257690;"J.U.L.I.A.: Among the Stars";"2014-09-12";"windows;mac;linux";"Adventure;Indie";609;102;1;14.99
+257710;"Max Gentlemen";"2014-08-21";"windows;mac;linux";"Casual;Free to Play;Indie";805;117;49;0.0
+257730;"Infinity Wars: Animated Trading Card Game";"2014-09-05";"windows;mac";"Free to Play;Indie;Massively Multiplayer;Strategy";2619;690;153;0.0
+257750;"Bloody Trapland";"2013-11-18";"windows";"Action;Adventure;Casual;Indie";2489;497;207;6.99
+257770;"Signal Ops";"2013-11-18";"windows;linux";"Action;Indie;Strategy";49;34;0;7.19
+257790;"Riptide GP2";"2014-03-07";"windows";"Action;Indie;Racing;Simulation;Sports";337;46;0;4.99
+257830;"Violett Remastered";"2013-12-13";"windows;mac;linux";"Adventure;Indie";447;259;74;6.99
+257850;"Hyper Light Drifter";"2016-03-31";"windows;mac;linux";"Action;Adventure;Indie;RPG";11027;721;275;14.99
+257870;"Eschalon: Book III";"2014-02-14";"windows;mac;linux";"Adventure;Indie;RPG";44;14;0;6.99
+257970;"Loren The Amazon Princess";"2014-01-15";"windows;mac;linux";"Indie;RPG";388;92;392;14.99
+257990;"Oozi: Earth Adventure";"2013-12-05";"windows";"Casual;Indie";574;99;194;3.99
+258010;"Ring Runner: Flight of the Sages";"2013-11-19";"windows";"Action;Indie;RPG";593;112;231;3.99
+258050;"Survivor Squad";"2015-01-21";"windows;mac;linux";"Action;Indie;Strategy";536;268;134;2.99
+258070;"Probability 0";"2014-06-12";"windows;mac";"Action;Indie";40;11;0;4.99
+258090;"99 Spirits";"2013-11-12";"windows";"Adventure;Indie;RPG";214;147;380;6.99
+258180;"Deus Ex: The Fall";"2014-03-17";"windows";"Action;Adventure;RPG";990;2101;81;7.99
+258200;"Talisman: Prologue";"2013-10-14";"windows";"Indie;RPG;Strategy";187;143;231;4.99
+258220;"Blood Knights";"2013-11-13";"windows";"Action;RPG";437;277;773;6.99
+258520;"The Vanishing of Ethan Carter";"2014-09-25";"windows";"Adventure;Indie";6917;849;185;14.99
+258590;"Adventure Time: Finn and Jake's Epic Quest";"2014-04-11";"windows";"Action;Adventure";318;107;0;6.99
+258760;"Scania Truck Driving Simulator";"2014-02-27";"windows";"Indie;Simulation";830;253;330;6.99
+258880;"Professional Farmer 2014";"2013-11-27";"windows";"Simulation";264;320;967;14.99
+258890;"Type:Rider";"2013-11-06";"windows;mac;linux";"Indie";1123;281;0;3.99
+258910;"Citizens of Earth";"2015-01-20";"windows";"RPG";241;69;529;9.99
+258950;"Montague's Mount";"2013-11-19";"windows;mac;linux";"Adventure;Indie";241;168;125;3.99
+258970;"Gauntlet™ Slayer Edition";"2014-09-23";"windows";"Action;Adventure;RPG";4997;1407;152;14.99
+259020;"Dragon's Prophet";"2013-09-18";"windows";"Action;Free to Play;Massively Multiplayer;RPG";594;267;152;0.0
+259060;"Dominions 4: Thrones of Ascension";"2013-12-05";"windows;mac;linux";"Indie;Strategy";1208;113;74;26.99
+259080;"Just Cause 2: Multiplayer Mod";"2013-12-16";"windows";"Action;Adventure";12261;1099;431;0.0
+259130;"Wasteland 1 - The Original Classic";"2013-11-13";"windows;mac;linux";"Adventure;Indie;RPG;Strategy";243;65;82;4.49
+259170;"Alone in the Dark";"2013-10-29";"windows";"Action;Adventure";199;304;86;6.99
+259190;"Alone in the Dark: The New Nightmare";"2013-10-29";"windows";"Action;Adventure";149;103;6;4.99
+259320;"Heli Heroes";"2013-11-01";"windows";"Action;Casual";146;174;282;3.99
+259340;"Chicken Shoot Gold";"2003-11-01";"windows;mac";"Action;Casual;Indie";139;108;326;4.99
+259390;"Ballpoint Universe - Infinite";"2013-12-17";"windows;mac;linux";"Action;Indie";483;144;504;2.79
+259410;"Sneaky Sneaky";"2014-11-12";"windows;mac";"Adventure;Casual;Indie;RPG;Strategy";234;28;82;3.99
+259450;"Drifter";"2014-03-04";"windows;mac;linux";"Action;Indie;Simulation;Early Access";112;63;0;8.99
+259470;"Particulars";"2014-11-19";"windows;mac;linux";"Indie";55;25;206;4.79
+259510;"Shufflepuck Cantina Deluxe";"2013-12-06";"windows;mac;linux";"Action;Indie;Sports";415;75;346;7.19
+259550;"Hero of the Kingdom";"2013-11-14";"windows;mac;linux";"Adventure;Casual;Indie;RPG";2936;237;306;4.79
+259570;"EDEN STAR";"2015-01-30";"windows";"Action;Adventure;Indie;Strategy;Early Access";642;210;195;14.99
+259600;"Finding Teddy";"2013-12-03";"windows;mac;linux";"Adventure;Indie";709;147;139;5.99
+259620;"3079 -- Block Action RPG";"2013-11-14";"windows;mac;linux";"Action;Indie;RPG";231;231;204;3.99
+259640;"Guise Of The Wolf";"2014-01-24";"windows";"Action;Adventure;Indie";66;133;0;1.99
+259660;"Void Destroyer";"2015-01-20";"windows";"Action;Adventure;Indie;Simulation;Strategy";196;112;9;7.19
+259680;"Tales of Maj'Eyal";"2013-12-12";"windows;mac;linux";"Adventure;Indie;RPG";2748;133;7117;4.99
+259720;"Fading Hearts";"2014-02-05";"windows;mac;linux";"Adventure;Indie;Simulation";137;68;0;11.39
+259740;"Nightmares from the Deep: The Cursed Heart";"2014-02-05";"windows;mac;linux";"Adventure;Casual";1099;84;61;6.99
+259810;"Home Sheep Home 2";"2014-02-17";"windows";"Action;Adventure;Casual;Indie";104;5;13;6.99
+259830;"Wooden Sen'SeY";"2013-12-05";"windows;mac;linux";"Action;Indie";62;48;121;6.99
+259870;"OMG Zombies!";"2014-02-13";"windows";"Action;Strategy";269;66;422;3.99
+259890;"Agricultural Simulator: Historical Farming";"2013-11-06";"windows";"Simulation";63;191;191;6.99
+259910;"Farming Giant";"2013-11-06";"windows";"Simulation";47;172;20;1.69
+259940;"YOU DON'T KNOW JACK Vol. 2";"2013-11-05";"windows";"Casual;Indie";25;11;0;1.99
+259960;"YOU DON'T KNOW JACK Vol. 3";"2013-11-05";"windows";"Casual;Indie";29;3;0;1.99
+259980;"YOU DON'T KNOW JACK Vol. 4 The Ride";"2013-11-05";"windows";"Casual;Indie";56;11;0;1.99
