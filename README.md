@@ -80,6 +80,7 @@ Select avg(avaliacoes_positivas)  from steam_main WHERE plataforma = 'mac';
 Select avg(avaliacoes_positivas)  from steam_main WHERE plataforma = 'windows';
 ```
 ## Quais jogos mais jogados da Steam ?
+![image](https://user-images.githubusercontent.com/112560788/212588155-ab71790d-47cd-4898-8a77-303f55a3bd02.png)
 
 ```sh
 SELECT * FROM steam_main ORDER BY media_tempo_jogado DESC LIMIT 10;
