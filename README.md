@@ -41,6 +41,8 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 
 ## Quantos jogos existem na Steam?
 ![image](https://user-images.githubusercontent.com/112560788/212587183-67a8980e-bf32-4ed2-9cc8-d1ea3611a316.png)
+
+
 ```sh
 SELECT COUNT(nome) FROM steam_main;
 
@@ -49,12 +51,16 @@ SELECT COUNT(nome) FROM steam_main;
 ## Top 10 jogos mais caros lançados:
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
 
+
+
 ```sh
 SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
 ```
 
 ## Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas?
 ![image](https://user-images.githubusercontent.com/112560788/212587919-71f917cf-b460-4a28-81c5-d712df9f4a02.png)
+
+
 
 ```sh
 Select * from steam_main Where plataforma = 'Windows;mac';
@@ -63,12 +69,17 @@ Select * from steam_main Where plataforma = 'Windows';
 ```
 ## Top 10 jogos mais bem avaliados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
+
+
+
 ```sh
 SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ```
 
 ## Top 10 jogos mais jogados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212588155-ab71790d-47cd-4898-8a77-303f55a3bd02.png)
+
+
 
 ```sh
 SELECT * FROM steam_main ORDER BY media_tempo_jogado DESC LIMIT 10;
