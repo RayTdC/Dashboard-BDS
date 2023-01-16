@@ -24,7 +24,7 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
  
 
 
- <h1 id="linguagens">A Steam</h1> <h4>🕹️Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <br>
+ <h1 align="center"">A Steam</h1> <h4>🕹️Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <br>
 <br>☁️A Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h4>
 
 
