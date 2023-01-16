@@ -24,8 +24,8 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
  
 
 
- <h1 id="linguagens">O Steam</h1> <h4>🕹️Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <br>
-<br>☁️O Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h4>
+ <h1 id="linguagens">A Steam</h1> <h4>🕹️Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <br>
+<br>☁️A Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h4>
 
 
 ![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
@@ -39,7 +39,7 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   - [x] Teams
 
 
-
+<div align="center">
 <h1  align="center">Diagrama relacional</h1>
 <br>
 
@@ -50,7 +50,8 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 <br>
 
 
-## Quantos jogos existem na Steam?
+<h1  align="center"> Quantos jogos existem na Steam? </h1>
+
 ![image](https://user-images.githubusercontent.com/112560788/212587183-67a8980e-bf32-4ed2-9cc8-d1ea3611a316.png)
 
 ## Consultar mySQL:
@@ -63,7 +64,8 @@ SELECT COUNT(nome) FROM steam_main;
 ![image](https://user-images.githubusercontent.com/112560788/212599100-1f2be780-8d50-4387-b904-742df0431edd.png)
 <br>
 
-## Top 10 jogos mais caros lançados:
+<h1  align="center"> Top 10 jogos mais caros lançados:</h1>
+
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
 
 
@@ -78,8 +80,9 @@ SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
 ![image](https://user-images.githubusercontent.com/112560788/212598922-dc2d7fd2-65dc-4dd3-922e-2f0c57b79717.png)
 <br>
 
-## Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas?
-![image](https://user-images.githubusercontent.com/112560788/212587919-71f917cf-b460-4a28-81c5-d712df9f4a02.png)
+<h1  align="center"> Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas? </h1>
+
+![image](https://user-images.githubusercontent.com/112560788/212587919-71f917cf-b460-4a28-81c5-d712df9f4a02.png)</h1>
 
 
 ## Consultar mySQL:
@@ -95,7 +98,8 @@ Select * from steam_main Where plataforma = 'Windows';
 ![image](https://raw.githubusercontent.com/RayTdC/Dashboard-BDS/main/retorno%20das%20consultas/cut/jogos_windows.png)
 <br>
 
-## Top 10 jogos mais bem avaliados da Steam ?
+<h1  align="center"> Top 10 jogos mais bem avaliados da Steam ?</h1>
+
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
 
 ## Consultar mySQL:
@@ -108,7 +112,8 @@ SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ![image](https://user-images.githubusercontent.com/112560788/212600285-141df64a-d047-48c4-b2cf-9297b8e89c73.png)
 <br>
 
-## Top 10 jogos mais jogados da Steam ?
+<h1  align="center"> Top 10 jogos mais jogados da Steam ? </h1>
+
 ![image](https://user-images.githubusercontent.com/112560788/212588155-ab71790d-47cd-4898-8a77-303f55a3bd02.png)
 
 
