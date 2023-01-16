@@ -18,14 +18,14 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   <h3>🏗️ Estruturar o esquema do banco de dados:</h3> A partir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Não é necessário mapear todas as colunas de todas as tabelas. Manter implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo.<br>
   <h3>🔌 Realizar carga no banco:</h3> Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.<br>
   <h3>🌩️ Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados:</h3> Analise o conjunto de dados selecionado para que as perguntas sejam pertinentes. As perguntas geradas nesta etapa impactam diretamente as demais.<br>
-  <h3>🌳 Criar visualizações:</h3> Com base nas perguntas elaboradas (aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)<br>
-  <h3>🧩 Montar uma apresentação:</h3> A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação.
+  <h3>🌳 Criar visualizações:</h3> Com base nas perguntas elaboradas aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc) para criar uma visualização dos dados.<br>
+  <h3>🧩 Montar uma apresentação:</h3> A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação de slides e planejamento de apresentação.
  <br>
  
 
 
  <h1 id="linguagens">O Steam</h1> <h4>🕹️Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <br>
-☁️O Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h4>
+<br>☁️O Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h4>
 
 
 ![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
@@ -46,7 +46,7 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 ![download](https://user-images.githubusercontent.com/112560788/212666237-3030898b-6f5d-4fd9-ba28-ca15d0550afa.png)
 
 
-<h1  align="center">Perguntas Realizadas</h1>
+<h1  align="center">🤔 Perguntas Realizadas 🤔</h1>
 <br>
 
 
