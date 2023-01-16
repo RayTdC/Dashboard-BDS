@@ -45,7 +45,9 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 ## Quantos jogos existem na Steam?
 ![image](https://user-images.githubusercontent.com/112560788/212587183-67a8980e-bf32-4ed2-9cc8-d1ea3611a316.png)
 
+##Retorno da consulta
 
+![image](https://user-images.githubusercontent.com/112560788/212599100-1f2be780-8d50-4387-b904-742df0431edd.png)
 
 ```sh
 SELECT COUNT(nome) FROM steam_main;
