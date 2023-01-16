@@ -59,7 +59,7 @@ SELECT COUNT(nome) FROM steam_main;
 
 ```
 
-## Retorno da consulta
+## Retorno da consulta ✔
 ![image](https://user-images.githubusercontent.com/112560788/212599100-1f2be780-8d50-4387-b904-742df0431edd.png)
 <br>
 
@@ -73,7 +73,7 @@ SELECT COUNT(nome) FROM steam_main;
 SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
 ```
 
-## Retorno da consulta
+## Retorno da consulta ✔
 
 ![image](https://user-images.githubusercontent.com/112560788/212598922-dc2d7fd2-65dc-4dd3-922e-2f0c57b79717.png)
 <br>
@@ -88,7 +88,7 @@ Select * from steam_main Where plataforma = 'Windows;mac';
 Select * from steam_main Where plataforma = 'mac';
 Select * from steam_main Where plataforma = 'Windows';
 ```
-## Retorno da consulta
+## Retorno da consulta ✔
 
 ![image](https://raw.githubusercontent.com/RayTdC/Dashboard-BDS/main/retorno%20das%20consultas/cut/jogos_windows%26mac.png)
 ![image](https://raw.githubusercontent.com/RayTdC/Dashboard-BDS/main/retorno%20das%20consultas/cut/jogos_mac.png) 
@@ -103,7 +103,7 @@ Select * from steam_main Where plataforma = 'Windows';
 SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ```
 
-## Retorno da consulta 
+## Retorno da consulta ✔
 
 ![image](https://user-images.githubusercontent.com/112560788/212600285-141df64a-d047-48c4-b2cf-9297b8e89c73.png)
 <br>
@@ -112,12 +112,12 @@ SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ![image](https://user-images.githubusercontent.com/112560788/212588155-ab71790d-47cd-4898-8a77-303f55a3bd02.png)
 
 
-## Consultar mySQL:
+## Consultar mySQL: 
 ```sh
 SELECT * FROM steam_main ORDER BY media_tempo_jogado DESC LIMIT 10;
 ```
 
-## Retorno da consulta
+## Retorno da consulta ✔
 
 ![image](https://user-images.githubusercontent.com/112560788/212601246-0bb92b76-f14a-427c-beff-2a93b05e2436.png)
 
