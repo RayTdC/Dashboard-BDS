@@ -54,6 +54,12 @@ SELECT * FROM steam_main ORDER BY data_de_lancamento ASC LIMIT 5;
 SELECT * FROM steam_main ORDER BY preco DESC LIMIT 7;
 
 ```
+## Qual é a média de preço dos jogos para as plataformas Windows e Mac?
+
+```sh
+Select avg(preco)  from steam_main WHERE plataforma = 'windows';
+Select avg(preco)  from steam_main WHERE plataforma = 'mac';
+```
 ## Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas?
 ![image](https://user-images.githubusercontent.com/112560788/212587919-71f917cf-b460-4a28-81c5-d712df9f4a02.png)
 
@@ -61,12 +67,6 @@ SELECT * FROM steam_main ORDER BY preco DESC LIMIT 7;
 Select * from steam_main Where plataforma = 'Windows;mac';
 Select * from steam_main Where plataforma = 'mac';
 Select * from steam_main Where plataforma = 'Windows';
-```
-## Qual é a média de preço dos jogos para as plataformas Windows e Mac?
-
-```sh
-Select avg(preco)  from steam_main WHERE plataforma = 'windows';
-Select avg(preco)  from steam_main WHERE plataforma = 'mac';
 ```
 ## Quais os jogos mais bem avaliados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
