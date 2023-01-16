@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DASHBOARD+-+BANCO+DE+DADOS+DA+STEAM)](https://git.io/typing-svg)
 
+
  <div align="center" id="inicio">
   &nbsp;<a href="#fim"><strong>Ir ao final</strong></a>&nbsp;
 </div>
@@ -47,6 +48,7 @@ SELECT * FROM steam_main ORDER BY data_de_lancamento ASC LIMIT 5;
 ```
 
 ## Quais são os 7 jogos mais caros lançados na Steam?
+![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
 
 ```sh
 SELECT * FROM steam_main ORDER BY preco DESC LIMIT 7;
