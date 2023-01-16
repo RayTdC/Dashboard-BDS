@@ -24,7 +24,7 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
  ![Badge](https://img.shields.io/website?down_message=em%20andamento&label=STATUS&style=for-the-badge&up_message=conclu%C3%ADdo&url=https%3A%2F%2Fytallobruno.github.io%2FProjetoFinalModulo2%2F)
  
  
- <h2 id="linguagens">O Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Foi uma das primeiras de seu gênero a ser lançada e permite que consumidores comprem ou ativem jogos dentro do serviço.</h2>
+ <h2 id="linguagens">A Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Foi uma das primeiras de seu gênero a ser lançada e permite que consumidores comprem ou ativem jogos dentro do serviço.</h2>
 
 ![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
 
