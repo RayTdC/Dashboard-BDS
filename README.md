@@ -21,12 +21,11 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   <h3>🌳 Criar visualizações:</h3> Com base nas perguntas elaboradas (aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)<br>
   <h3>🧩 Montar uma apresentação:</h3> A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação.
  <br>
- <br>
- <Br>
+ 
 
 
- <h1 align="center">O Steam</h1> <p>🕹️ Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <p/>
-☁️O Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.
+ <h1 id="linguagens">O Steam</h1> <h4>🕹️Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. <br>
+☁️O Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h4>
 
 
 ![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
@@ -39,44 +38,44 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   - [x] Prezi
   - [x] Teams
 
-<h1  align="center">🤔Perguntas Realizadas🤔</h1>
+<h1  align="center">Perguntas Realizadas</h1>
 <br>
 
 
 ## Quantos jogos existem na Steam?
 ![image](https://user-images.githubusercontent.com/112560788/212587183-67a8980e-bf32-4ed2-9cc8-d1ea3611a316.png)
 
-<h3>Consulta mySQL:</h3>
-
+Consultar mySQL:
 ```sh
 SELECT COUNT(nome) FROM steam_main;
 
 ```
-<h3>Retorno da consulta:</h3>
 
+
+## Retorno da consulta
 ![image](https://user-images.githubusercontent.com/112560788/212599100-1f2be780-8d50-4387-b904-742df0431edd.png)
 
-<br>
 
 ## Top 10 jogos mais caros lançados:
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
 
+
+
+Consultar mySQL:
+```sh
+SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
+```
 
 ## Retorno da consulta
 
 ![image](https://user-images.githubusercontent.com/112560788/212598922-dc2d7fd2-65dc-4dd3-922e-2f0c57b79717.png)
 
 
-
-```sh
-SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
-```
-
 ## Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas?
 ![image](https://user-images.githubusercontent.com/112560788/212587919-71f917cf-b460-4a28-81c5-d712df9f4a02.png)
 
 
-
+Consultar mySQL:
 ```sh
 Select * from steam_main Where plataforma = 'Windows;mac';
 Select * from steam_main Where plataforma = 'mac';
@@ -85,23 +84,29 @@ Select * from steam_main Where plataforma = 'Windows';
 ## Top 10 jogos mais bem avaliados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
 
+Consultar mySQL:
+```sh
+SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
+```
+
+
 ##Retorno da consulta
 
 ![image](https://user-images.githubusercontent.com/112560788/212600285-141df64a-d047-48c4-b2cf-9297b8e89c73.png)
 
 
-```sh
-SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
-```
-
 ## Top 10 jogos mais jogados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212588155-ab71790d-47cd-4898-8a77-303f55a3bd02.png)
 
 
-
+Consultar mySQL:
 ```sh
 SELECT * FROM steam_main ORDER BY media_tempo_jogado DESC LIMIT 10;
 ```
+
+## Retorno da consulta
+
+![image](https://user-images.githubusercontent.com/112560788/212601246-0bb92b76-f14a-427c-beff-2a93b05e2436.png)
 
 <div align="center" id="fim">
   &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
