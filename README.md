@@ -8,23 +8,23 @@
 
 
 
-<h2 id="sobre">Sobre o projeto🔎</h2>
+<h2 id="sobre">Sobre o projeto 🔎</h2>
 Nesse projeto o squad montou
 um dashboard com base no conjunto de dados
 escolhidos por nós, a fim de realizar uma
 apresentação com a exploração dos dados. Explicaremos quais as perguntas, por que elas são relevantes e as consultas sql que respondem elas.</p>
-  <p> Os objetivos principais eram: </p>
+  <h2> Os objetivos principais 🎯 </h2>
   
-  🕹️ Estruturar o esquema do banco de dados: A partir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Não é necessário mapear todas as colunas de todas as tabelas. Manter implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo.<br>
-  🕹️ Realizar carga no banco: Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.<br>
-  🕹️ Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados: Analise o conjunto de dados selecionado para que as perguntas sejam pertinentes. As perguntas geradas nesta etapa impactam diretamente as demais.<br>
-  🕹️ Criar visualizações dos dados com base nas perguntas elaboradas (aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)<br>
-  🕹️ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado.
- 
+  <h3>🏗️ Estruturar o esquema do banco de dados:</h3> A partir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Não é necessário mapear todas as colunas de todas as tabelas. Manter implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo.<br>
+  <h3>🔌 Realizar carga no banco:</h3> Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.<br>
+  <h3>🕹️ Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados:</h3> Analise o conjunto de dados selecionado para que as perguntas sejam pertinentes. As perguntas geradas nesta etapa impactam diretamente as demais.<br>
+  <h3>🕹️ Criar visualizações:</h3> Com base nas perguntas elaboradas (aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)<br>
+  <h3>🕹️ Montar uma apresentação:</h3> A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação.
+ <br>
  ![Badge](https://img.shields.io/website?down_message=em%20andamento&label=STATUS&style=for-the-badge&up_message=conclu%C3%ADdo&url=https%3A%2F%2Fytallobruno.github.io%2FProjetoFinalModulo2%2F)
  
  
- <h2 id="linguagens">O Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Foi uma das primeiras de seu gênero a ser lançada e permite que consumidores comprem ou ativem jogos dentro do serviço.</h2>
+ <h2 id="linguagens">O Steam</h2> é uma plataforma de jogos digitais para computadores Windows, macOS e Linux, sendo uma das primeiras de seu gênero. Permite compra e ativação de jogos dentro do serviço..</h2>
 
 ![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
 
