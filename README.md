@@ -87,9 +87,10 @@ SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
 
 ## Consultar mySQL:
 ```sh
-Select * from steam_main Where plataforma = 'Windows;mac';
 Select * from steam_main Where plataforma = 'mac';
 Select * from steam_main Where plataforma = 'Windows';
+Select * from steam_main Where plataforma = 'Windows;mac';
+
 ```
 ## Retorno da consulta ✔
 
