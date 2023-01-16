@@ -41,25 +41,13 @@ SELECT COUNT(nome) FROM steam_main;
 
 ```
 
-## Quais os primeiros jogos lançados na plataforma?
-
-```sh
-SELECT * FROM steam_main ORDER BY data_de_lancamento ASC LIMIT 5;
-```
-
-## Quais são os 7 jogos mais caros lançados na Steam?
+## Top 10 jogos mais caros lançados:
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
 
 ```sh
-SELECT * FROM steam_main ORDER BY preco DESC LIMIT 7;
-
+SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
 ```
-## Qual é a média de preço dos jogos para as plataformas Windows e Mac?
 
-```sh
-Select avg(preco)  from steam_main WHERE plataforma = 'windows';
-Select avg(preco)  from steam_main WHERE plataforma = 'mac';
-```
 ## Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas?
 ![image](https://user-images.githubusercontent.com/112560788/212587919-71f917cf-b460-4a28-81c5-d712df9f4a02.png)
 
@@ -68,18 +56,13 @@ Select * from steam_main Where plataforma = 'Windows;mac';
 Select * from steam_main Where plataforma = 'mac';
 Select * from steam_main Where plataforma = 'Windows';
 ```
-## Quais os jogos mais bem avaliados da Steam ?
+## Top 10 jogos mais bem avaliados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
 ```sh
 SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ```
-## Qual é a média de avaliações por plataformas Windows e Mac?
 
-```sh
-Select avg(avaliacoes_positivas)  from steam_main WHERE plataforma = 'mac';
-Select avg(avaliacoes_positivas)  from steam_main WHERE plataforma = 'windows';
-```
-## Quais jogos mais jogados da Steam ?
+## Top 10 jogos mais jogados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212588155-ab71790d-47cd-4898-8a77-303f55a3bd02.png)
 
 ```sh
