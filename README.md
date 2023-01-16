@@ -17,14 +17,12 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   
   <h3>🏗️ Estruturar o esquema do banco de dados:</h3> A partir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Não é necessário mapear todas as colunas de todas as tabelas. Manter implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo.<br>
   <h3>🔌 Realizar carga no banco:</h3> Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.<br>
-  <h3>🕹️ Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados:</h3> Analise o conjunto de dados selecionado para que as perguntas sejam pertinentes. As perguntas geradas nesta etapa impactam diretamente as demais.<br>
-  <h3>🕹️ Criar visualizações:</h3> Com base nas perguntas elaboradas (aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)<br>
-  <h3>🕹️ Montar uma apresentação:</h3> A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação.
+  <h3>🌩️ Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados:</h3> Analise o conjunto de dados selecionado para que as perguntas sejam pertinentes. As perguntas geradas nesta etapa impactam diretamente as demais.<br>
+  <h3>🌳 Criar visualizações:</h3> Com base nas perguntas elaboradas (aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)<br>
+  <h3>🧩 Montar uma apresentação:</h3> A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação.
  <br>
- ![Badge](https://img.shields.io/website?down_message=em%20andamento&label=STATUS&style=for-the-badge&up_message=conclu%C3%ADdo&url=https%3A%2F%2Fytallobruno.github.io%2FProjetoFinalModulo2%2F)
  
- 
- <h2 id="linguagens">O Steam</h2> é uma plataforma de jogos digitais para computadores Windows, macOS e Linux, sendo uma das primeiras de seu gênero. Permite compra e ativação de jogos dentro do serviço..</h2>
+ <h1 id="linguagens">O Steam</h1> <h3>Uma plataforma de distribuição de jogos digitais para computadores Windows, macOS e Linux. Ele foi lançado como uma das primeiras plataformas de sua categoria e oferece aos consumidores a possibilidade de comprar e ativar jogos diretamente no serviço. Além disso, o Steam possui recursos adicionais, como o sistema de jogos em nuvem, a possibilidade de jogar com amigos, acesso a comunidade de jogadores e muito mais.</h3>
 
 ![image](https://user-images.githubusercontent.com/112560788/212596140-4c7d584f-5bbf-4b5e-8664-a4c83c774664.png)
 
@@ -39,8 +37,10 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
 <h1  align="center">Perguntas Realizadas</h1>
 <br>
 
+
 ## Quantos jogos existem na Steam?
 ![image](https://user-images.githubusercontent.com/112560788/212587183-67a8980e-bf32-4ed2-9cc8-d1ea3611a316.png)
+
 
 
 ```sh
