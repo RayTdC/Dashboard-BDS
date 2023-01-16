@@ -68,7 +68,7 @@ Select avg(preco)  from steam_main WHERE plataforma = 'windows';
 Select avg(preco)  from steam_main WHERE plataforma = 'mac';
 ```
 ## Quais os jogos mais bem avaliados da Steam ?
-
+![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
 ```sh
 SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ```
