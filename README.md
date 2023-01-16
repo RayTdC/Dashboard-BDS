@@ -59,10 +59,9 @@ SELECT COUNT(nome) FROM steam_main;
 
 ```
 
-
 ## Retorno da consulta
 ![image](https://user-images.githubusercontent.com/112560788/212599100-1f2be780-8d50-4387-b904-742df0431edd.png)
-
+<br>
 
 ## Top 10 jogos mais caros lançados:
 ![image](https://user-images.githubusercontent.com/112560788/212586816-a36e4133-dac0-428b-aafb-0a273c5748fe.png)
@@ -77,7 +76,7 @@ SELECT * FROM steam_main ORDER BY preco DESC LIMIT 10;
 ## Retorno da consulta
 
 ![image](https://user-images.githubusercontent.com/112560788/212598922-dc2d7fd2-65dc-4dd3-922e-2f0c57b79717.png)
-
+<br>
 
 ## Quais jogos funcionam somente nas plataformas Windows e Mac? E nas duas?
 ![image](https://user-images.githubusercontent.com/112560788/212587919-71f917cf-b460-4a28-81c5-d712df9f4a02.png)
@@ -92,7 +91,7 @@ Select * from steam_main Where plataforma = 'Windows';
 ## Retorno da consulta
 
 ![image](https://user-images.githubusercontent.com/112560788/212663732-856575d1-2855-482f-b48f-77790a548a89.png)
-
+<br>
 
 ## Top 10 jogos mais bem avaliados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
@@ -105,7 +104,7 @@ SELECT * FROM steam_main ORDER BY avaliacoes_positivas DESC LIMIT 10;
 ## Retorno da consulta 
 
 ![image](https://user-images.githubusercontent.com/112560788/212600285-141df64a-d047-48c4-b2cf-9297b8e89c73.png)
-
+<br>
 
 ## Top 10 jogos mais jogados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212588155-ab71790d-47cd-4898-8a77-303f55a3bd02.png)
