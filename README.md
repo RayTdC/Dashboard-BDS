@@ -38,6 +38,14 @@ apresentação com a exploração dos dados. Explicaremos quais as perguntas, po
   - [x] Prezi
   - [x] Teams
 
+
+
+<h1  align="center">Diagrama relacional</h1>
+<br>
+
+![download](https://user-images.githubusercontent.com/112560788/212666237-3030898b-6f5d-4fd9-ba28-ca15d0550afa.png)
+
+
 <h1  align="center">Perguntas Realizadas</h1>
 <br>
 
