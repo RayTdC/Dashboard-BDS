@@ -81,6 +81,11 @@ Select * from steam_main Where plataforma = 'Windows;mac';
 Select * from steam_main Where plataforma = 'mac';
 Select * from steam_main Where plataforma = 'Windows';
 ```
+## Retorno da consulta
+
+![image](https://user-images.githubusercontent.com/112560788/212663732-856575d1-2855-482f-b48f-77790a548a89.png)
+
+
 ## Top 10 jogos mais bem avaliados da Steam ?
 ![image](https://user-images.githubusercontent.com/112560788/212587333-61417863-f439-4176-8e67-53b1918dce6d.png)
 
